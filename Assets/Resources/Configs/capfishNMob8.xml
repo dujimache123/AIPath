@@ -1,0 +1,1885 @@
+﻿<CapFish>
+	<Common>
+		<FishInfoConfig>
+			<FishInfo FishKindID = "0"  speed = "180" value = "2"   wight = "1.0"  length = "54.6"  width = "27.3"  radius = "27.3" circleCnt = "1" radiusMlt = "1"/>            <!--小黄鱼-->
+			<FishInfo FishKindID = "1"  speed = "135" value = "3"   wight = "1.5"  length = "63.7"  width = "41.6"  radius = "32.5" circleCnt = "1" radiusMlt = "1"/>            <!--小飞鱼-->
+			<FishInfo FishKindID = "2"  speed = "135" value = "8"   wight = "3.0"  length = "85.8"  width = "46.8"  radius = "44.2" circleCnt = "1" radiusMlt = "1"/>           <!--小丑鱼-->
+			<FishInfo FishKindID = "3"  speed = "120" value = "50"  wight = "7.0"  length = "175.5" width = "65"    radius = "39"   circleCnt = "3" radiusMlt = "1,1.3,1"/>  <!--电鳗-->
+			<FishInfo FishKindID = "4"  speed = "135" value = "4"   wight = "2.0"  length = "70.2"  width = "54.6"  radius = "35.1" circleCnt = "1" radiusMlt = "1"/>            <!--鲽鱼-->
+			<FishInfo FishKindID = "5"  speed = "80"  value = "20"  wight = "4.5"  length = "109.2" width = "70.2"  radius = "27.3" circleCnt = "3" radiusMlt = "1,1.3,1.1"/>     <!--水母-->
+			<FishInfo FishKindID = "6"  speed = "80"  value = "40"  wight = "6.0"  length = "163.8" width = "117"   radius = "81.9" circleCnt = "1" radiusMlt = "1"/>           <!--海龟-->
+			<FishInfo FishKindID = "7"  speed = "120" value = "120" wight = "11.0" length = "304.2" width = "143"   radius = "53.3" circleCnt = "6" radiusMlt = "1,1,1,0.7,0.01,1"/>    <!--海豚-->
+			<FishInfo FishKindID = "8"  speed = "80"  value = "100" wight = "10.0" length = "432.9" width = "158.6" radius = "61.1" circleCnt = "5" radiusMlt = "1,1,1,1,1"/>  <!--鲨鱼-->
+			<FishInfo FishKindID = "9"  speed = "70"  value = "500" wight = "20.0" length = "456.3" width = "226.2" radius = "65"   circleCnt = "6" radiusMlt = "1.5,1,1,0.8,0.8,0.6"/>    <!--大鲨鱼-->
+			<FishInfo FishKindID = "10" speed = "100" value = "150" wight = "12.0" length = "339.3" width = "153.4" radius = "58.5" circleCnt = "6" radiusMlt = "1,1,1,0.8,0.01,1"/>  <!--虎鲸-->
+			<FishInfo FishKindID = "11" speed = "110" value = "30"  wight = "5.5"  length = "117"   width = "45.5"  radius = "32.5" circleCnt = "3" radiusMlt = "1,1,1"/>        <!--蓝宝石-->
+			<FishInfo FishKindID = "12" speed = "135" value = "10"  wight = "3.0"  length = "123.5" width = "66.3"  radius = "58.5" circleCnt = "1" radiusMlt = "1"/>           <!--刺豚-->
+			<FishInfo FishKindID = "13" speed = "90"  value = "30"  wight = "5.5"  length = "135.2" width = "123.5" radius = "58.5" circleCnt = "1" radiusMlt = "1"/>           <!--章鱼-->
+			<FishInfo FishKindID = "14" speed = "160" value = "5"   wight = "2.0"  length = "70.2"  width = "49.4"  radius = "35.1" circleCnt = "1" radiusMlt = "1"/>            <!--神仙鱼-->
+			<FishInfo FishKindID = "15" speed = "90"  value = "20"  wight = "4.5"  length = "85.8"  width = "72.8"  radius = "42.9" circleCnt = "1" radiusMlt = "1"/>            <!--海马-->
+			<FishInfo FishKindID = "16" speed = "105" value = "30"  wight = "5.5"  length = "117"   width = "44.2"  radius = "32.5" circleCnt = "3" radiusMlt = "1,1,1"/>     <!--鲷鱼-->
+			<FishInfo FishKindID = "17" speed = "90"  value = "40"  wight = "6.0"  length = "143"   width = "91"    radius = "71.5" circleCnt = "1" radiusMlt = "1"/>  <!--比目鱼-->
+			<FishInfo FishKindID = "18" speed = "105" value = "60"  wight = "8.0"  length = "117"   width = "65"    radius = "58.5" circleCnt = "1" radiusMlt = "1"/>            <!--孔雀鱼-->
+			<FishInfo FishKindID = "19" speed = "90"  value = "60"  wight = "8.0"  length = "166.4" width = "92.3"  radius = "83.2" circleCnt = "1" radiusMlt = "1"/>    <!--灯笼鱼-->
+			<FishInfo FishKindID = "20" speed = "130" value = "80"  wight = "9.0"  length = "217.1" width = "78"    radius = "35.1" circleCnt = "5" radiusMlt = "1,1,1,1,1"/> <!--旗鱼-->
+			<FishInfo FishKindID = "21" speed = "80"  value = "80"  wight = "9.0"  length = "214.5" width = "195"   radius = "52"   circleCnt = "3" radiusMlt = "1,1.5,1"/>          <!--魔鬼鱼-->
+			<FishInfo FishKindID = "22" speed = "80"  value = "80"  wight = "9.0"  length = "163.8" width = "135.2" radius = "81.9" circleCnt = "1" radiusMlt = "1"/>       <!--狮子鱼-->
+			<FishInfo FishKindID = "23" speed = "80"  value = "180" wight = "13.0" length = "397.8" width = "156"   radius = "57.2" circleCnt = "6" radiusMlt = "1,1,1,1,1,1"/>       <!--美人鱼-->
+			<FishInfo FishKindID = "24" speed = "60"  value = "500" wight = "20.0" length = "884"   width = "416"   radius = "156"  circleCnt = "5" radiusMlt = "1,1,1,0.7,1"/>       <!--坐头鲸-->
+			<FishInfo FishKindID = "25" speed = "40"  value = "100"  wight = "10.0" length = "78"    width = "78"    radius = "39"  circleCnt = "1" radiusMlt = "1"/>       <!--水雷-->
+			<FishInfo FishKindID = "26" speed = "50"  value = "1"   wight = "1.0"  length = "104"    width = "104"    radius = "52"   circleCnt = "1" radiusMlt = "1"/>       <!--物品鱼-->
+			<FishInfo FishKindID = "27" speed = "60"  value = "1500" wight = "20.0" length = "500"   width = "185"   radius = "68"   circleCnt = "7" radiusMlt = "1,0.8,0.8,0.7,0.7,0.7,0.5"/>       <!--boss1鱼-->
+			<FishInfo FishKindID = "28" speed = "40"  value = "3000" wight = "44.0" length = "715"   width = "390"   radius = "48"  circleCnt = "9" radiusMlt = "1,1,1,1,1,0.9,1,0.9,1"/>       <!--boss2,娜迦 -->
+			<FishInfo FishKindID = "29" speed = "120" value = "6"    wight = "2.0"  length = "87.1"  width = "52"    radius = "44.2"  circleCnt = "1" radiusMlt = "1"/>       <!--鹦鹉鱼-->
+			<FishInfo FishKindID = "30" speed = "160" value = "10"   wight = "3.0"  length = "175.5" width = "175.5" radius = "84.5"  circleCnt = "1" radiusMlt = "1"/>       <!--大飞鱼-->
+			<FishInfo FishKindID = "31" speed = "40"  value = "20"    wight = "4.5"  length = "84.5"  width = "85.8"  radius = "42.9"  circleCnt = "1" radiusMlt = "1"/>       <!--海星-->
+			<FishInfo FishKindID = "32" speed = "70"  value = "60"    wight = "8"    length = "153.4" width = "78"    radius = "32.5"  circleCnt = "5" radiusMlt = "1,1,1,1,1"/>       <!--海兔-->
+			<FishInfo FishKindID = "33" speed = "80"  value = "80"    wight = "9"    length = "114.4" width = "114.4" radius = "39"  circleCnt = "5" radiusMlt = "1,1,1,1,1"/>       <!--翻车鱼-->
+			<FishInfo FishKindID = "34" speed = "100" value = "100"  wight = "10"   length = "240.5" width = "113.1" radius = "45.5"  circleCnt = "5" radiusMlt = "1,1.1,0.9,0.9,0.7"/>       <!--盔甲鱼-->
+			<FishInfo FishKindID = "35" speed = "80"  value = "150"   wight = "12"   length = "474.5" width = "208"   radius = "97.5"  circleCnt = "5" radiusMlt = "1,1,0.9,1,0.6"/>       <!--锤头鲨-->
+			<FishInfo FishKindID = "36" speed = "100" value = "150"  wight = "12"   length = "286"   width = "182"   radius = "84.5"  circleCnt = "5" radiusMlt = "1,0.85,0.85,0.7,0.7"/>       <!--海象-->
+			<FishInfo FishKindID = "37" speed = "80"  value = "180"   wight = "13"   length = "221"   width = "200.2" radius = "91"  circleCnt = "3" radiusMlt = "1,0.9,0.5"/>       <!--鲎鱼-->
+			<FishInfo FishKindID = "38" speed = "40"  value = "5000"  wight = "54"   length = "910"   width = "390"   radius = "104"  circleCnt = "9" radiusMlt = "1,1,0.8,1,0.8,0.9,0.8,0.9,0.8"/>       <!--海龙-->
+			<FishInfo FishKindID = "39" speed = "50"  value = "1"    wight = "1.0"  length = "104"  width = "104"  radius = "52"  circleCnt = "1" radiusMlt = "1"/>       <!--魔法卡牌鱼-->
+			<FishInfo FishKindID = "40" speed = "50"  value = "4000"  wight = "65.0" length = "116"  width = "116"  radius = "58"  circleCnt = "1" radiusMlt = "1"/>       <!--宝箱鱼-->
+            <FishInfo FishKindID = "41" speed = "60"  value = "4000" wight = "45.0" length = "500" width = "200" radius = "100"  circleCnt = "3" radiusMlt = "1,1.1,1.1"/>       <!--金蝉boss-->			
+			<FishInfo FishKindID = "42" speed = "50"  value = "1000" wight = "50"   length = "305"    width = "242"   radius = "68"  circleCnt = "3" radiusMlt = "1,1.2,1"/>             <!--boss5-独角兽-->
+			<FishInfo FishKindID = "43" speed = "40"  value = "1000" wight = "50"   length = "631"    width = "586"   radius = "149"  circleCnt = "3" radiusMlt = "1,0.9,0.9"/>           <!--boss6-大章鱼-->			
+			<FishInfo FishKindID = "44" speed = "50"  value = "1500" wight = "50"   length = "639"    width = "280"   radius = "100"  circleCnt = "9" radiusMlt = "1,1,0.8,1,0.5,0.01,0.5,0.01,0.5"/> <!--boss7-小金龙-->		
+            <FishInfo FishKindID = "45" speed = "50"  value = "1000" wight = "50"   length = "410"    width = "358"   radius = "160"  circleCnt = "3" radiusMlt = "1,0.65,0.65"/>         <!--boss8-年兽-->			
+            <FishInfo FishKindID = "46" speed = "50"  value = "800"  wight = "28"   length = "515"    width = "239"   radius = "56"   circleCnt = "5" radiusMlt = "1,1.3,1,1,1"/>         <!--鲸鲨-->	            						
+            <FishInfo FishKindID = "47" speed = "55"  value = "400"  wight = "20"   length = "439"    width = "244"   radius = "69"   circleCnt = "5" radiusMlt = "1,1,1,0.8,0.8"/>       <!--咸水鳄-->	    
+            <FishInfo FishKindID = "48" speed = "60"  value ="200"   wight = "14"   length = "396"    width = "227"   radius = "71"   circleCnt = "5" radiusMlt = "1,1,1,0.9,0.8"/>       <!--巨齿鲨-->	    
+            <FishInfo FishKindID = "49" speed = "80"  value ="200"   wight = "14"   length = "326"    width = "128"   radius = "32"   circleCnt = "7" radiusMlt = "1,1,1,1,1,1.1,1"/>     <!--海蛇-->	  
+            <FishInfo FishKindID = "50" speed = "60"  value ="300"   wight = "17"   length = "347"    width = "180"   radius = "72"   circleCnt = "3" radiusMlt = "1,1,1"/>               <!--白鲸-->	   
+            <FishInfo FishKindID = "51" speed = "120" value ="20"    wight = "4.5"  length = "80"    width = "71"   radius = "31"   circleCnt = "1" radiusMlt = "1"/>                   <!--斑点鱼-->	  
+            <FishInfo FishKindID = "52" speed = "40"  value ="150"   wight = "12"   length = "96"    width = "96"   radius = "31"   circleCnt = "1" radiusMlt = "1"/>                   <!--海蚌-->	   
+            <FishInfo FishKindID = "53" speed = "40"  value ="30"    wight = "5.5"  length = "100"    width = "100"   radius = "45"   circleCnt = "1" radiusMlt = "1"/>                   <!--海胆-->	                                                                            						     
+            <FishInfo FishKindID = "54" speed = "70"  value ="50"    wight = "7"    length = "96"    width = "80"   radius = "41"   circleCnt = "1" radiusMlt = "1"/>                   <!--寄居蟹-->
+            <FishInfo FishKindID = "55" speed = "75"  value = "60"   wight = "8"    length = "123"    width = "143"   radius = "43"   circleCnt = "1" radiusMlt = "1"/>                   <!--龙虾-->    
+            <FishInfo FishKindID = "56" speed = "90"  value = "80"   wight = "9"    length = "149"    width = "99"   radius = "34"   circleCnt = "3" radiusMlt = "1,0.93,0.93"/>         <!--企鹅-->   
+            <FishInfo FishKindID = "57" speed = "110" value = "30"   wight = "5.5"  length = "90"    width = "53"   radius = "42"   circleCnt = "1" radiusMlt = "1"/>                   <!--清道夫-->  
+            <FishInfo FishKindID = "58" speed = "75"  value ="60 "   wight = "8"    length = "103"    width = "96"   radius = "36"   circleCnt = "1" radiusMlt = "1"/>                   <!--石头鱼-->       
+            <FishInfo FishKindID = "59" speed = "100" value = "50"   wight = "7"    length = "95"    width = "72"   radius = "46"   circleCnt = "1" radiusMlt = "1"/>                   <!--食人鱼-->  
+            <FishInfo FishKindID = "60" speed = "80"  value ="300"   wight = "17"   length = "165"    width = "108"   radius = "33"   circleCnt = "3" radiusMlt = "1,1,1"/>               <!--娃娃鱼-->      
+            <FishInfo FishKindID = "61" speed = "80"  value = "40"   wight = "6"    length = "101"    width = "87"   radius = "45"   circleCnt = "1" radiusMlt = "1"/>                   <!--鹦鹉螺-->                                  
+		</FishInfoConfig>
+		<BulletInfoConfig>
+			<BulletInfo speed = "700" value = "1"  radius = "10" bombRadius = "60"/>
+			<BulletInfo speed = "700" value = "2"  radius = "10" bombRadius = "60"/>
+			<BulletInfo speed = "700" value = "3"  radius = "10" bombRadius = "60"/>
+			<BulletInfo speed = "700" value = "4"  radius = "15" bombRadius = "70"/>
+			<BulletInfo speed = "700" value = "5"  radius = "15" bombRadius = "70"/>
+			<BulletInfo speed = "700" value = "6"  radius = "15" bombRadius = "70"/>
+			<BulletInfo speed = "700" value = "7"  radius = "15" bombRadius = "70"/>
+			<BulletInfo speed = "700" value = "8"  radius = "15" bombRadius = "80"/>
+			<BulletInfo speed = "700" value = "9"  radius = "15" bombRadius = "80"/>
+			<BulletInfo speed = "700" value = "10" radius = "20" bombRadius = "80"/>
+			<BulletInfo speed = "700" value = "11" radius = "20" bombRadius = "100"/>
+			<BulletInfo speed = "700" value = "12" radius = "20" bombRadius = "100"/>
+			<BulletInfo speed = "700" value = "13" radius = "20" bombRadius = "100"/>
+			<BulletInfo speed = "700" value = "14" radius = "20" bombRadius = "100"/>
+			<BulletInfo speed = "700" value = "15" radius = "20" bombRadius = "100"/>
+			<BulletInfo speed = "700" value = "16" radius = "20" bombRadius = "112"/>
+			<BulletInfo speed = "700" value = "17" radius = "20" bombRadius = "114"/>
+			<BulletInfo speed = "700" value = "18" radius = "20" bombRadius = "116"/>
+			<BulletInfo speed = "700" value = "19" radius = "20" bombRadius = "118"/>
+			<BulletInfo speed = "750" value = "20" radius = "23" bombRadius = "120"/>
+			<BulletInfo speed = "750" value = "21" radius = "23" bombRadius = "122"/>
+			<BulletInfo speed = "750" value = "22" radius = "23" bombRadius = "124"/>
+			<BulletInfo speed = "750" value = "23" radius = "23" bombRadius = "126"/>
+			<BulletInfo speed = "750" value = "24" radius = "23" bombRadius = "128"/>
+			<BulletInfo speed = "750" value = "25" radius = "23" bombRadius = "130"/>
+			<BulletInfo speed = "750" value = "26" radius = "23" bombRadius = "132"/>
+			<BulletInfo speed = "750" value = "27" radius = "23" bombRadius = "134"/>
+			<BulletInfo speed = "750" value = "28" radius = "23" bombRadius = "136"/>
+			<BulletInfo speed = "750" value = "29" radius = "23" bombRadius = "138"/>
+			<BulletInfo speed = "800" value = "30" radius = "25" bombRadius = "140"/>
+			<BulletInfo speed = "800" value = "31" radius = "25" bombRadius = "142"/>
+			<BulletInfo speed = "800" value = "32" radius = "25" bombRadius = "144"/>
+			<BulletInfo speed = "800" value = "33" radius = "25" bombRadius = "146"/>
+			<BulletInfo speed = "800" value = "34" radius = "25" bombRadius = "148"/>
+			<BulletInfo speed = "700" value = "35" radius = "25" bombRadius = "150"/>
+			<BulletInfo speed = "700" value = "36" radius = "25" bombRadius = "152"/>
+			<BulletInfo speed = "700" value = "37" radius = "25" bombRadius = "154"/>
+			<BulletInfo speed = "700" value = "38" radius = "25" bombRadius = "156"/>
+			<BulletInfo speed = "700" value = "39" radius = "25" bombRadius = "158"/>
+			<BulletInfo speed = "700" value = "40" radius = "25" bombRadius = "160"/>
+			<BulletInfo speed = "700" value = "41" radius = "25" bombRadius = "164"/>
+			<BulletInfo speed = "700" value = "42" radius = "25" bombRadius = "168"/>
+			<BulletInfo speed = "700" value = "43" radius = "25" bombRadius = "172"/>
+			<BulletInfo speed = "700" value = "44" radius = "25" bombRadius = "176"/>
+			<BulletInfo speed = "700" value = "45" radius = "25" bombRadius = "180"/>
+			<BulletInfo speed = "700" value = "46" radius = "25" bombRadius = "184"/>
+			<BulletInfo speed = "700" value = "47" radius = "25" bombRadius = "188"/>
+			<BulletInfo speed = "700" value = "48" radius = "25" bombRadius = "192"/>
+			<BulletInfo speed = "700" value = "49" radius = "25" bombRadius = "196"/>
+			<BulletInfo speed = "700" value = "50" radius = "25" bombRadius = "200"/>
+		</BulletInfoConfig>
+		<SpecialBulletConfig>
+			<BulletElectroEx>
+			    <SingleInfo value = "250" bombRadius = "250"/> <!--水-->
+				<SingleInfo value = "300" bombRadius = "250"/> <!--弱火-->
+				<SingleInfo value = "350" bombRadius = "250"/> <!--强火-->
+				<SingleInfo value = "400" bombRadius = "250"/> <!--弱电-->
+				<SingleInfo value = "450" bombRadius = "250"/> <!--强电-->
+			</BulletElectroEx>
+			<BulletMultiEx>
+			    <SingleInfo level = "8"  shootCnt = "10"  angle = "30" multiCnt = "3"/> <!--水-->
+				<SingleInfo level = "10" shootCnt = "10"  angle = "30" multiCnt = "3"/> <!--弱火-->
+				<SingleInfo level = "12" shootCnt = "10"  angle = "30" multiCnt = "3"/> <!--强火-->
+				<SingleInfo level = "5" shootCnt = "8"  angle = "30" multiCnt = "3"/> <!--弱电-->
+				<SingleInfo level = "6" shootCnt = "8"  angle = "30" multiCnt = "3"/> <!--强电-->
+			</BulletMultiEx>
+			<BulletBouncingEx>
+			    <SingleInfo value = "12" radius = "25" speed = "1200" bouncewallcount = "8"  maxcapturefishvalue = "180"/> <!--水-->
+				<SingleInfo value = "15" radius = "25" speed = "1200" bouncewallcount = "10"  maxcapturefishvalue = "225"/> <!--弱火-->
+				<SingleInfo value = "20" radius = "25" speed = "1200" bouncewallcount = "12" maxcapturefishvalue = "275"/> <!--强火-->
+				<SingleInfo value = "25" radius = "25" speed = "1200" bouncewallcount = "14" maxcapturefishvalue = "350"/> <!--弱电-->
+				<SingleInfo value = "30" radius = "25" speed = "1200" bouncewallcount = "16" maxcapturefishvalue = "450"/> <!--强电-->
+			</BulletBouncingEx>
+			<BulletBombFlowerEx>
+			    <SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "50" bombRadius = "70"/> <!--水-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "60" bombRadius = "70"/> <!--弱火-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "70" bombRadius = "70"/> <!--强火-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "80" bombRadius = "70"/> <!--弱电-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "90" bombRadius = "70"/> <!--强电-->
+			</BulletBombFlowerEx>
+			<BulletBombFlowerPoint>
+			    <SingleBombPoint pX = "100"  pY = "166"/>
+				<SingleBombPoint pX = "100"  pY = "306"/>
+				<SingleBombPoint pX = "100"  pY = "446"/>
+				<SingleBombPoint pX = "100"  pY = "586"/>
+				<SingleBombPoint pX = "365"  pY = "166"/>
+				<SingleBombPoint pX = "365"  pY = "306"/>
+				<SingleBombPoint pX = "365"  pY = "446"/>
+				<SingleBombPoint pX = "365"  pY = "586"/>
+				<SingleBombPoint pX = "630"  pY = "166"/>
+				<SingleBombPoint pX = "630"  pY = "306"/>
+				<SingleBombPoint pX = "630"  pY = "446"/>
+				<SingleBombPoint pX = "630"  pY = "586"/>
+				<SingleBombPoint pX = "895"  pY = "166"/>
+				<SingleBombPoint pX = "895"  pY = "306"/>
+				<SingleBombPoint pX = "895"  pY = "446"/>
+				<SingleBombPoint pX = "895" pY = "586"/>
+				<SingleBombPoint pX = "1160" pY = "166"/>
+				<SingleBombPoint pX = "1160" pY = "306"/>
+				<SingleBombPoint pX = "1160" pY = "446"/>
+				<SingleBombPoint pX = "1160" pY = "586"/>
+			</BulletBombFlowerPoint>
+			<BulletFishBomb value = "100" bombRadius = "240"/> <!--水雷（炸弹鱼）爆炸属性-->
+		</SpecialBulletConfig>
+		<CannonInfoConfig startLevel = "9" validCnt = "10" validLevel = "0,1,2,3,4,5,6,7,8,9"/>
+		<CannonsPositionConfig>
+		    <CannonsPosition pX = "398" pY = "670"/>
+			<CannonsPosition pX = "882" pY = "670"/>
+			<CannonsPosition pX = "882" pY = "50"/>
+			<CannonsPosition pX = "398" pY = "50"/>
+		</CannonsPositionConfig>
+		<ScreenSizenConfig screentWidth = "1280" screentHeight = "720"/>
+		<GoodsFishCommonConfig bounceWallCount = "1"/> <!--物品鱼信息，反弹次数--> 
+	</Common>
+	<Server>
+		<FishMatchConfig matchtype = "1" syngradetime = "3" firstsyntime = "1" calcfishandcoin = "1"/><!--0:普通岛屿.1:回馈赛岛屿-->
+		<BulletCreateConfig maxbulletcount="20">
+			<BulletSlow bulletvalue="25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40" minfishvalue = "60"/><!---->
+			<BulletBounce bulletvalue="20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40" bouncecount= "100"/>
+			<BulletFix bulletvalue="40" fixflow="200"  fixtime="30" fixspeed="2.0"/>
+			<BulletTrack bulletvalue="30,31,32,33,34,35,36,37,38,39,40"/>
+			<BulletCreateInfo>
+				<BulletInfo value="0"  bouncecount="100"/>
+				<BulletInfo value="1"  bouncecount="100"/>
+				<BulletInfo value="2"  bouncecount="100"/>
+				<BulletInfo value="3"  bouncecount="100"/>
+				<BulletInfo value="4"  bouncecount="100"/>
+				<BulletInfo value="5"  bouncecount="100"/>
+				<BulletInfo value="6"  bouncecount="100"/>
+				<BulletInfo value="7"  bouncecount="100"/>
+				<BulletInfo value="8"  bouncecount="100"/>
+				<BulletInfo value="9"  bouncecount="100"/>
+				<BulletInfo value="10" bouncecount="100"/>
+				<BulletInfo value="11" bouncecount="100"/>
+				<BulletInfo value="12" bouncecount="100"/>
+				<BulletInfo value="13" bouncecount="100"/>
+				<BulletInfo value="14" bouncecount="100"/>
+				<BulletInfo value="15" bouncecount="100"/>
+				<BulletInfo value="16" bouncecount="100"/>
+				<BulletInfo value="17" bouncecount="100"/>
+				<BulletInfo value="18" bouncecount="100"/>
+				<BulletInfo value="19" bouncecount="100"/>
+				<BulletInfo value="20" bouncecount="100"/>
+				<BulletInfo value="21" bouncecount="100"/>
+				<BulletInfo value="22" bouncecount="100"/>
+				<BulletInfo value="23" bouncecount="100"/>
+				<BulletInfo value="24" bouncecount="100"/>
+				<BulletInfo value="25" bouncecount="100"/>
+				<BulletInfo value="26" bouncecount="100"/>
+				<BulletInfo value="27" bouncecount="100"/>
+				<BulletInfo value="28" bouncecount="100"/>
+				<BulletInfo value="29" bouncecount="100"/>
+				<BulletInfo value="30" bouncecount="100"/>
+				<BulletInfo value="31" bouncecount="100"/>
+				<BulletInfo value="32" bouncecount="100"/>
+				<BulletInfo value="33" bouncecount="100"/>
+				<BulletInfo value="34" bouncecount="100"/>
+				<BulletInfo value="35" bouncecount="100"/>
+				<BulletInfo value="36" bouncecount="100"/>
+				<BulletInfo value="37" bouncecount="100"/>
+				<BulletInfo value="38" bouncecount="100"/>
+				<BulletInfo value="39" bouncecount="100"/>
+				<BulletInfo value="40" bouncecount="100"/>
+				<BulletInfo value="41" bouncecount="100"/>
+				<BulletInfo value="42" bouncecount="100"/>
+				<BulletInfo value="43" bouncecount="100"/>
+				<BulletInfo value="44" bouncecount="100"/>
+				<BulletInfo value="45" bouncecount="100"/>
+			    <BulletInfo value="46" bouncecount="100"/>	
+				<BulletInfo value="47" bouncecount="100"/>
+				<BulletInfo value="48" bouncecount="100"/>
+				<BulletInfo value="49" bouncecount="100"/>
+			</BulletCreateInfo>
+		</BulletCreateConfig>		
+		<FishCreatePositionConfig>
+			<FishCreatePosition CreateFishPoint = "-100,200" MinAngle = "-10" MaxAngle = "45"/>
+			<FishCreatePosition CreateFishPoint = "-100,400" MinAngle = "-20" MaxAngle = "20"/>
+			<FishCreatePosition CreateFishPoint = "-100,600" MinAngle = "-45" MaxAngle = "10"/>
+			<FishCreatePosition CreateFishPoint = "640,-100" MinAngle = "60"  MaxAngle = "120"/>
+			<FishCreatePosition CreateFishPoint = "1380,200" MinAngle = "135" MaxAngle = "190"/>
+			<FishCreatePosition CreateFishPoint = "1380,400" MinAngle = "160" MaxAngle = "200"/>
+			<FishCreatePosition CreateFishPoint = "1380,600" MinAngle = "170" MaxAngle = "225"/>
+			<FishCreatePosition CreateFishPoint = "-100,300" MinAngle = "0"   MaxAngle = "0"/> <!--章鱼路线,角度为0,只从左右两边出生-->
+			<FishCreatePosition CreateFishPoint = "-100,400" MinAngle = "0"   MaxAngle = "0"/>
+			<FishCreatePosition CreateFishPoint = "1380,350" MinAngle = "180" MaxAngle = "181"/>
+			<FishCreatePosition CreateFishPoint = "1380,450" MinAngle = "180" MaxAngle = "181"/>
+			<FishCreatePosition CreateFishPoint = "0,0"      MinAngle = "23"  MaxAngle = "23"/>
+			<FishCreatePosition CreateFishPoint = "0,800"    MinAngle = "-23"  MaxAngle = "-23"/>
+			<FishCreatePosition CreateFishPoint = "1280,0"   MinAngle = "155" MaxAngle = "155"/>
+			<FishCreatePosition CreateFishPoint = "1280,800" MinAngle = "-155" MaxAngle = "-155"/>
+			<FishCreatePosition CreateFishPoint = "-100,364" MinAngle = "0"    MaxAngle = "0"/>    
+			<FishCreatePosition CreateFishPoint = "1380,364" MinAngle = "180"  MaxAngle = "180"/>
+			<FishCreatePosition CreateFishPoint = "640,748"  MinAngle = "-120"  MaxAngle = "-60"/> <!--17-->			
+		</FishCreatePositionConfig>
+		<TeamConfig>
+			<!--A规律阵列-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "0.4" fY = "-0.4"/>
+				<TeamInfoNode fX = "0.8" fY = "0"/>
+				<TeamInfoNode fX = "1.2" fY = "-0.4"/>
+				<TeamInfoNode fX = "1.6" fY = "0"/>
+				<TeamInfoNode fX = "2.0" fY = "-0.4"/>
+				<TeamInfoNode fX = "0.2" fY = "0.4"/>
+				<TeamInfoNode fX = "0.6" fY = "0.8"/>
+				<TeamInfoNode fX = "1.0" fY = "0.4"/>
+				<TeamInfoNode fX = "1.4" fY = "0.8"/>
+				<TeamInfoNode fX = "1.8" fY = "0.4"/>
+				<TeamInfoNode fX = "2.2" fY = "0.8"/>
+                <TeamInfoNode fX = "2.4" fY = "0"/>
+				<TeamInfoNode fX = "2.8" fY = "-0.4"/>
+				<TeamInfoNode fX = "3.2" fY = "0"/>
+				<TeamInfoNode fX = "3.6" fY = "-0.4"/>
+				<TeamInfoNode fX = "4.0" fY = "0"/>
+				<TeamInfoNode fX = "4.4" fY = "-0.4"/>
+				<TeamInfoNode fX = "2.6" fY = "0.4"/>
+				<TeamInfoNode fX = "3.0" fY = "0.8"/>
+				<TeamInfoNode fX = "3.4" fY = "0.4"/>
+				<TeamInfoNode fX = "3.8" fY = "0.8"/>
+				<TeamInfoNode fX = "4.2" fY = "0.4"/>
+				<TeamInfoNode fX = "4.6" fY = "0.8"/>
+			</TeamInfo>
+			<!--B杂阵（小鱼阵）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "0.4" fY = "0.3"/>
+				<TeamInfoNode fX = "1.2" fY = "-0.6"/>
+				<TeamInfoNode fX = "2" fY = "-0.6"/>
+				<TeamInfoNode fX = "1.6" fY = "0.3"/>
+				<TeamInfoNode fX = "0.8" fY = "1.2"/>
+				<TeamInfoNode fX = "0.4" fY = "-0.3"/>
+				<TeamInfoNode fX = "3.2" fY = "-1.8"/>
+				<TeamInfoNode fX = "1.6" fY = "0.6"/>
+				<TeamInfoNode fX = "0.8" fY = "-0.9"/>
+				<TeamInfoNode fX = "0.8" fY = "0.6"/>
+				<TeamInfoNode fX = "0.4" fY = "-1.2"/>
+				<TeamInfoNode fX = "1.2" fY = "-1.5"/>
+				<TeamInfoNode fX = "2.8" fY = "-1.5"/>
+				<TeamInfoNode fX = "3.6" fY = "0.6"/>
+				<TeamInfoNode fX = "2.8" fY = "-0.9"/>
+				<TeamInfoNode fX = "0.8" fY = "1.5"/>
+				<TeamInfoNode fX = "0.4" fY = "-0.6"/>
+				<TeamInfoNode fX = "2.4" fY = "0.3"/>
+				<TeamInfoNode fX = "1.2" fY = "-1.2"/>
+				<TeamInfoNode fX = "3.2" fY = "0.6"/>
+			</TeamInfo>
+			<!--C（中大鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "3" fY = "-3"/>
+			</TeamInfo>
+			<!--D（中大鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "2" fY = "-4"/>
+			</TeamInfo>
+			<!--E（中大鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "2" fY = "-2"/>
+				<TeamInfoNode fX = "4" fY = "3"/>
+			</TeamInfo>
+			<!--F（中大鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "2" fY = "3"/>
+				<TeamInfoNode fX = "5" fY = "-2"/>
+			</TeamInfo>
+			<!--G（中小鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "0.8" fY = "0.6"/>
+				<TeamInfoNode fX = "1.6" fY = "2.4"/>
+				<TeamInfoNode fX = "2.4" fY = "-1.2"/>
+				<TeamInfoNode fX = "3.2" fY = "0.6"/>
+				<TeamInfoNode fX = "4" fY = "-1.2"/>
+			</TeamInfo>
+		</TeamConfig>
+		<MapConfig>
+			<MapInfo id = "18"/>
+		</MapConfig>
+		<BankingLogConfig minGetCoin = "1000" bankingStateSpaceSecond = "60" bankingStateOnoff = "0" billOnoff = "0" eventOnoff = "0" feedbackOnoff = "0"/>
+		<AllPrizeInfoConfig playerPayStreamOneDay="5000000" luckyGold="0" treaChesteCoin="500000" minFishMulti = "100"/><!--满堂彩配置-->
+        <BillRecordConfig maxCount="100" Onoff = "1" /><!--服务器账单记录-->
+		<FishCreateInfoConfig CreateLoopCount = "2.5">
+			<FishCreateInfo FishKindID = "0"  CreatePos = "0,1,2,3,4,5,6,17" TeamID = "0,1"   AIID = "0,1,2,3,4,5,6,7,9,10,11,12"  CreatePercent = "600"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "10" MaxCreateCount = "20" IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--小黄鱼-->
+			<FishCreateInfo FishKindID = "1"  CreatePos = "0,1,2,3,4,5,6,17" TeamID = "0,1"   AIID = "0,1,2,3,4,5,6,7,9,10,11,12"  CreatePercent = "600"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "8"  MaxCreateCount = "15" IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--小飞鱼-->
+			<FishCreateInfo FishKindID = "2"  CreatePos = "0,1,2,3,4,5,6,17" TeamID = "0,1"   AIID = "0,1,2,12,13,14,18,19"        CreatePercent = "600"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "4"  MaxCreateCount = "7"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--小丑鱼-->
+			<FishCreateInfo FishKindID = "3"  CreatePos = "0,1,2,3,4,5,6,17" TeamID = "4,5"   AIID = "0,1,2"                       CreatePercent = "400"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--电鳗-->
+			<FishCreateInfo FishKindID = "4"  CreatePos = "0,1,2,3,4,5,6,17" TeamID = "0,1"   AIID = "0,1,2,3,4,8,11,12"           CreatePercent = "400"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "5"  MaxCreateCount = "8"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--鲽鱼-->
+			<FishCreateInfo FishKindID = "5"  CreatePos = "0,1,2,3,4,5,6,17" TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "500"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--水母-->
+			<FishCreateInfo FishKindID = "6"  CreatePos = "0,1,2,3,4,5,6,17" TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "500"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海龟-->
+			<FishCreateInfo FishKindID = "7"  CreatePos = "0,1,2,4,5,6"   TeamID = "0,3"   AIID = "0,1,2,26,27,28"              CreatePercent = "200"  multiTypePercent = "0.09" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海豚-->
+			<FishCreateInfo FishKindID = "8"  CreatePos = "1,5,8,9"       TeamID = "0"     AIID = "0"                           CreatePercent = "200"  multiTypePercent = "0.09" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--蓝鲨-->
+			<FishCreateInfo FishKindID = "9"  CreatePos = "1,5"           TeamID = "0"     AIID = "0"                           CreatePercent = "0"    multiTypePercent = "0.09" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--大鲨鱼-->
+			<FishCreateInfo FishKindID = "10" CreatePos = "0,1,2,4,5,6"   TeamID = "0"     AIID = "0,25,26"                     CreatePercent = "0"    multiTypePercent = "0.09" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--虎鲸-->
+			<FishCreateInfo FishKindID = "11" CreatePos = "0,1,2,3,4,5,6,17" TeamID = "4,5"   AIID = "0,1,2"                       CreatePercent = "200"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "2"  MaxCreateCount = "3"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--蓝宝石-->
+			<FishCreateInfo FishKindID = "12" CreatePos = "0,1,2,3,4,5,6,17" TeamID = "4,5"   AIID = "0,1,2,8,11,12"               CreatePercent = "400"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--刺豚-->
+			<FishCreateInfo FishKindID = "13" CreatePos = "7,8,9,10"      TeamID = "0,1,3" AIID = "0"                           CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--章鱼-->
+			<FishCreateInfo FishKindID = "14" CreatePos = "0,1,2,3,4,5,6,17" TeamID = "4,5"   AIID = "0,1,2,3,4,5,6,7,11,12,18,19" CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "2"  MaxCreateCount = "3"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--神仙鱼-->
+			<FishCreateInfo FishKindID = "15" CreatePos = "7,8,9,10"      TeamID = "0,1,3" AIID = "0"                           CreatePercent = "300"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--海马-->
+			<FishCreateInfo FishKindID = "16" CreatePos = "0,1,2,3,4,5,6,17" TeamID = "4,5"   AIID = "0,1,2,13,14"                 CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--鲷鱼-->
+			<FishCreateInfo FishKindID = "17" CreatePos = "7,8,9,10"      TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "500"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--比目鱼-->
+			<FishCreateInfo FishKindID = "18" CreatePos = "7,8,9,10"      TeamID = "2,3"   AIID = "0,1,2,13,14,18,19"           CreatePercent = "0"    multiTypePercent = "0.06" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--孔雀鱼-->
+			<FishCreateInfo FishKindID = "19" CreatePos = "7,8,9,10"      TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "500"  multiTypePercent = "0.06" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--灯笼鱼-->
+			<FishCreateInfo FishKindID = "20" CreatePos = "7,8,9,10"      TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "0"    multiTypePercent = "0.09" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--旗鱼-->
+			<FishCreateInfo FishKindID = "21" CreatePos = "0,1,5,8,9"     TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "300"  multiTypePercent = "0.06" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--魔鬼鱼-->
+			<FishCreateInfo FishKindID = "22" CreatePos = "0,1,5,8,9"     TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "200"  multiTypePercent = "0.03" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--狮子鱼-->
+			<FishCreateInfo FishKindID = "23" CreatePos = "0,1,5,8,9"     TeamID = "2,3"   AIID = "0,1,2,25,26"                 CreatePercent = "150"  multiTypePercent = "0.12" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--美人鱼-->
+			<FishCreateInfo FishKindID = "24" CreatePos = "7,8"           TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--座头鲸-->
+			<FishCreateInfo FishKindID = "25" CreatePos = "2,4,7,8,9,10"  TeamID = "2,3"   AIID = "0,1,2,3,4,15,16,26"          CreatePercent = "40"   multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--水雷-->
+			<FishCreateInfo FishKindID = "26" CreatePos = "2,4,7,8,9,10"  TeamID = "2,3"   AIID = "0,1,2,3,4,15,16,26"          CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--物品鱼-->
+			<FishCreateInfo FishKindID = "27" CreatePos = "11,12"         TeamID = "0"     AIID = "15, 16"                      CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--boss1鱼-->
+			<FishCreateInfo FishKindID = "28" CreatePos = "15,16"         TeamID = "0"     AIID = "0"                           CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--boss2鱼-->			
+			<FishCreateInfo FishKindID = "29" CreatePos = "0,1,2,3,4,5,6,17" TeamID = "0,1"   AIID = "0,1,2,12,13,14,18,19"        CreatePercent = "600"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "4"  MaxCreateCount = "8"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "1" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--鹦鹉鱼-->
+			<FishCreateInfo FishKindID = "30" CreatePos = "0,1,2,3,4,5,6,17" TeamID = "6"     AIID = "0,1,2,8,11,12"        	    CreatePercent = "400"  multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "3"  MaxCreateCount = "6"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--大飞鱼-->
+			<FishCreateInfo FishKindID = "31" CreatePos = "0,1,2,3,4,5,6,17" TeamID = "2,3"   AIID = "0,1,2"		                CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "2"  MaxCreateCount = "4"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "5" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--海星-->
+			<FishCreateInfo FishKindID = "32" CreatePos = "0,1,2,3,4,5,6,17" TeamID = "2,3"   AIID = "0,1,2"		                CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海兔-->
+			<FishCreateInfo FishKindID = "33" CreatePos = "7,8,9,10"      TeamID = "2,3"   AIID = "0,1,2,13,14"      	        CreatePercent = "300"  multiTypePercent = "0.0"  MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--翻车鱼-->
+			<FishCreateInfo FishKindID = "34" CreatePos = "7,8,9,10"      TeamID = "2,3"   AIID = "0,1,2,13,14"        	        CreatePercent = "300"  multiTypePercent = "0.09" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--盔甲鱼-->
+			<FishCreateInfo FishKindID = "35" CreatePos = "0,5,8,9"       TeamID = "0"     AIID = "0"		                    CreatePercent = "200"  multiTypePercent = "0.09" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--锤头鲨-->
+			<FishCreateInfo FishKindID = "36" CreatePos = "0,1,2,4,5,6"   TeamID = "0"     AIID = "0,25,26"		                CreatePercent = "0"    multiTypePercent = "0.08" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海象-->
+			<FishCreateInfo FishKindID = "37" CreatePos = "7,8,9,10"      TeamID = "2,3"   AIID = "0,1,2,13,14" 	            CreatePercent = "0"    multiTypePercent = "0.05" MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--鲎鱼-->
+			<FishCreateInfo FishKindID = "38" CreatePos = "15,16"         TeamID = "0"     AIID = "0" 	                        CreatePercent = "0"    multiTypePercent = "0.0"  MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海龙-->			
+            <FishCreateInfo FishKindID = "39" CreatePos = "1,5,7,8,9,10"  TeamID = "2,3"   AIID = "0,1,2,3,4,15,16,26"          CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--魔法卡牌鱼-->		
+			<FishCreateInfo FishKindID = "40" CreatePos = "1,5,7,8,9,10"  TeamID = "0"     AIID = "0,1,2,3,4,15,16,26"          CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--宝箱鱼-->		
+			<FishCreateInfo FishKindID = "41" CreatePos = "11,12"         TeamID = "0"     AIID = "15, 16"                      CreatePercent = "0"    multiTypePercent = "0" 	 MatchMultiTypePercent = "0"    MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--金蝉boss-->				
+            <FishCreateInfo FishKindID = "42" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"    multiTypePercent = "0"    MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--独角兽-->
+			<FishCreateInfo FishKindID = "43" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"    multiTypePercent = "0"    MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--大章鱼-->
+			<FishCreateInfo FishKindID = "44" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"    multiTypePercent = "0"    MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--小金龙-->
+			<FishCreateInfo FishKindID = "45" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"    multiTypePercent = "0"    MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--年兽-->
+			<FishCreateInfo FishKindID = "46" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "500"  multiTypePercent = "0.03" MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--鲸鲨-->		
+			<FishCreateInfo FishKindID = "47" CreatePos = "0,5,8,9,11,12,13,14"          TeamID = "0"     AIID = "0"                           CreatePercent = "200"  multiTypePercent = "0.08" MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--咸水鳄-->		
+			<FishCreateInfo FishKindID = "48" CreatePos = "1,5,8,9,11,12,13,14"          TeamID = "0"     AIID = "0"                           CreatePercent = "200"  multiTypePercent = "0.05" MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--锯齿鲨-->
+			<FishCreateInfo FishKindID = "49" CreatePos = "0,1,5,8,9,11,12,13,14"        TeamID = "2,3"   AIID = "0,1,2,25,26"                 CreatePercent = "200"  multiTypePercent = "0.05" MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--海蛇-->
+			<FishCreateInfo FishKindID = "50" CreatePos = "1,5"      TeamID = "0"     AIID = "0"                     CreatePercent = "100"  multiTypePercent = "0.08" MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--白鲸-->				
+			<FishCreateInfo FishKindID = "51" CreatePos = "0,1,2,3,4,5,6,11,12,13,14,17" TeamID = "4,5"   AIID = "0,1,2,13,14"                 CreatePercent = "300"  multiTypePercent = "0" 	MatchMultiTypePercent = "0" MinCreateCount = "3"  MaxCreateCount = "8"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/> <!--斑点-->		
+			<FishCreateInfo FishKindID = "52" CreatePos = "0,1,2,3,4,5,6,11,12,13,14,17" TeamID = "2,3"   AIID = "0,1,2" 	                   CreatePercent = "100"  multiTypePercent = "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--海蚌-->		  
+			<FishCreateInfo FishKindID = "53" CreatePos = "0,1,2,3,4,5,6,11,12,13,14,17" TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "300"  multiTypePercent = "0" 	MatchMultiTypePercent = "0" MinCreateCount = "2"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/> <!--海胆-->			
+			<FishCreateInfo FishKindID = "54" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "200"  multiTypePercent = "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1"     SlowTime = "2.0"/> <!--寄居蟹-->			
+			<FishCreateInfo FishKindID = "55" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "500"  multiTypePercent = "0.0"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "5"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--龙虾-->			
+			<FishCreateInfo FishKindID = "56" CreatePos = "0,1,2,4,5,6,11,12,13,14"      TeamID = "0"     AIID = "0,25,26"                     CreatePercent = "200"  multiTypePercent = "0"    MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--企鹅-->
+			<FishCreateInfo FishKindID = "57" CreatePos = "0,1,2,3,4,5,6,11,12,13,14,17" TeamID = "4,5"   AIID = "0,1,2,13,14"                 CreatePercent = "500"  multiTypePercent = "0"    MatchMultiTypePercent = "0" MinCreateCount = "3"  MaxCreateCount = "8"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1"     SlowTime = "2.0"/> <!--清道夫-->
+			<FishCreateInfo FishKindID = "58" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "300"  multiTypePercent = "0"    MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--石头鱼-->
+			<FishCreateInfo FishKindID = "59" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "300"  multiTypePercent = "0"    MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "5"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1"     SlowTime = "2.0"/> <!--食人鱼-->
+			<FishCreateInfo FishKindID = "60" CreatePos = "0,1,2,4,5,6,11,12,13,14"      TeamID = "0"     AIID = "0,25,26"                     CreatePercent = "200"  multiTypePercent = "0.05" MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--金娃娃鱼-->
+            <FishCreateInfo FishKindID = "61" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "500"  multiTypePercent = "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1"     SlowTime = "2.0"/> <!--鹦鹉螺-->		 													
+		</FishCreateInfoConfig>
+		<FishCreateExtendInfoConfig>
+	        <FishCreateExtendInfo FishKindID = "27">
+			    <SingleInfo  CreatePos = "11" AIID = "30"/> <!---->
+			    <SingleInfo  CreatePos = "13" AIID = "29"/> <!---->
+				<SingleInfo  CreatePos = "11" AIID = "0"/>  <!---->
+				<SingleInfo  CreatePos = "12" AIID = "0"/>  <!---->
+				<SingleInfo  CreatePos = "13" AIID = "0"/>  <!---->
+				<SingleInfo  CreatePos = "14" AIID = "0"/>  <!---->
+		    </FishCreateExtendInfo>
+			<FishCreateExtendInfo FishKindID = "41">
+			    <SingleInfo  CreatePos = "11" AIID = "0"/>  <!---->
+			    <SingleInfo  CreatePos = "12" AIID = "0"/>  <!---->
+			    <SingleInfo  CreatePos = "13" AIID = "0"/>  <!---->
+			    <SingleInfo  CreatePos = "14" AIID = "0"/>  <!---->
+			    <SingleInfo  CreatePos = "15" AIID = "0"/>  <!---->
+			    <SingleInfo  CreatePos = "16" AIID = "0"/>  <!---->
+		    </FishCreateExtendInfo>	
+		</FishCreateExtendInfoConfig>
+		<GoodsFishCreateInfoConfig BroadcastStandard = "4000"><!--全岛广播标准--> <!--下面参数顺序:价值，物品ID，创建比例，周几，时间段 -->
+		   <GoodsFishCreateInfo Value = "10000"  GoodsIssueID = "6740" GoodsKindID = "1000" CreatePercent = "100" DateOfWeek = "1,2,3,4,5,6,7"   TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--1元充值卡-->
+		   <GoodsFishCreateInfo Value = "20000"  GoodsIssueID = "6741" GoodsKindID = "1001" CreatePercent = "0"   DateOfWeek = "1,2,3,4,5,6,7"   TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--2元充值卡-->
+		   <GoodsFishCreateInfo Value = "50000"  GoodsIssueID = "6742" GoodsKindID = "1002" CreatePercent = "0"   DateOfWeek = "1,2,3,4,5,6,7"   TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20"  IfShowBanner = "1"/> <!--5元充值卡-->
+		   <GoodsFishCreateInfo Value = "30000"  GoodsIssueID = "6743" GoodsKindID = "1003" CreatePercent = "0"   DateOfWeek = "1,2,3,4,5,6,7"   TimeInterval = "12:00-14:00,20:00-22:00"  IfShowBanner = "1"/> <!--10元充值卡-->
+		   <GoodsFishCreateInfo Value = "80000"  GoodsIssueID = "4759" GoodsKindID = "1004" CreatePercent = "0"   DateOfWeek = "1,2,3,4,5,6,7"   TimeInterval = "12:00-14:00,20:00-22:00"  IfShowBanner = "1"/> <!--20元充值卡-->
+		   <GoodsFishCreateInfo Value = "200000" GoodsIssueID = "505"  GoodsKindID = "1005" CreatePercent = "0"   DateOfWeek = "1,2,3,4,5,6,7"   TimeInterval = "12:00-14:00,20:00-22:00"  IfShowBanner = "1"/> <!--50元充值卡-->
+		   <GoodsFishCreateInfo Value = "400000" GoodsIssueID = "510"  GoodsKindID = "1006" CreatePercent = "0"   DateOfWeek = "1,2,3,4,5,6,7"   TimeInterval = "12:00-14:00,20:00-22:00"  IfShowBanner = "1"/> <!--100元充值卡-->
+		   <GoodsFishCreateInfo Value = "3300"   CreateMode = "0" GoodsIssueID = "6736" GoodsKindID = "1100" CreatePercent = "55"  DateOfWeek = "1,2,3,4,5,6,7"   TimeInterval = "10:00-23:00"  IfShowBanner = "1"/> <!--100元充值卡-->   
+		   <GoodsFishCreateInfo Value = "300"    CreateMode = "0" GoodsIssueID = "6736" GoodsKindID = "1100" CreatePercent = "0"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--红包-->		   
+		   <GoodsFishCreateInfo Value = "30"     CreateMode = "1" GoodsIssueID = "0"    GoodsKindID = "2000" CreatePercent = "10" DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--珍珠-->
+		   <GoodsFishCreateInfo Value = "30"     CreateMode = "1" GoodsIssueID = "2"    GoodsKindID = "2001" CreatePercent = "10" DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--贝壳-->		   
+		   <GoodsFishCreateInfo Value = "30"     CreateMode = "1" GoodsIssueID = "4"    GoodsKindID = "2002" CreatePercent = "10" DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--红宝石-->		   
+		   <GoodsFishCreateInfo Value = "30"     CreateMode = "1" GoodsIssueID = "5"    GoodsKindID = "2003" CreatePercent = "10" DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--蓝宝石-->		   
+		   <GoodsFishCreateInfo Value = "30"     CreateMode = "1" GoodsIssueID = "6"    GoodsKindID = "2004" CreatePercent = "10" DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--绿宝石-->	
+		   <GoodsFishCreateInfo Value = "30"     CreateMode = "1" GoodsIssueID = "8"    GoodsKindID = "2005" CreatePercent = "10" DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "11:00-11:20,12:00-13:20,14:00-14:20,15:00-15:20,16:00-16:20,17:00-17:20,18:00-18:20,19:00-19:20,20:00-21:20,22:00-22:20,23:00-23:20" IfShowBanner = "1"/> <!--晶石-->
+		</GoodsFishCreateInfoConfig><!-- -->
+		<MagicCardFishCreateInfoConfig bounceWallCount = "1"><!--魔法卡牌鱼配置-->
+		   <MagicCardFishCreateInfo Value = "80"  CardKindID = "0" CreatePercent = "30"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59"/> <!-- 多重炮-->
+		   <MagicCardFishCreateInfo Value = "100" CardKindID = "1" CreatePercent = "30"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59"/> <!-- 电磁狙击炮-->
+		   <MagicCardFishCreateInfo Value = "80"  CardKindID = "2" CreatePercent = "30"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59"/> <!-- 弹射炮-->
+		   <MagicCardFishCreateInfo Value = "150" CardKindID = "3" CreatePercent = "10"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59"/> <!-- 漫天礼花炮-->
+		</MagicCardFishCreateInfoConfig >
+		<BossFishCreateInfoConfig StopCreateTime = "40" TimeInterval = "00:00-11:35,11:50-13:35,13:50-14:35,14:50-15:35,15:50-16:35,16:50-17:35,17:50-18:35,18:50-19:35,19:50-21:35,21:50-23:59"><!--下面参数顺序:鱼ID，死亡后奖励类型:0,金币.1:秋卡.鱼币捕获值,创建比例,威力因子Q-->
+		   <BossFishCreateInfo  BossKindID = "27" DeadRewardKindID = "0" DeadValue = "1888"  CreatePercent = "10" PowerDistributeFactor = "0.2" TimeInterval = "00:00-11:35,11:50-13:35,13:50-14:35,14:50-15:35,15:50-16:35,16:50-17:35,17:50-18:35,18:50-19:35,19:50-21:35,21:50-23:59" StopCreateTime = "40" DelayCreateBossTime = "0" DelayStopCreateNomalFishTime = "0" DelayCreateNormalFishTime = "0"/>
+		   <BossFishCreateInfo  BossKindID = "41" DeadRewardKindID = "0" DeadValue = "8888"  CreatePercent = "0" PowerDistributeFactor = "0.2" TimeInterval = "00:00-11:35,11:50-13:35,13:50-14:35,14:50-15:35,15:50-16:35,16:50-17:35,17:50-18:35,18:50-19:35,19:50-21:35,21:50-23:59" StopCreateTime = "40" DelayCreateBossTime = "1" DelayStopCreateNomalFishTime = "5" DelayCreateNormalFishTime = "30"/>
+		</BossFishCreateInfoConfig><!--boss鱼-->
+		<BossFishRewardInfoConfig><!--boss鱼未死亡时鱼币返还方案配置参数-->
+		   <BossFishRewardInfo FishKindID = "27">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"  proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "10"  proDenominator = "45"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "90"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "225"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "450"/>
+		   </BossFishRewardInfo>
+
+		   <BossFishRewardInfo FishKindID = "41">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "80"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "200"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "400"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "800"/>
+		   </BossFishRewardInfo>
+		</BossFishRewardInfoConfig>
+		<TreaChestsFishInfoConfig rewardStandard="4000" validTime="1" fishCoinLevelStandard="4000" bounceWallCount = "2" stopCreateTime = "40"><!--宝箱鱼配置-->
+		   <SingleInfo multi="0.5"  proValue="0.0"/>
+		   <SingleInfo multi="1.0"  proValue="0.0"/>
+		   <SingleInfo multi="2.5"  proValue="0.0"/>
+		   <SingleInfo multi="5.0"  proValue="0.0"/>
+		   <SingleInfo multi="25.0" proValue="0.0"/>
+		</TreaChestsFishInfoConfig>
+		<FishEventCreateTimeInfoConfig><!--事件创建时间信息(boss,宝箱出现时间间隔信息)-->
+           <EventCreateTimeInfo  EventKindID = "0" IsCreate = "0" CreateIntervalTime = "500" SwingFactorMin = "0.9" SwingFactorMax = "1.1"/> <!--宝箱-->
+           <EventCreateTimeInfo  EventKindID = "1" IsCreate = "0" CreateIntervalTime = "800" SwingFactorMin = "0.9" SwingFactorMax = "1.1"/> <!--boss-->
+		</FishEventCreateTimeInfoConfig>
+		<FishDeadDropOutGoodsInfoConfig> <!-- 鱼死亡后物品掉落的信息 物品顺序为珍珠，钻石，鉆晶，秋卡，红宝石，蓝宝石，绿宝石 属性分别为物品ID 掉落概率 出现的数量的最小 最大值-->
+		</FishDeadDropOutGoodsInfoConfig>
+		<EventConfig TotalCnt = "600">       
+			<Event id = "1" time = "1"/>   <!--开始产生鱼-->
+			<Event id = "7" time = "597"/> <!--禁止发炮-->
+		</EventConfig>
+		<NumericalVlaueInfoConfig>
+			<WightDefineFishID value = "10"/>  <!--界定大鱼还是小鱼--> 
+			<HistoryWinOrLoseFactor MaxLoseValueLimit = "-1000" MaxWinValueLimit = "1000"/> <!-- 历史输赢因子-->
+			<LifeCirleConfig stageSequence = "1,0,2,3,1"> <!-- 生命周期参数配置，确定历史输赢参数中β1大,β1小,K,△βh--> <!--groupSequeence此时代表H1,H2,H3,H4,H2的循环组合-->
+     		    <stageInfo factorMax = "1.2" factorMin = "0.8"  standardValueMax = "600" standardValueMin = "0"   differenceValue = "60000"  swingFactorMax = "2.25" swingFactorMin = "1.5"/> <!--H1:蜜月期 -->
+				<stageInfo factorMax = "1.2" factorMin = "0.8"  standardValueMax = "450" standardValueMin = "-480" differenceValue = "90000"  swingFactorMax = "2.25" swingFactorMin = "0.75"/> <!--H2:平稳期 -->
+				<stageInfo factorMax = "1.3" factorMin = "0.75" standardValueMax = "300" standardValueMin = "-450" differenceValue = "120000" swingFactorMax = "1.8"  swingFactorMin = "1.5"/> <!--H3:沉沦期 -->
+				<stageInfo factorMax = "1.4" factorMin = "0.8"  standardValueMax = "600" standardValueMin = "0"    differenceValue = "30000"  swingFactorMax = "1.5"  swingFactorMin = "1.5"/> <!--H4:刺激期 -->
+			</LifeCirleConfig>
+			<SwingFactor RandomRangeMin = "0.90" RandomRangeMax = "1.10" BulletNumOfLife = "1000" InitValue = "1.1"/> <!-- 摇摆因子-->
+			<BulletPowerFactor>  <!-- 炮弹威力因子-->
+				<SingleFactor value = "0.2"  probabilityValue = "0.0"/> 
+				<SingleFactor value = "0.5"  probabilityValue = "0.0"/>
+				<SingleFactor value = "1.0"  probabilityValue = "1"/>
+				<SingleFactor value = "2.0"  probabilityValue = "0"/>
+				<SingleFactor value = "5.0"  probabilityValue = "0"/>
+				<SingleFactor value = "10.0" probabilityValue = "0"/>
+			</BulletPowerFactor>
+			<FinancialRemainningFactor value = "0.9"/> <!--为特殊事件保留余裕因子-->
+			<SpecialEventCondition RandomRangeMin = "400" RandomRangeMax = "1200"/><!--特殊事件触发条件-->
+			<PropInfo validTime = "10" DropMode = "1" DropFatcor = "0.0001" >  <!-- 道具相关信息-->
+			    <SinglePropInfo  probabilityValue = "0.00"/> <!-- 多重炮-->
+			    <SinglePropInfo  probabilityValue = "0.00"/> <!-- 电磁狙击炮-->
+			    <SinglePropInfo  probabilityValue = "0.00"/> <!-- 弹射炮-->
+		        <SinglePropInfo  probabilityValue = "0.00"/> <!-- 漫天礼花炮-->
+		    	<SinglePropInfo  probabilityValue = "0.00"/> <!-- 弹药箱-->
+			</PropInfo>	
+			<ExchangeRate fishcoin="0.1" bulletcoin="0.1" />
+			<BuyBulletLevelInfo><!--购买子弹每档子弹数量-->
+			    <SinglelevelInfo bulletCnt = "100"/>
+				<SinglelevelInfo bulletCnt = "500"/>
+				<SinglelevelInfo bulletCnt = "1000"/>
+				<SinglelevelInfo bulletCnt = "5000"/>
+			</BuyBulletLevelInfo>			
+			<ExperienceFactor Value="0.00" />  <!--经验系数 -->
+			<FishTaskCondition RandomRangeMin = "700" RandomRangeMax = "1700" /><!--任务触发条件-->
+			<!--<TreasureChestsInfo taxStandardValue="66" taxValue="1" appearFrequency="80000" rewardRat="1.65" validTime="10" fishCoinLevelStandard="10000">宝箱：抽水标准(以子弹为单位),抽多少税,出现频率,回报率-->
+			<TreasureChestsInfo taxStandardValue="100" taxValue="1" appearFrequency="160000" rewardStandard="2000" validTime="1" fishCoinLevelStandard="4000">
+			    <SingleTreasureChestsInfo value="0.5"  probabilityValue="0.0"/>
+				<SingleTreasureChestsInfo value="1.0"  probabilityValue="0.0"/>
+				<SingleTreasureChestsInfo value="2.0"  probabilityValue="0.0"/>
+				<SingleTreasureChestsInfo value="5.0"  probabilityValue="0.0"/>
+				<SingleTreasureChestsInfo value="50.0" probabilityValue="0.0"/>
+			</TreasureChestsInfo>
+			<CaclTaskRewardToFinance  CalcFinance = "1"/> <!--是否将任务奖励计入金融.0:不计入;1:计入-->
+		</NumericalVlaueInfoConfig>
+		<PropDropGoodsConfig dropGoodsCnt = "2" PearlMin = "0" PearlMax = "0" DiamondMin = "0" DiamondMax = "0" DiamondCrysalMin = "0" DiamondCrysalMax = "0"
+			AutumnCardMin = "2" AutumnCardMax = "3" BulletMin = "10" BulletMax = "30" >
+		</PropDropGoodsConfig>
+		<FishTaskConfig>
+			<!--任务为A，B, C, D的分配比例-->
+			<FishTaskLevel level = "1" probability = "0.0" FishTaskARate = "0.0" FishTaskBRate = "0.0" FishTaskCRate = "0.0" FishTaskDRate = "0.0">
+				<FishTaskReward>
+					<RewardFishCoin RewardCount = "50" percent = "0.90"/>
+					<RewardAutumnCard RewardBase = "120" percent = "0.10"/>
+				</FishTaskReward>
+				<FishTaskAInfo time = "150">
+					<FishTarget fishKindId = "0"  singleCnt = "30" multiCnt = "10"/>
+					<FishTarget fishKindId = "0"  singleCnt = "30" multiCnt = "10"/>
+					<FishTarget fishKindId = "1"  singleCnt = "25" multiCnt = "10"/>
+					<FishTarget fishKindId = "2"  singleCnt = "8"  multiCnt = "3" />
+					<FishTarget fishKindId = "3"  singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "4"  singleCnt = "8"  multiCnt = "3" />
+					<FishTarget fishKindId = "5"  singleCnt = "5"  multiCnt = "2" />
+					<FishTarget fishKindId = "6"  singleCnt = "2"  multiCnt = "2" />
+					<FishTarget fishKindId = "7"  singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "8"  singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "9"  singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "10" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "11" singleCnt = "2"  multiCnt = "2" />
+					<FishTarget fishKindId = "12" singleCnt = "8"  multiCnt = "3" />
+					<FishTarget fishKindId = "13" singleCnt = "5"  multiCnt = "2" />
+					<FishTarget fishKindId = "14" singleCnt = "15" multiCnt = "8"/>
+					<FishTarget fishKindId = "15" singleCnt = "3"  multiCnt = "2" />
+					<FishTarget fishKindId = "16" singleCnt = "2"  multiCnt = "2" />
+					<FishTarget fishKindId = "17" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "18" singleCnt = "3"  multiCnt = "2" />
+					<FishTarget fishKindId = "19" singleCnt = "3"  multiCnt = "2" />
+					<FishTarget fishKindId = "20" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "21" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "22" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "23" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "24" singleCnt = "1"  multiCnt = "0" />
+				</FishTaskAInfo>
+				<FishTaskBInfo time = "50" fishCoins = "100">
+				</FishTaskBInfo>
+				<FishTaskCInfo time = "100" comboCount = "7">
+				</FishTaskCInfo>
+				<FishTaskDInfo time = "100" fishCoins = "800">
+				</FishTaskDInfo>
+			</FishTaskLevel>
+			<FishTaskLevel level = "2" probability = "0.0" FishTaskARate = "0.0" FishTaskBRate = "0.0" FishTaskCRate = "0.0" FishTaskDRate = "0.0">
+				<FishTaskReward>
+					<RewardFishCoin RewardCount = "100" percent = "0.90"/>
+					<RewardAutumnCard RewardBase = "240" percent = "0.10"/>
+				</FishTaskReward>
+				<FishTaskAInfo time = "100">
+					<FishTarget fishKindId = "0"  singleCnt = "30" multiCnt = "10"/>
+					<FishTarget fishKindId = "0"  singleCnt = "30" multiCnt = "10"/>
+					<FishTarget fishKindId = "1"  singleCnt = "25" multiCnt = "10"/>
+					<FishTarget fishKindId = "2"  singleCnt = "8"  multiCnt = "3" />
+					<FishTarget fishKindId = "3"  singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "4"  singleCnt = "8"  multiCnt = "3" />
+					<FishTarget fishKindId = "5"  singleCnt = "5"  multiCnt = "2" />
+					<FishTarget fishKindId = "6"  singleCnt = "2"  multiCnt = "2" />
+					<FishTarget fishKindId = "7"  singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "8"  singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "9"  singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "10" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "11" singleCnt = "2"  multiCnt = "2" />
+					<FishTarget fishKindId = "12" singleCnt = "8"  multiCnt = "3" />
+					<FishTarget fishKindId = "13" singleCnt = "5"  multiCnt = "2" />
+					<FishTarget fishKindId = "14" singleCnt = "15" multiCnt = "8"/>
+					<FishTarget fishKindId = "15" singleCnt = "3"  multiCnt = "2" />
+					<FishTarget fishKindId = "16" singleCnt = "2"  multiCnt = "2" />
+					<FishTarget fishKindId = "17" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "18" singleCnt = "3"  multiCnt = "2" />
+					<FishTarget fishKindId = "19" singleCnt = "3"  multiCnt = "2" />
+					<FishTarget fishKindId = "20" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "21" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "22" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "23" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "24" singleCnt = "1"  multiCnt = "0" />
+				</FishTaskAInfo>
+				<FishTaskBInfo time = "50" fishCoins = "150">
+				</FishTaskBInfo>
+				<FishTaskCInfo time = "100" comboCount = "10">
+				</FishTaskCInfo>
+				<FishTaskDInfo time = "100" fishCoins = "1200">
+				</FishTaskDInfo>
+			</FishTaskLevel>
+		</FishTaskConfig>
+		<MultiTypeFishConfig ReturnRate = "1.0" CalcMulti = "3" AwardTheMaxMultiStandard = "-1500000" AwardStrategyFactor = "1">
+			<MultiInfo multi = "2" percent = "0.51"/>
+			<MultiInfo multi = "3" percent = "0.31"/>
+			<MultiInfo multi = "5" percent = "0.15"/>
+			<MultiInfo multi = "10" percent = "0.03"/>
+			<MultiInfo multi = "20" percent = "0.00"/>
+		</MultiTypeFishConfig>
+		<MatchMultiTypeFishConfig><!--比赛多倍鱼参数-->
+			<MultiInfo multi = "2"  percent = "0.50"/>
+			<MultiInfo multi = "3"  percent = "0.30"/>
+			<MultiInfo multi = "4"  percent = "0.20"/>
+		</MatchMultiTypeFishConfig>		
+		<ComboRewardConfig Level = "30"> <!--连击奖励参数-->
+		    <ComboReward RewardCount = "5"/>
+			<ComboReward RewardCount = "10"/>
+			<ComboReward RewardCount = "20"/>
+			<ComboReward RewardCount = "30"/>
+		</ComboRewardConfig>
+		<FireIntervalTime LimitTime = "0.4"/><!--发炮最小间隔限制-->
+		<!--火系全屏爆炸顺序-->
+		<FireBombFlowerBombSeq BombCnt = "5" BombIntervalTime = "0.4"> 
+			<Seat0>
+				<!--<SingleInfo BombPointGroup = "3"/> -->
+                <SingleInfo BombPointGroup = "1,2,3,7"/>
+				<SingleInfo BombPointGroup = "0,4,5,6"/>
+				<SingleInfo BombPointGroup = "8,9"/>
+				<SingleInfo BombPointGroup = "10,12,13,14,16,17"/>
+				<SingleInfo BombPointGroup = "11,15,18,19"/>
+		    </Seat0>
+			<Seat1>
+				<!--<SingleInfo BombPointGroup = "19"/>-->
+				<SingleInfo BombPointGroup = "15,17,18,19"/>
+				<SingleInfo BombPointGroup = "12,13,14,16"/>
+				<SingleInfo BombPointGroup = "8,9"/>
+				<SingleInfo BombPointGroup = "0,1,4,5,6,10"/>
+				<SingleInfo BombPointGroup = "2,3,7,11"/>
+			</Seat1>
+			<Seat2>
+				<!--<SingleInfo BombPointGroup = "16"/>-->
+				<SingleInfo BombPointGroup = "12,16,17,18"/>
+				<SingleInfo BombPointGroup = "9,13,14,15,18,19"/>
+				<SingleInfo BombPointGroup = "10,11"/>
+				<SingleInfo BombPointGroup = "2,3,5,6,7,9"/>
+				<SingleInfo BombPointGroup = "0,1,4,8"/>
+		    </Seat2>
+			<Seat3>
+				<!--<SingleInfo BombPointGroup = "0"/>-->
+                <SingleInfo BombPointGroup = "0,1,2,4"/>
+				<SingleInfo BombPointGroup = "3,5,6,7"/>
+				<SingleInfo BombPointGroup = "10,11"/>
+				<SingleInfo BombPointGroup = "9,13,14,15,18,19"/>
+				<SingleInfo BombPointGroup = "8,12,16,17"/>
+			</Seat3>			
+		</FireBombFlowerBombSeq>		
+		<FishSeasonConfig bossSeasonRate = "0.0">   
+			<!-- 渔汛1-1：大波鱼快速密集量多朝一个方向游动。适合体型较小鱼种(分值不可过低)，神仙鱼+小丑鱼-->
+			<!--双向：大概25秒-->
+			
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "140" angle = "0" AIID = "0" centerPt = "-100,394">
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,-50"/>
+				    <SingleFishOfSeason FishKindID = "14" FishPos = "480  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,-50"/>									
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "160" angle = "0" AIID = "0" centerPt = "-100,394">
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60 ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60 ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60 ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60 ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,-150"/>				
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "160" angle = "0" AIID = "0" centerPt = "-100,394">
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,200"/>
+			
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,-200"/>
+				
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "140" angle = "180" AIID = "0" centerPt = "3100,394">
+					<SingleFishOfSeason FishKindID = "2" FishPos = "0  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "0  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "0  ,-50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60  ,-50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,-50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,-50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,-50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,-50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,-50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,-50"/>
+				    <SingleFishOfSeason FishKindID = "2" FishPos = "480  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "480  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "480  ,-50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,-50"/>		
+					<SingleFishOfSeason FishKindID = "2" FishPos = "600  ,50"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "600  ,0"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "600  ,-50"/>											
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "160" angle = "180" AIID = "0" centerPt = "3500,394">
+					<SingleFishOfSeason FishKindID = "2" FishPos = "0  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "0  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "0  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "0  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60 ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60 ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60 ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60 ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "480  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "480  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "480  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "480  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,-150"/>
+                    <SingleFishOfSeason FishKindID = "2" FishPos = "600  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "600  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "600  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "600  ,-150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "660  ,100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "660  ,150"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "660  ,-100"/>
+					<SingleFishOfSeason FishKindID = "2" FishPos = "660  ,-150"/>						
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "160" angle = "180" AIID = "0" centerPt = "3500,394">
+				<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "2" FishPos = "0  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "2" FishPos = "60  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "2" FishPos = "120  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "180  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "240  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "2" FishPos = "300  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,200"/>
+			
+					<SingleFishOfSeason FishKindID = "2" FishPos = "360  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "420  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "2" FishPos = "480  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "480  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "540  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "600  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "2" FishPos = "600  ,-200"/>	
+				</FishSeasonInfo>
+			</OneSeason> 
+			
+			<!-- 渔汛1-2：大波鱼快速密集量多朝一个方向游动。适合体型较小鱼种(分值不可过低)，鲽鱼+神仙鱼-->
+			<!--双向：大概25秒-->
+			
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "140" angle = "0" AIID = "0" centerPt = "-100,394">
+					<SingleFishOfSeason FishKindID = "4" FishPos = "0  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "0  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "0  ,-50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60  ,-50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,-50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,-50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,-50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,-50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,-50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,-50"/>
+				    <SingleFishOfSeason FishKindID = "4" FishPos = "480  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "480  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "480  ,-50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,-50"/>		
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,50"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,0"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,-50"/>										
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "160" angle = "0" AIID = "0" centerPt = "-100,394">
+					<SingleFishOfSeason FishKindID = "4" FishPos = "0  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "0  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "0  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "0  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60 ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60 ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60 ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60 ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "480  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "480  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "480  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "480  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,-150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "660  ,100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "660  ,150"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "660  ,-100"/>
+					<SingleFishOfSeason FishKindID = "4" FishPos = "660  ,-150"/>					
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "160" angle = "0" AIID = "0" centerPt = "-100,394">
+				<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "4" FishPos = "0  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "4" FishPos = "60  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "4" FishPos = "120  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "180  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "240  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "4" FishPos = "300  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,200"/>
+			
+					<SingleFishOfSeason FishKindID = "4" FishPos = "360  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "420  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "4" FishPos = "480  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "480  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "540  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "4" FishPos = "600  ,-200"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "140" angle = "180" AIID = "0" centerPt = "3100,394">
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,-50"/>
+				    <SingleFishOfSeason FishKindID = "14" FishPos = "480  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,-50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,50"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,0"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,-50"/>												
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "160" angle = "180" AIID = "0" centerPt = "3500,394">
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60 ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60 ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60 ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60 ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,-150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,-150"/>
+                    <SingleFishOfSeason FishKindID = "14" FishPos = "600  ,100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,150"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,-100"/>
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,-150"/>						
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "160" angle = "180" AIID = "0" centerPt = "3500,394">
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "0  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "60  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "120  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "180  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "240  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "300  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,200"/>
+			
+					<SingleFishOfSeason FishKindID = "14" FishPos = "360  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "420  ,-200"/>
+					
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "480  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "540  ,-200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,200"/>
+				
+					<SingleFishOfSeason FishKindID = "14" FishPos = "600  ,-200"/>	
+				</FishSeasonInfo>
+			</OneSeason> 
+			
+			<!--渔汛2-1:跟随，交叉。美人鱼+孔雀鱼--><!--低级场暂时屏蔽此渔汛-->
+			
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "120" angle = "25" AIID = "16" centerPt = "0,200">
+					<SingleFishOfSeason FishKindID = "23" FishPos = "0   ,-100"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "120" angle = "25" AIID = "15" centerPt = "-108,200">
+					<SingleFishOfSeason FishKindID = "18" FishPos = "300  ,0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "300  ,-70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "300  ,70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "400   ,0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "400   ,-70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "400  ,70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "500  ,0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "500  ,-70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "500  ,70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "600  ,0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "600  ,-70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "600  ,70"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "120" angle = "155" AIID = "22" centerPt = "1280,200">
+					<SingleFishOfSeason FishKindID = "23" FishPos = "0   ,-100"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "120" angle = "155" AIID = "21" centerPt = "1388,200">
+					<SingleFishOfSeason FishKindID = "18" FishPos = "300  ,0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "300  ,-70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "300  ,70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "400   ,0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "400   ,-70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "400  ,70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "500  ,0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "500  ,-70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "500  ,70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "600  ,0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "600  ,-70"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "600  ,70"/>
+				</FishSeasonInfo>
+			</OneSeason>
+			
+			<!--渔汛3-1:波浪环绕。电鳗+刺豚-->	
+			<OneSeason bossSeason = "0">
+			    <FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "0,252">
+					<SingleFishOfSeason FishKindID = "3" FishPos = "0,    0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "168,  0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "336,  0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "504,  0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "672,  0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "840,  0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "1008,  0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "1176,  0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "1344,  0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "1512,  0"/>					
+				</FishSeasonInfo>
+ 
+			  <FishSeasonInfo speed = "200" angle = "0" AIID = "17" centerPt = "-150,210">
+					<SingleFishOfSeason FishKindID = "12" FishPos = "90,  0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "210,  0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "330,  0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "450, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "570, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "690, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "810, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "930, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1050, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1170, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1290, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1410, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1530, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1650, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1770, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1890, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "2010, 0"/>					
+				</FishSeasonInfo>
+		 		
+			    <FishSeasonInfo speed = "150" angle = "180" AIID = "0" centerPt = "1280,465">
+					<SingleFishOfSeason FishKindID = "3" FishPos ="0,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="168,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="336,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="504,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="672,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="840,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="1008,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="1176,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="1344,0"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos ="1512,0"/>		
+			    </FishSeasonInfo>
+			    <FishSeasonInfo speed = "200" angle = "180" AIID = "17" centerPt = "1440,558">
+					<SingleFishOfSeason FishKindID = "12" FishPos = "408, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "528, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "648, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "768, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "888, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1008, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1128, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1248, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1368, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1488, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1608, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1728, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1848, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "1968, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "2088, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "2208, 0"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "2328, 0"/>		
+			    </FishSeasonInfo>
+			</OneSeason>	
+
+			<!--渔汛3-2:波浪环绕。鲷鱼+海龟-->	
+			
+			<OneSeason bossSeason = "0">
+			    <FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "0,282">
+					<SingleFishOfSeason FishKindID = "6" FishPos = "0,    0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "168,  0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "336,  0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "504,  0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "672,  0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "840,  0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1008,  0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1176,  0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1344,  0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1512,  0"/>					
+				</FishSeasonInfo>
+ 
+			  <FishSeasonInfo speed = "200" angle = "0" AIID = "17" centerPt = "-150,210">
+					<SingleFishOfSeason FishKindID = "16" FishPos = "90,  0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "210,  0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "330,  0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "450, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "570, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "690, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "810, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "930, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1050, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1170, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1290, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1410, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1530, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1650, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1770, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1890, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "2010, 0"/>					
+				</FishSeasonInfo>
+		 		
+			    <FishSeasonInfo speed = "150" angle = "180" AIID = "0" centerPt = "1280,465">
+					<SingleFishOfSeason FishKindID = "6" FishPos ="0,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="168,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="336,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="504,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="672,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="840,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="1008,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="1176,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="1344,0"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos ="1512,0"/>		
+			    </FishSeasonInfo>
+			    <FishSeasonInfo speed = "200" angle = "180" AIID = "17" centerPt = "1440,558">
+					<SingleFishOfSeason FishKindID = "16" FishPos = "408, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "528, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "648, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "768, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "888, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1008, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1128, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1248, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1368, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1488, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1608, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1728, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1848, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "1968, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "2088, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "2208, 0"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "2328, 0"/>		
+			    </FishSeasonInfo>
+			</OneSeason>	
+			
+			<!--渔汛4:军队阵型。海龟+水母+鲨鱼+电鳗-->
+			<!--单向：大概25秒-->
+			
+			<OneSeason bossSeason = "0">
+			    <FishSeasonInfo speed = "130" angle = "0" AIID = "0" centerPt = "0,165">
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "108, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "216, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "324, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "432, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "540, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "648, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "756, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "864, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "972, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1080, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1188, 0"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "1296, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1404, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1512, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1620, 0"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "1728, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1836, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1944, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "2052, 0"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "2160, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "2268, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "2376, 0"/>			
+				</FishSeasonInfo>
+			    <FishSeasonInfo speed = "130" angle = "0" AIID = "0" centerPt = "0,602">
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "108, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "216, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "324, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "432, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "540, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "648, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "756, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "864, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "972, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1080, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1188, 0"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "1296, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1404, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1512, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1620, 0"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "1728, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1836, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "1944, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "2052, 0"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "2160, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "2268, 0"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "2376, 0"/>		
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "130" angle = "0" AIID = "0" centerPt = "0,0">
+				    <SingleFishOfSeason FishKindID = "6" FishPos = "156,   260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "312,   260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "468,   260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "624,   260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "780,   260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1740,  260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1896,  260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2064,  260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2220,  260"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2376,  260"/>								    
+					<SingleFishOfSeason FishKindID = "6" FishPos = "156,   385"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "312,   385"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "468,   385"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "624,   385"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "780,   385"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1740,  385"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1896,  385"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2064,  385"/>	
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2220,  385"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2376,  385"/>						
+					<SingleFishOfSeason FishKindID = "6" FishPos = "156,   510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "312,   510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "468,   510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "624,   510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "780,   510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1740,  510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "1896,  510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2064,  510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2220,  510"/>
+					<SingleFishOfSeason FishKindID = "6" FishPos = "2376,  510"/>					
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "130" angle = "0" AIID = "0" centerPt = "0,0">
+				    <SingleFishOfSeason FishKindID = "8" FishPos = "804,   385"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "130" angle = "0" AIID = "0" centerPt = "0,0">
+				    <SingleFishOfSeason FishKindID = "3" FishPos = "1140,   265"/>
+					<SingleFishOfSeason FishKindID = "3" FishPos = "1140,   520"/>
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "130" angle = "0" AIID = "0" centerPt = "0,0">
+					<SingleFishOfSeason FishKindID = "21" FishPos = "1320,  295"/>
+					<SingleFishOfSeason FishKindID = "21" FishPos = "1320,  475"/>
+					<SingleFishOfSeason FishKindID = "21" FishPos = "1500,  385"/>					
+				</FishSeasonInfo>
+			</OneSeason>	
+		
+			<!--渔汛5-1:转圈。小飞鱼+孔雀鱼-->
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "250" angle = "0" AIID = "18" centerPt = "0,120">
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "50,   0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "150,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "250,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "350,  0"/>
+					<SingleFishOfSeason FishKindID = "1" FishPos = "400,   0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "450,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "550,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "650,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "750,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "800,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "850,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "950,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "1000,  0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "250" angle = "0" AIID = "19" centerPt = "0,648">
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "50,   0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "150,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "250,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "350,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "450,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "550,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "650,  0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "750,   0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "850,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "950,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "1050,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "1150,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "1250,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "1350,  0"/>
+				</FishSeasonInfo>
+			    <FishSeasonInfo speed = "250" angle = "180" AIID = "18" centerPt = "1280,648">
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "50,   0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "150,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "250,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "350,  0"/>
+					<SingleFishOfSeason FishKindID = "1" FishPos = "400,   0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "450,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "550,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "650,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "750,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "800,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "850,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "950,  0"/>
+				    <SingleFishOfSeason FishKindID = "1" FishPos = "1000,  0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "250" angle = "180" AIID = "19" centerPt = "1280,120">
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "50,   0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "150,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "250,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "350,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "450,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "550,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "650,  0"/>
+					<SingleFishOfSeason FishKindID = "18" FishPos = "750,   0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "850,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "950,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "1050,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "1150,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "1250,  0"/>
+				    <SingleFishOfSeason FishKindID = "18" FishPos = "1350,  0"/>
+				</FishSeasonInfo>
+			</OneSeason>
+
+			<!--渔汛6,上下中间出鱼。蓝宝石+鲷鱼-->
+		
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "150" angle = "55" AIID = "0" centerPt = "640,0">
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 0"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 108"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 216"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 324"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 432"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 540"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 648"/>
+					<SingleFishOfSeason FishKindID = "11" FishPos = "0, 756"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 864"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 972"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1080"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1188"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1296"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1404"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1512"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1620"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1728"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1836"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 1944"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 2052"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 2160"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 2268"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 2364"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0, 2472"/>			
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "125" AIID = "0" centerPt = "640,0">
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 0"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 108"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 216"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 324"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 432"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 540"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 648"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "0, 756"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 864"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 972"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1080"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1188"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1296"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1404"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1512"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1620"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1728"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1836"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 1944"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 2052"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 2160"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 2268"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 2364"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0, 2472"/>							
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "-55" AIID = "0" centerPt = "640,738">
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,     0"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,   108"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,   216"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,   324"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,   432"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,   540"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,   648"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "0,   756"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,   864"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,   972"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  1080"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  1188"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  1296"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  1404"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "0,  1512"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "0,  1620"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  1728"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  1836"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  1944"/>
+					<SingleFishOfSeason FishKindID = "16" FishPos = "0,  2052"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  2160"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  2268"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  2364"/>
+				    <SingleFishOfSeason FishKindID = "16" FishPos = "0,  2472"/>							
+				</FishSeasonInfo>      
+				<FishSeasonInfo speed = "150" angle = "-125" AIID = "0" centerPt = "640,738">
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  0 "/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  108"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  216"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  324"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  432"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  540"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  648"/>
+					<SingleFishOfSeason FishKindID = "11" FishPos = "0,  756"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  864"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  972"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  1080"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  1188"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  1296"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  1404"/>
+					<SingleFishOfSeason FishKindID = "11" FishPos = "0,  1512"/>
+					<SingleFishOfSeason FishKindID = "11" FishPos = "0,  1620"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  1728"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  1836"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  1944"/>
+					<SingleFishOfSeason FishKindID = "11" FishPos = "0,  2052"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  2160"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  2268"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  2364"/>
+				    <SingleFishOfSeason FishKindID = "11" FishPos = "0,  2472"/>							
+				</FishSeasonInfo>   				
+			</OneSeason>  
+	
+			<!--渔汛7,集团军，彩带，流水。海马，比目鱼-->
+			<!--双向：大概25秒-->
+
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,80">
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "72,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "144,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "216, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "288,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "360,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "432,  0"/>
+					<SingleFishOfSeason FishKindID = "15" FishPos = "504,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "576,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "672,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "768,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "864,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "936,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1008,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1152,  0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1224, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1296, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1368, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1440, 0"/>
+					<SingleFishOfSeason FishKindID = "15" FishPos = "1512, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1584, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1656, 0"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,140">
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "0,    0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "120,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "240,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "360,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "480,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "720,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "840,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "960,  0"/>
+					<SingleFishOfSeason FishKindID = "17" FishPos = "1080,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "1200, 0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "1320, 0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "1440, 0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "1560, 0"/>
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,210">
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "0, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "72, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "144, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "216, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "288, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "360, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "432, 0"/>
+					<SingleFishOfSeason FishKindID = "15" FishPos = "504, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "576, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "672, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "768, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "864, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "936, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1008, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1152, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1224, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1296, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1368, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1440, 0"/>
+					<SingleFishOfSeason FishKindID = "15" FishPos = "1512, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1584, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1656, 0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "4000,80">
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "0,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "72,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "144,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "216,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "288,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "360,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "432,0"/>
+					<SingleFishOfSeason FishKindID = "15" FishPos = "504,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "576,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "672,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "768,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "864,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "936,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1008,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1080,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1152,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1224, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1296, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1368, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1440, 0"/>
+					<SingleFishOfSeason FishKindID = "15" FishPos = "1512, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1584, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1656, 0"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "4000,140">
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "120,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "240,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "360,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "480,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "720,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "840,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "960,  0"/>
+					<SingleFishOfSeason FishKindID = "17" FishPos = "1080,  0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "1200, 0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "1320, 0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "1440, 0"/>
+				    <SingleFishOfSeason FishKindID = "17" FishPos = "1560, 0"/>
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "4000,210">
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "0,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "72,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "144,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "216,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "288,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "360,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "432,0"/>
+					<SingleFishOfSeason FishKindID = "15" FishPos = "504,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "576,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "672,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "768,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "864,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "936,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1008,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1080,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1152,0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1224, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1296, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1368, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1440, 0"/>
+					<SingleFishOfSeason FishKindID = "15" FishPos = "1512, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1584, 0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "1656, 0"/>
+				</FishSeasonInfo>				
+			</OneSeason>     
+
+			<!--渔汛8,圆圈平移，正向:刺豚+章鱼+虎鲸。反向:水母+海马+美人鱼-->
+			<!--双向：大概25秒-->
+
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "-408,384">
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "0,     -264"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "86,    -245"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-86,   -245"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "140,   -213"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-140,  -213"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "186,   -165"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-186,  -165"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "220,   -100"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-220,  -100"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "270,   -41"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-270,  -41"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "0,     264"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "86,    245"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-86,   245"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "140,   213"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-140,  213"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "186,   165"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-186,  165"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "220,   100"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-220,  100"/>
+					<SingleFishOfSeason FishKindID = "12" FishPos = "270,   41"/>
+				    <SingleFishOfSeason FishKindID = "12" FishPos = "-270,  41"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "-408,384">
+				    <SingleFishOfSeason FishKindID = "13" FishPos = "-20,   -170"/>
+				    <SingleFishOfSeason FishKindID = "13" FishPos = "70,    -113"/>
+				    <SingleFishOfSeason FishKindID = "13" FishPos = "-130,  -113"/>
+				    <SingleFishOfSeason FishKindID = "13" FishPos = "140,     0"/>
+				    <SingleFishOfSeason FishKindID = "13" FishPos = "-170,    0"/>
+				    <SingleFishOfSeason FishKindID = "13" FishPos = "-20,      170"/>
+				    <SingleFishOfSeason FishKindID = "13" FishPos = "70,     113"/>
+				    <SingleFishOfSeason FishKindID = "13" FishPos = "-130,    113"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "-408,384">
+				    <SingleFishOfSeason FishKindID = "10" FishPos = "-170,   0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "180" AIID = "0" centerPt = "3576,384">
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "0,     -264"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "86,    -245"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-86,   -245"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "140,   -213"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-140,  -213"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "186,   -165"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-186,  -165"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "220,   -100"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-220,  -100"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "270,   -41"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-270,  -41"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "0,     264"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "86,    245"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-86,   245"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "140,   213"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-140,  213"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "186,   165"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-186,  165"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "220,   100"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-220,  100"/>
+					<SingleFishOfSeason FishKindID = "5" FishPos = "270,   41"/>
+				    <SingleFishOfSeason FishKindID = "5" FishPos = "-270,  41"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "180" AIID = "0" centerPt = "3576,384">
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "0,   -170"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "0,    170"/>					
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "100,   -113"/>
+                    <SingleFishOfSeason FishKindID = "15" FishPos = "100,    113"/>					
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "-100,  -113"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "-100,   113"/>					
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "180,     0"/>
+				    <SingleFishOfSeason FishKindID = "15" FishPos = "-170,    0"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "180" AIID = "0" centerPt = "3576,384">
+				    <SingleFishOfSeason FishKindID = "23" FishPos = "-200,   0"/>
+				</FishSeasonInfo>				
+			</OneSeason> 	
+   	
+		</FishSeasonConfig>                                            
+	</Server>                                                          
+</CapFish>                                                             
+                                                                       

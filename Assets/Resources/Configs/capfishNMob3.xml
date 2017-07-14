@@ -1,0 +1,1768 @@
+﻿<CapFish>
+	<Common>
+		<FishInfoConfig>
+			<FishInfo FishKindID = "0"  speed = "180" value = "2"    wight = "1.0"     length = "54.6"  width = "27.3"  radius = "27.3" circleCnt = "1" radiusMlt = "1"/>            <!--小黄鱼-->
+			<FishInfo FishKindID = "1"  speed = "135" value = "3"    wight = "1.5"     length = "63.7"  width = "41.6"  radius = "32.5" circleCnt = "1" radiusMlt = "1"/>            <!--小飞鱼-->
+			<FishInfo FishKindID = "2"  speed = "135" value = "8"    wight = "3.0"     length = "85.8"  width = "46.8"  radius = "44.2" circleCnt = "1" radiusMlt = "1"/>           <!--小丑鱼-->
+			<FishInfo FishKindID = "3"  speed = "120" value = "50"   wight = "7.0"     length = "175.5" width = "65"    radius = "39"   circleCnt = "3" radiusMlt = "1,1.3,1"/>  <!--电鳗-->
+			<FishInfo FishKindID = "4"  speed = "135" value = "4"    wight = "2.0"     length = "70.2"  width = "54.6"  radius = "35.1" circleCnt = "1" radiusMlt = "1"/>            <!--鲽鱼-->
+			<FishInfo FishKindID = "5"  speed = "80"  value = "20"   wight = "4.5"     length = "109.2" width = "70.2"  radius = "27.3" circleCnt = "3" radiusMlt = "1,1.3,1.1"/>     <!--水母-->
+			<FishInfo FishKindID = "6"  speed = "80"  value = "40"   wight = "6.0"     length = "163.8" width = "117"   radius = "81.9" circleCnt = "1" radiusMlt = "1"/>           <!--海龟-->
+			<FishInfo FishKindID = "7"  speed = "120" value = "120"  wight = "11.0"    length = "289"   width = "136"   radius = "51"   circleCnt = "6" radiusMlt = "1,1,1,0.7,0.01,1"/>    <!--海豚-->
+			<FishInfo FishKindID = "8"  speed = "80"  value = "100"  wight = "10.0"    length = "411"   width = "151"   radius = "58"   circleCnt = "5" radiusMlt = "1,1,1,1,1"/>  <!--鲨鱼-->
+			<FishInfo FishKindID = "9"  speed = "70"  value = "500"  wight = "20.0"    length = "388"   width = "192"   radius = "55"   circleCnt = "6" radiusMlt = "1.5,1,1,0.8,0.8,0.6"/>    <!--大鲨鱼-->
+			<FishInfo FishKindID = "10" speed = "100" value = "150"  wight = "12.0"    length = "322"   width = "146"   radius = "56"   circleCnt = "6" radiusMlt = "1,1,1,0.8,0.01,1"/>  <!--虎鲸-->
+			<FishInfo FishKindID = "11" speed = "110" value = "30"   wight = "5.5"     length = "117"   width = "45.5"  radius = "32.5" circleCnt = "3" radiusMlt = "1,1,1"/>        <!--蓝宝石-->
+			<FishInfo FishKindID = "12" speed = "135" value = "10"   wight = "3.0"     length = "123.5" width = "66.3"  radius = "58.5" circleCnt = "1" radiusMlt = "1"/>           <!--刺豚-->
+			<FishInfo FishKindID = "13" speed = "90"  value = "30"   wight = "5.5"     length = "135.2" width = "123.5" radius = "58.5" circleCnt = "1" radiusMlt = "1"/>           <!--章鱼-->
+			<FishInfo FishKindID = "14" speed = "160" value = "5"    wight = "2.0"     length = "70.2"  width = "49.4"  radius = "35.1" circleCnt = "1" radiusMlt = "1"/>            <!--神仙鱼-->
+			<FishInfo FishKindID = "15" speed = "90"  value = "20"   wight = "4.5"     length = "85.8"  width = "72.8"  radius = "42.9" circleCnt = "1" radiusMlt = "1"/>            <!--海马-->
+			<FishInfo FishKindID = "16" speed = "105" value = "30"   wight = "5.5"     length = "117"   width = "44.2"  radius = "32.5" circleCnt = "3" radiusMlt = "1,1,1"/>     <!--鲷鱼-->
+			<FishInfo FishKindID = "17" speed = "90"  value = "40"   wight = "6.0"     length = "143"   width = "91"    radius = "71.5" circleCnt = "1" radiusMlt = "1"/>  <!--比目鱼-->
+			<FishInfo FishKindID = "18" speed = "105" value = "60"   wight = "8.0"     length = "117"   width = "65"    radius = "58.5" circleCnt = "1" radiusMlt = "1"/>            <!--孔雀鱼-->
+			<FishInfo FishKindID = "19" speed = "90"  value = "60"   wight = "8.0"     length = "166.4" width = "92.3"  radius = "83.2" circleCnt = "1" radiusMlt = "1"/>    <!--灯笼鱼-->
+			<FishInfo FishKindID = "20" speed = "130" value = "80"   wight = "9.0"     length = "217.1" width = "78"    radius = "35.1" circleCnt = "5" radiusMlt = "1,1,1,1,1"/> <!--旗鱼-->
+			<FishInfo FishKindID = "21" speed = "80"  value = "80"   wight = "9.0"     length = "204"   width = "185"   radius = "49"   circleCnt = "3" radiusMlt = "1,1.5,1"/>          <!--魔鬼鱼-->
+			<FishInfo FishKindID = "22" speed = "80"  value = "80"   wight = "9.0"     length = "156"   width = "128"   radius = "78"   circleCnt = "1" radiusMlt = "1"/>       <!--狮子鱼-->
+			<FishInfo FishKindID = "23" speed = "80"  value = "180"  wight = "13.0"    length = "378"   width = "148"   radius = "54"   circleCnt = "6" radiusMlt = "1,1,1,1,1,1"/>       <!--美人鱼-->
+			<FishInfo FishKindID = "24" speed = "60"  value = "500" wight = "20.0"     length = "840"   width = "395"   radius = "148"  circleCnt = "5" radiusMlt = "1,1,1,0.7,1"/>       <!--坐头鲸-->
+			<FishInfo FishKindID = "25" speed = "40"  value = "200"  wight = "10.0"    length = "78"    width = "78"    radius = "39"   circleCnt = "1" radiusMlt = "1"/>       <!--水雷-->
+			<FishInfo FishKindID = "26" speed = "50"  value = "1"   wight = "1.0"      length = "104"   width = "104"   radius = "52"   circleCnt = "1" radiusMlt = "1"/>       <!--物品鱼-->
+			<FishInfo FishKindID = "27" speed = "60"  value = "1500" wight = "20.0"    length = "500"   width = "185"   radius = "68"   circleCnt = "7" radiusMlt = "1,0.8,0.8,0.7,0.7,0.7,0.5"/>       <!--boss1鱼-->
+			<FishInfo FishKindID = "28" speed = "40"  value = "5500" wight = "44.0"    length = "715"   width = "390"   radius = "48"   circleCnt = "9" radiusMlt = "1,1,1,1,1,0.9,1,0.9,1"/>       <!--boss2,娜迦 -->
+			<FishInfo FishKindID = "29" speed = "120" value = "6"    wight = "2.0"     length = "87.1"  width = "52"    radius = "44.2" circleCnt = "1" radiusMlt = "1"/>       <!--鹦鹉鱼-->
+			<FishInfo FishKindID = "30" speed = "160" value = "10"   wight = "3.0"     length = "175.5" width = "175.5" radius = "84.5" circleCnt = "1" radiusMlt = "1"/>       <!--大飞鱼-->
+			<FishInfo FishKindID = "31" speed = "40" value = "20"    wight = "4.5"     length = "84.5"  width = "85.8"  radius = "42.9" circleCnt = "1" radiusMlt = "1"/>       <!--海星-->
+			<FishInfo FishKindID = "32" speed = "70" value = "60"    wight = "8"       length = "153.4" width = "78"    radius = "32.5" circleCnt = "5" radiusMlt = "1,1,1,1,1"/>       <!--海兔-->
+			<FishInfo FishKindID = "33" speed = "80" value = "80"    wight = "9"       length = "114.4" width = "114.4" radius = "39"   circleCnt = "5" radiusMlt = "1,1,1,1,1"/>       <!--翻车鱼-->
+			<FishInfo FishKindID = "34" speed = "100" value = "100"  wight = "10"      length = "228"   width = "107"   radius = "43"   circleCnt = "5" radiusMlt = "1,1.1,0.9,0.9,0.7"/>       <!--盔甲鱼-->
+			<FishInfo FishKindID = "35" speed = "80" value = "150"   wight = "12"      length = "451"   width = "198"   radius = "93"   circleCnt = "5" radiusMlt = "1,1,0.9,1,0.6"/>       <!--锤头鲨-->
+			<FishInfo FishKindID = "36" speed = "100" value = "150"  wight = "12"      length = "272"   width = "173"   radius = "80"   circleCnt = "5" radiusMlt = "1,0.85,0.85,0.7,0.7"/>       <!--海象-->
+			<FishInfo FishKindID = "37" speed = "80" value = "180"   wight = "13"      length = "210"   width = "190"   radius = "86"   circleCnt = "3" radiusMlt = "1,0.9,0.5"/>       <!--鲎鱼-->
+			<FishInfo FishKindID = "38" speed = "40" value = "12000"  wight = "54"     length = "910"   width = "390"   radius = "104"  circleCnt = "9" radiusMlt = "1,1,0.8,1,0.8,0.9,0.8,0.9,0.8"/>       <!--海龙-->
+			<FishInfo FishKindID = "39" speed = "50"  value = "1"    wight = "1.0"     length = "104"   width = "104"   radius = "52"   circleCnt = "1" radiusMlt = "1"/>       <!--魔法卡牌鱼-->
+			<FishInfo FishKindID = "40" speed = "50"  value = "6500"  wight = "65.0"   length = "116"   width = "116"   radius = "58"   circleCnt = "1" radiusMlt = "1"/>       <!--宝箱鱼-->
+			<FishInfo FishKindID = "41" speed = "60"  value = "4000" wight = "45.0"    length = "500"   width = "200"   radius = "100"  circleCnt = "3" radiusMlt = "1,1.1,1.1"/>       <!--金蝉boss-->			
+			<FishInfo FishKindID = "42" speed = "50"  value = "1000" wight = "50"      length = "305"   width = "242"   radius = "68"   circleCnt = "3" radiusMlt = "1,1.2,1"/>             <!--boss5-独角兽-->
+			<FishInfo FishKindID = "43" speed = "40"  value = "5000" wight = "50"      length = "631"   width = "586"   radius = "149"  circleCnt = "3" radiusMlt = "1,0.9,0.9"/>           <!--boss6-大章鱼-->			
+			<FishInfo FishKindID = "44" speed = "50"  value = "4500" wight = "50"      length = "639"   width = "280"   radius = "100"  circleCnt = "9" radiusMlt = "1,1,0.8,1,0.5,0.01,0.5,0.01,0.5"/> <!--boss7-小金龙-->		
+            <FishInfo FishKindID = "45" speed = "50"  value = "1000" wight = "50"      length = "410"   width = "358"   radius = "160"  circleCnt = "3" radiusMlt = "1,0.65,0.65"/>         <!--boss8-年兽-->	
+            <FishInfo FishKindID = "46" speed = "50"  value = "800"  wight = "28"      length = "489"   width = "227"   radius = "53"   circleCnt = "5" radiusMlt = "1,1.3,1,1,1"/>         <!--鲸鲨-->	            						
+            <FishInfo FishKindID = "47" speed = "55"  value = "400"  wight = "20"      length = "373"   width = "207"   radius = "59"   circleCnt = "5" radiusMlt = "1,1,1,0.8,0.8"/>       <!--咸水鳄-->	    
+            <FishInfo FishKindID = "48" speed = "60"  value ="200"   wight = "14"      length = "337"   width = "193"   radius = "60"   circleCnt = "5" radiusMlt = "1,1,1,0.9,0.8"/>       <!--巨齿鲨-->	    
+            <FishInfo FishKindID = "49" speed = "80"  value ="200"   wight = "14"      length = "310"   width = "122"   radius = "30"   circleCnt = "7" radiusMlt = "1,1,1,1,1,1.1,1"/>     <!--海蛇-->	  
+            <FishInfo FishKindID = "50" speed = "60"  value ="300"   wight = "17"      length = "347"   width = "180"   radius = "72"   circleCnt = "3" radiusMlt = "1,1,1"/>               <!--白鲸-->	   
+            <FishInfo FishKindID = "51" speed = "120" value ="20"    wight = "4.5"     length = "80"    width = "71"    radius = "31"   circleCnt = "1" radiusMlt = "1"/>                   <!--斑点鱼-->	  
+            <FishInfo FishKindID = "52" speed = "40"  value ="150"   wight = "12"      length = "96"    width = "96"    radius = "31"   circleCnt = "1" radiusMlt = "1"/>                   <!--海蚌-->	   
+            <FishInfo FishKindID = "53" speed = "40"  value ="30"    wight = "5.5"     length = "100"   width = "100"   radius = "45"   circleCnt = "1" radiusMlt = "1"/>                   <!--海胆-->	                                                                          						     
+            <FishInfo FishKindID = "54" speed = "70"  value ="50"    wight = "7"       length = "91"    width = "76"    radius = "39"   circleCnt = "1" radiusMlt = "1"/>                   <!--寄居蟹-->
+            <FishInfo FishKindID = "55" speed = "75"  value = "60"   wight = "8"       length = "117"   width = "136"   radius = "41"   circleCnt = "1" radiusMlt = "1"/>                   <!--龙虾-->    
+            <FishInfo FishKindID = "56" speed = "90"  value = "80"   wight = "9"       length = "142"   width = "94"    radius = "32"   circleCnt = "3" radiusMlt = "1,0.93,0.93"/>         <!--企鹅-->   
+            <FishInfo FishKindID = "57" speed = "110" value = "30"   wight = "5.5"     length = "90"    width = "53"    radius = "42"   circleCnt = "1" radiusMlt = "1"/>                   <!--清道夫-->  
+            <FishInfo FishKindID = "58" speed = "75"  value ="60 "   wight = "8"       length = "98"    width = "91"    radius = "34"   circleCnt = "1" radiusMlt = "1"/>                   <!--石头鱼-->       
+            <FishInfo FishKindID = "59" speed = "100" value = "50"   wight = "7"       length = "95"    width = "72"    radius = "46"   circleCnt = "1" radiusMlt = "1"/>                   <!--食人鱼-->  
+            <FishInfo FishKindID = "60" speed = "80"  value ="300"   wight = "17"      length = "165"   width = "108"   radius = "33"   circleCnt = "3" radiusMlt = "1,1,1"/>               <!--娃娃鱼-->      
+            <FishInfo FishKindID = "61" speed = "80"  value = "40"   wight = "6"       length = "96"    width = "83"    radius = "43"   circleCnt = "1" radiusMlt = "1"/>                   <!--鹦鹉螺-->                          
+			<FishInfo FishKindID = "62" speed = "50"  value = "2"    wight = "10"  	   length = "104"   width = "104"   radius = "52"   circleCnt = "1" radiusMlt = "1"/>					<!--加倍卡鱼-->
+		</FishInfoConfig>
+		<BulletInfoConfig>
+			<BulletInfo speed = "700" value = "1"  radius = "10" bombRadius = "42.0"/>
+			<BulletInfo speed = "700" value = "2"  radius = "10" bombRadius = "42.0"/>
+			<BulletInfo speed = "700" value = "3"  radius = "10" bombRadius = "42.0"/>
+			<BulletInfo speed = "700" value = "4"  radius = "15" bombRadius = "49.0"/>
+			<BulletInfo speed = "700" value = "5"  radius = "15" bombRadius = "49.0"/>
+			<BulletInfo speed = "700" value = "6"  radius = "15" bombRadius = "49.0"/>
+			<BulletInfo speed = "700" value = "7"  radius = "15" bombRadius = "49.0"/>
+			<BulletInfo speed = "700" value = "8"  radius = "15" bombRadius = "56.0"/>
+			<BulletInfo speed = "700" value = "9"  radius = "15" bombRadius = "56.0"/>
+			<BulletInfo speed = "700" value = "10" radius = "20" bombRadius = "56.0"/>
+			<BulletInfo speed = "700" value = "11" radius = "20" bombRadius = "70.0"/>
+			<BulletInfo speed = "700" value = "12" radius = "20" bombRadius = "70.0"/>
+			<BulletInfo speed = "700" value = "13" radius = "20" bombRadius = "70.0"/>
+			<BulletInfo speed = "700" value = "14" radius = "20" bombRadius = "70.0"/>
+			<BulletInfo speed = "700" value = "15" radius = "20" bombRadius = "70.0"/>
+			<BulletInfo speed = "700" value = "16" radius = "20" bombRadius = "78.4"/>
+			<BulletInfo speed = "700" value = "17" radius = "20" bombRadius = "79.8"/>
+			<BulletInfo speed = "700" value = "18" radius = "20" bombRadius = "81.2"/>
+			<BulletInfo speed = "700" value = "19" radius = "20" bombRadius = "82.6"/>
+			<BulletInfo speed = "750" value = "20" radius = "23" bombRadius = "84.0"/>
+			<BulletInfo speed = "750" value = "21" radius = "23" bombRadius = "85.4"/>
+			<BulletInfo speed = "750" value = "22" radius = "23" bombRadius = "86.8"/>
+			<BulletInfo speed = "750" value = "23" radius = "23" bombRadius = "88.2"/>
+			<BulletInfo speed = "750" value = "24" radius = "23" bombRadius = "89.6"/>
+			<BulletInfo speed = "750" value = "25" radius = "23" bombRadius = "91.0"/>
+			<BulletInfo speed = "750" value = "26" radius = "23" bombRadius = "92.4"/>
+			<BulletInfo speed = "750" value = "27" radius = "23" bombRadius = "93.8"/>
+			<BulletInfo speed = "750" value = "28" radius = "23" bombRadius = "95.2"/>
+			<BulletInfo speed = "750" value = "29" radius = "23" bombRadius = "96.6"/>
+			<BulletInfo speed = "800" value = "30" radius = "25" bombRadius = "98.0"/>
+			<BulletInfo speed = "800" value = "31" radius = "25" bombRadius = "99.4"/>
+			<BulletInfo speed = "800" value = "32" radius = "25" bombRadius = "100.8"/>
+			<BulletInfo speed = "800" value = "33" radius = "25" bombRadius = "102.2"/>
+			<BulletInfo speed = "800" value = "34" radius = "25" bombRadius = "103.6"/>
+			<BulletInfo speed = "800" value = "35" radius = "30" bombRadius = "105.0"/>
+			<BulletInfo speed = "800" value = "36" radius = "30" bombRadius = "106.4"/>
+			<BulletInfo speed = "800" value = "37" radius = "30" bombRadius = "107.8"/>
+			<BulletInfo speed = "800" value = "38" radius = "30" bombRadius = "109.2"/>
+			<BulletInfo speed = "800" value = "39" radius = "30" bombRadius = "110.6"/>
+			<BulletInfo speed = "800" value = "40" radius = "30" bombRadius = "112.0"/>
+			<BulletInfo speed = "800" value = "41" radius = "30" bombRadius = "114.8"/>
+			<BulletInfo speed = "800" value = "42" radius = "30" bombRadius = "117.6"/>
+			<BulletInfo speed = "800" value = "43" radius = "30" bombRadius = "120.4"/>
+			<BulletInfo speed = "800" value = "44" radius = "30" bombRadius = "123.2"/>
+			<BulletInfo speed = "800" value = "45" radius = "30" bombRadius = "126.0"/>
+			<BulletInfo speed = "800" value = "46" radius = "30" bombRadius = "128.8"/>
+			<BulletInfo speed = "800" value = "47" radius = "30" bombRadius = "131.6"/>
+			<BulletInfo speed = "800" value = "48" radius = "30" bombRadius = "134.4"/>
+			<BulletInfo speed = "800" value = "49" radius = "30" bombRadius = "137.2"/>
+			<BulletInfo speed = "800" value = "50" radius = "30" bombRadius = "140.0"/>
+		</BulletInfoConfig>
+		<SpecialBulletConfig>
+			<BulletElectroEx>
+			    <SingleInfo value = "250" bombRadius = "250"/> <!--水-->
+				<SingleInfo value = "300" bombRadius = "250"/> <!--弱火-->
+				<SingleInfo value = "350" bombRadius = "250"/> <!--强火-->
+				<SingleInfo value = "450" bombRadius = "250"/> <!--弱电-->
+				<SingleInfo value = "550" bombRadius = "250"/> <!--强电-->
+				<SingleInfo value = "700" bombRadius = "300"/> <!--极光-->
+			</BulletElectroEx>
+			<BulletMultiEx>
+			    <SingleInfo level = "8"  shootCnt = "10" angle = "30" multiCnt = "3"/> <!--水-->
+				<SingleInfo level = "10" shootCnt = "10" angle = "30" multiCnt = "3"/> <!--弱火-->
+				<SingleInfo level = "12" shootCnt = "10" angle = "30" multiCnt = "3"/> <!--强火-->
+				<SingleInfo level = "5"  shootCnt = "8"  angle = "30" multiCnt = "3" maxCatchValue = "30"/> <!--弱电-->
+				<SingleInfo level = "6"  shootCnt = "8"  angle = "30" multiCnt = "3" maxCatchValue = "30"/> <!--强电-->
+				<SingleInfo level = "250" shootCnt = "3"  angle = "50" multiCnt = "1"/> <!--极光-->
+			</BulletMultiEx>
+			<BulletBouncingEx>
+			    <SingleInfo value = "10" radius = "25" speed = "1200" bouncewallcount = "20"  maxcapturefishvalue = "180"/> <!--水-->
+				<SingleInfo value = "12" radius = "25" speed = "1200" bouncewallcount = "20"  maxcapturefishvalue = "225"/> <!--弱火-->
+				<SingleInfo value = "15" radius = "25" speed = "1200" bouncewallcount = "20" maxcapturefishvalue = "275"/> <!--强火-->
+				<SingleInfo value = "20" radius = "25" speed = "1200" bouncewallcount = "20" maxcapturefishvalue = "400"/> <!--弱电-->
+				<SingleInfo value = "25" radius = "25" speed = "1200" bouncewallcount = "20" maxcapturefishvalue = "500"/> <!--强电-->
+				<SingleInfo value = "30" radius = "70" speed = "1200" bouncewallcount = "20" maxcapturefishvalue = "700"/> <!--极光-->
+			</BulletBouncingEx>
+			<BulletBombFlowerEx>
+			    <SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "50" bombRadius = "70"/> <!--水-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "60" bombRadius = "70"/> <!--弱火-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "70" bombRadius = "70"/> <!--强火-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "90" bombRadius = "70"/> <!--弱电-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "18" value = "100" bombRadius = "70"/> <!--强电-->
+				<SingleInfo pointSumNum = "20" pointUsedNum = "1" value = "1200" bombRadius = "640"/> <!--极光-->
+			</BulletBombFlowerEx>
+			<BulletBombFlowerPoint>
+			    <SingleBombPoint pX = "100"  pY = "166"/>
+				<SingleBombPoint pX = "100"  pY = "306"/>
+				<SingleBombPoint pX = "100"  pY = "446"/>
+				<SingleBombPoint pX = "100"  pY = "586"/>
+				<SingleBombPoint pX = "365"  pY = "166"/>
+				<SingleBombPoint pX = "365"  pY = "306"/>
+				<SingleBombPoint pX = "365"  pY = "446"/>
+				<SingleBombPoint pX = "365"  pY = "586"/>
+				<SingleBombPoint pX = "630"  pY = "166"/>
+				<SingleBombPoint pX = "630"  pY = "306"/>
+				<SingleBombPoint pX = "630"  pY = "446"/>
+				<SingleBombPoint pX = "630"  pY = "586"/>
+				<SingleBombPoint pX = "895"  pY = "166"/>
+				<SingleBombPoint pX = "895"  pY = "306"/>
+				<SingleBombPoint pX = "895"  pY = "446"/>
+				<SingleBombPoint pX = "895" pY = "586"/>
+				<SingleBombPoint pX = "1160" pY = "166"/>
+				<SingleBombPoint pX = "1160" pY = "306"/>
+				<SingleBombPoint pX = "1160" pY = "446"/>
+				<SingleBombPoint pX = "1160" pY = "586"/>
+			</BulletBombFlowerPoint>
+			<BulletFishBomb value = "100" bombRadius = "240"/> <!--水雷（炸弹鱼）爆炸属性-->
+			<BulletBlackHole pX = "640" pY = "396" slowPercent = "90" lifeTime = "3.5"/>
+			<BulletForkedLightning radius = "550"/>
+		</SpecialBulletConfig>
+		<CannonInfoConfig startLevel = "11" validCnt = "33" validLevel = "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39"/>
+		<CannonsPositionConfig>
+		    <CannonsPosition pX = "398" pY = "670"/>
+			<CannonsPosition pX = "882" pY = "670"/>
+			<CannonsPosition pX = "882" pY = "50"/>
+			<CannonsPosition pX = "398" pY = "50"/>
+		</CannonsPositionConfig>
+		<ScreenSizenConfig screentWidth = "1280" screentHeight = "720"/>
+		<GoodsFishCommonConfig bounceWallCount = "1"/> <!--物品鱼信息，反弹次数--> 
+	</Common>
+	<Server>
+		<IslandDomainConfig islandDomainID="5309" islandDayDomainID="5311" islandWeekDomainID="5310"/>
+		<CannonUpgradeOnOffConfig onOff = "1" />
+		<GemPropConfig>
+			<GemPropInfo type="0" timeLong="20" cdTime="20" costType="6" costCount="3" validLevel="39" forbidTime="15" taxStandardValue = "56" taxValue = "1"/>
+			<GemPropInfo type="1" timeLong="10" cdTime="1"  costType="5" costCount="2" validLevel="39" forbidTime="15" taxStandardValue = "56" taxValue = "1"/>
+			<GemPropInfo type="2" timeLong="15" cdTime="15" costType="4" costCount="8" validLevel="39" forbidTime="15" taxStandardValue = "56" taxValue = "1"/>
+		</GemPropConfig>
+		<FishCreateLoopConfig loop="3.0">
+			<FishCountParam minCount="0" maxCount="15" loop="4.5">
+				<FishValueParam minValue="0" maxValue="999" loop="4.5"/>
+			</FishCountParam>
+			<FishCountParam minCount="15" maxCount="75" loop="3.0">
+				<FishValueParam minValue="0" maxValue="2000" loop="4.5"/>
+				<FishValueParam minValue="2000" maxValue="8000" loop="2.8"/>
+				<FishValueParam minValue="8000" maxValue="20000" loop="2.0"/>
+                        	<FishValueParam minValue="20000" maxValue="999999" loop="0"/>
+			</FishCountParam>
+			<FishCountParam minCount="75" maxCount="9999" loop="2.0">
+				<FishValueParam minValue="0" maxValue="20000" loop="2.0"/>
+                                <FishValueParam minValue="20000" maxValue="999999" loop="0"/>
+			</FishCountParam>
+		</FishCreateLoopConfig>
+		<MultiFishGroupConfig>
+			<MultiFishGroup groupNo="1" returnRate="1.00" calcMulti="8" awardStrategyFactor="1" fishIDs="19,20,21">
+			    <MultiInfo multi = "3" percent = "0.21"/>
+			    <MultiInfo multi = "5" percent = "0.37"/>
+			    <MultiInfo multi = "10" percent = "0.39"/>
+			    <MultiInfo multi = "50" percent = "0.03"/>
+			</MultiFishGroup>
+			<MultiFishGroup groupNo="2" returnRate="1.00" calcMulti="8" awardStrategyFactor="1" fishIDs="7,34">
+			    <MultiInfo multi = "3" percent = "0.21"/>
+			    <MultiInfo multi = "5" percent = "0.37"/>
+			    <MultiInfo multi = "10" percent = "0.39"/>
+			    <MultiInfo multi = "50" percent = "0.03"/>
+			</MultiFishGroup>
+			<MultiFishGroup groupNo="3" returnRate="1.00" calcMulti="8" awardStrategyFactor="1" fishIDs="23,36,37">
+			    <MultiInfo multi = "3" percent = "0.19"/>
+			    <MultiInfo multi = "5" percent = "0.4"/>
+			    <MultiInfo multi = "10" percent = "0.38"/>
+			    <MultiInfo multi = "50" percent = "0.03"/>
+			</MultiFishGroup>
+			<MultiFishGroup groupNo="4" returnRate="1.00" calcMulti="8" awardStrategyFactor="1" fishIDs="48,49,60">
+			     <MultiInfo multi = "3" percent = "0.11"/>
+			    <MultiInfo multi = "5" percent = "0.51"/>
+			    <MultiInfo multi = "10" percent = "0.35"/>
+			    <MultiInfo multi = "50" percent = "0.03"/>
+			</MultiFishGroup>
+			<MultiFishGroup groupNo="5" returnRate="1.00" calcMulti="8" awardStrategyFactor="1" fishIDs="9,46,47">
+			    <MultiInfo multi = "3" percent = "0.06"/>
+			    <MultiInfo multi = "5" percent = "0.58"/>
+			    <MultiInfo multi = "10" percent = "0.33"/>
+			    <MultiInfo multi = "50" percent = "0.03"/>
+			</MultiFishGroup>
+		</MultiFishGroupConfig>
+		<GameTaskConfig readyTime="6" timeLong="240" playerCountLimit="2"><!--游戏内任务配置-->
+           <TaskFishNode>
+              <TaskFish><!--小型鱼-->
+                 <SingleFish kindID = "2"   count = "20"/>  <!--小丑鱼-->           
+                 <SingleFish kindID = "29"  count = "20"/>  <!--鹦鹉鱼-->
+              </TaskFish>
+              <TaskFish><!--中型鱼-->
+                 <SingleFish kindID = "6"   count = "8"/>  <!--海龟-->
+				 <SingleFish kindID = "32"  count = "5"/>  <!--海兔-->
+				 <SingleFish kindID = "19"  count = "5"/>  <!--灯笼鱼-->
+              </TaskFish>
+              <TaskFish><!--大型鱼-->
+                 <SingleFish kindID = "52"   count = "3"/>  <!--海蚌-->
+				 <SingleFish kindID = "23"   count = "3"/>  <!--美人鱼-->
+				 <SingleFish kindID = "49"   count = "3"/>  <!--海蛇-->
+				 <SingleFish kindID = "60"   count = "2"/>  <!--娃娃鱼-->
+              </TaskFish> 
+           </TaskFishNode>
+           <TaskRewardNode>
+              <RewardInfo>
+                <RewardGoods goodsID = "4" count = "3"/>
+                <RewardGoods goodsID = "5" count = "3"/> 
+                <RewardGoods goodsID = "6" count = "3"/> 				
+              </RewardInfo>
+           </TaskRewardNode>
+        </GameTaskConfig>
+		<PseRandEventInfoConfig><!--伪随机时间参数事件创建时间信息-->
+		   <PseRandEventInfo  eventKindID= "0" isCreate = "1" createIntervalTime = "400" timeInterval = "00:01-11:35,11:51-12:35,12:51-13:35,13:51-14:35,14:51-15:35,15:51-16:35,16:51-17:35,17:51-18:35,18:51-19:35,19:51-20:35,20:51-21:35,21:51-22:35,22:51-23:59" swingFactorMin = "0.9" swingFactorMax = "1.1" stopCreateTimeBeforFishingBan = "30"/> <!--游戏内任务-->
+		</PseRandEventInfoConfig>
+		<GunMaxMultiFishReturnConfig cannonLevel="49" returnStandard="10000000" fishValueStandard="300"><!--returnStandard的单位为鱼币-->
+		</GunMaxMultiFishReturnConfig>
+		<GameStatConfig statCreateFish="1">
+		</GameStatConfig>
+		<PerformanceConfig netlog = "0" pbmsg="1"/>
+	    <FishMatchConfig matchtype = "0" syngradetime = "3" firstsyntime = "1" calcfishandcoin = "0"/><!--0:普通岛屿.1:回馈赛岛屿-->
+		<HitPoint initHP = "0" addHPIntervalTime = "120" addHPOnce = "150" consumeHPOnce = "1"/><!--体力值相关参数-->
+		<BulletCreateConfig maxbulletcount="8">
+			<BulletSlow bulletvalue="25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40" minfishvalue = "60"/><!---->
+			<BulletBounce bulletvalue="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40" bouncecount= "100"/>
+			<BulletFix fixspeed="2.0">
+				<BulletInfo value="35" fixflow="10000" fixtime="30"/>
+				<BulletInfo value="36" fixflow="9000"  fixtime="30"/>
+				<BulletInfo value="37" fixflow="8000"  fixtime="30"/>
+				<BulletInfo value="38" fixflow="7000"  fixtime="30"/>
+				<BulletInfo value="39" fixflow="6000"  fixtime="30"/>
+			</BulletFix>
+			<BulletLock lockspeed="1.1">
+			    <BulletInfo value="40" lockflow="15000" locktime="20"/>
+				<BulletInfo value="41" lockflow="7000" locktime="30"/>
+				<BulletInfo value="42" lockflow="6000" locktime="40"/>
+				<BulletInfo value="43" lockflow="5000" locktime="50"/>
+				<BulletInfo value="44" lockflow="4000" locktime="60"/>
+				<BulletInfo value="45" lockflow="3000" locktime="120"/>
+			</BulletLock>
+			<BulletTrack bulletvalue="30,31,32,33,34,35,36,37,38,39,40"/>
+			<BulletCreateInfo>
+				<BulletInfo value="0"  bouncecount="100"/>
+				<BulletInfo value="1"  bouncecount="100"/>
+				<BulletInfo value="2"  bouncecount="100"/>
+				<BulletInfo value="3"  bouncecount="100"/>
+				<BulletInfo value="4"  bouncecount="100"/>
+				<BulletInfo value="5"  bouncecount="100"/>
+				<BulletInfo value="6"  bouncecount="100"/>
+				<BulletInfo value="7"  bouncecount="100"/>
+				<BulletInfo value="8"  bouncecount="100"/>
+				<BulletInfo value="9"  bouncecount="100"/>
+				<BulletInfo value="10" bouncecount="100"/>
+				<BulletInfo value="11" bouncecount="100"/>
+				<BulletInfo value="12" bouncecount="100"/>
+				<BulletInfo value="13" bouncecount="100"/>
+				<BulletInfo value="14" bouncecount="100"/>
+				<BulletInfo value="15" bouncecount="100"/>
+				<BulletInfo value="16" bouncecount="100"/>
+				<BulletInfo value="17" bouncecount="100"/>
+				<BulletInfo value="18" bouncecount="100"/>
+				<BulletInfo value="19" bouncecount="100"/>
+				<BulletInfo value="20" bouncecount="100"/>
+				<BulletInfo value="21" bouncecount="100"/>
+				<BulletInfo value="22" bouncecount="100"/>
+				<BulletInfo value="23" bouncecount="100"/>
+				<BulletInfo value="24" bouncecount="100"/>
+				<BulletInfo value="25" bouncecount="100"/>
+				<BulletInfo value="26" bouncecount="100"/>
+				<BulletInfo value="27" bouncecount="100"/>
+				<BulletInfo value="28" bouncecount="100"/>
+				<BulletInfo value="29" bouncecount="100"/>
+				<BulletInfo value="30" bouncecount="100"/>
+				<BulletInfo value="31" bouncecount="100"/>
+				<BulletInfo value="32" bouncecount="100"/>
+				<BulletInfo value="33" bouncecount="100"/>
+				<BulletInfo value="34" bouncecount="100"/>
+				<BulletInfo value="35" bouncecount="100"/>
+				<BulletInfo value="36" bouncecount="100"/>
+				<BulletInfo value="37" bouncecount="100"/>
+				<BulletInfo value="38" bouncecount="100"/>
+				<BulletInfo value="39" bouncecount="100"/>
+				<BulletInfo value="40" bouncecount="100"/>
+				<BulletInfo value="41" bouncecount="100"/>
+				<BulletInfo value="42" bouncecount="100"/>
+				<BulletInfo value="43" bouncecount="100"/>
+				<BulletInfo value="44" bouncecount="100"/>
+				<BulletInfo value="45" bouncecount="100"/>
+			    <BulletInfo value="46" bouncecount="100"/>	
+				<BulletInfo value="47" bouncecount="100"/>
+				<BulletInfo value="48" bouncecount="100"/>
+				<BulletInfo value="49" bouncecount="100"/>
+			</BulletCreateInfo>
+		</BulletCreateConfig>		
+		<FishCreatePositionConfig>
+			<FishCreatePosition CreateFishPoint = "-100,200" MinAngle = "-10" MaxAngle = "45"/>  <!--0-->
+			<FishCreatePosition CreateFishPoint = "-100,400" MinAngle = "-20" MaxAngle = "20"/>  <!--1-->  
+			<FishCreatePosition CreateFishPoint = "-100,600" MinAngle = "-45" MaxAngle = "10"/>  <!--2-->
+			<FishCreatePosition CreateFishPoint = "640,-100" MinAngle = "60"  MaxAngle = "120"/> <!--3-->
+			<FishCreatePosition CreateFishPoint = "1380,200" MinAngle = "135" MaxAngle = "190"/> <!--4-->
+			<FishCreatePosition CreateFishPoint = "1380,400" MinAngle = "160" MaxAngle = "200"/> <!--5-->
+			<FishCreatePosition CreateFishPoint = "1380,600" MinAngle = "170" MaxAngle = "225"/> <!--6-->
+			<FishCreatePosition CreateFishPoint = "-100,300" MinAngle = "0"   MaxAngle = "0"/>   <!--7--> <!--章鱼路线,角度为0,只从左右两边出生-->
+			<FishCreatePosition CreateFishPoint = "-100,400" MinAngle = "0"   MaxAngle = "0"/>   <!--8-->
+			<FishCreatePosition CreateFishPoint = "1380,350" MinAngle = "180" MaxAngle = "181"/> <!--9-->
+			<FishCreatePosition CreateFishPoint = "1380,450" MinAngle = "180" MaxAngle = "181"/> <!--10-->
+			<FishCreatePosition CreateFishPoint = "0,0"      MinAngle = "23"  MaxAngle = "23"/>  <!--11-->
+			<FishCreatePosition CreateFishPoint = "0,800"    MinAngle = "-23" MaxAngle = "-23"/> <!--12-->
+			<FishCreatePosition CreateFishPoint = "1280,0"   MinAngle = "155" MaxAngle = "155"/> <!--13-->
+			<FishCreatePosition CreateFishPoint = "1280,800" MinAngle = "-155" MaxAngle = "-155"/><!--14-->
+			<FishCreatePosition CreateFishPoint = "0,364" MinAngle = "0"   MaxAngle = "0"/>   <!--15--> 
+			<FishCreatePosition CreateFishPoint = "1280,364" MinAngle = "180" MaxAngle = "180"/> <!--16-->
+			<FishCreatePosition CreateFishPoint = "640,748"  MinAngle = "-120"  MaxAngle = "-60"/> <!--17-->			
+			<FishCreatePosition CreateFishPoint = "320,-100" MinAngle = "90"  MaxAngle = "90"/> <!--18--> <!--加倍卡鱼位置-->
+			<FishCreatePosition CreateFishPoint = "320,748"  MinAngle = "-90"  MaxAngle = "-90"/> <!--19--> <!--加倍卡鱼位置-->
+			<FishCreatePosition CreateFishPoint = "960,-100" MinAngle = "90"  MaxAngle = "90"/> <!--20--> <!--加倍卡鱼位置-->
+			<FishCreatePosition CreateFishPoint = "960,748"  MinAngle = "-90"  MaxAngle = "-90"/> <!--21--> <!--加倍卡鱼位置-->
+		</FishCreatePositionConfig>
+		<TeamConfig>
+			<!--A规律阵列-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "0.4" fY = "-0.4"/>
+				<TeamInfoNode fX = "0.8" fY = "0"/>
+				<TeamInfoNode fX = "1.2" fY = "-0.4"/>
+				<TeamInfoNode fX = "1.6" fY = "0"/>
+				<TeamInfoNode fX = "2.0" fY = "-0.4"/>
+				<TeamInfoNode fX = "0.2" fY = "0.4"/>
+				<TeamInfoNode fX = "0.6" fY = "0.8"/>
+				<TeamInfoNode fX = "1.0" fY = "0.4"/>
+				<TeamInfoNode fX = "1.4" fY = "0.8"/>
+				<TeamInfoNode fX = "1.8" fY = "0.4"/>
+				<TeamInfoNode fX = "2.2" fY = "0.8"/>
+                <TeamInfoNode fX = "2.4" fY = "0"/>
+				<TeamInfoNode fX = "2.8" fY = "-0.4"/>
+				<TeamInfoNode fX = "3.2" fY = "0"/>
+				<TeamInfoNode fX = "3.6" fY = "-0.4"/>
+				<TeamInfoNode fX = "4.0" fY = "0"/>
+				<TeamInfoNode fX = "4.4" fY = "-0.4"/>
+				<TeamInfoNode fX = "2.6" fY = "0.4"/>
+				<TeamInfoNode fX = "3.0" fY = "0.8"/>
+				<TeamInfoNode fX = "3.4" fY = "0.4"/>
+				<TeamInfoNode fX = "3.8" fY = "0.8"/>
+				<TeamInfoNode fX = "4.2" fY = "0.4"/>
+				<TeamInfoNode fX = "4.6" fY = "0.8"/>
+			</TeamInfo>
+			<!--B杂阵（小鱼阵）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "0.4" fY = "0.3"/>
+				<TeamInfoNode fX = "1.2" fY = "-0.6"/>
+				<TeamInfoNode fX = "2" fY = "-0.6"/>
+				<TeamInfoNode fX = "1.6" fY = "0.3"/>
+				<TeamInfoNode fX = "0.8" fY = "1.2"/>
+				<TeamInfoNode fX = "0.4" fY = "-0.3"/>
+				<TeamInfoNode fX = "3.2" fY = "-1.8"/>
+				<TeamInfoNode fX = "1.6" fY = "0.6"/>
+				<TeamInfoNode fX = "0.8" fY = "-0.9"/>
+				<TeamInfoNode fX = "0.8" fY = "0.6"/>
+				<TeamInfoNode fX = "0.4" fY = "-1.2"/>
+				<TeamInfoNode fX = "1.2" fY = "-1.5"/>
+				<TeamInfoNode fX = "2.8" fY = "-1.5"/>
+				<TeamInfoNode fX = "3.6" fY = "0.6"/>
+				<TeamInfoNode fX = "2.8" fY = "-0.9"/>
+				<TeamInfoNode fX = "0.8" fY = "1.5"/>
+				<TeamInfoNode fX = "0.4" fY = "-0.6"/>
+				<TeamInfoNode fX = "2.4" fY = "0.3"/>
+				<TeamInfoNode fX = "1.2" fY = "-1.2"/>
+				<TeamInfoNode fX = "3.2" fY = "0.6"/>
+			</TeamInfo>
+			<!--C（中大鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "3" fY = "-3"/>
+			</TeamInfo>
+			<!--D（中大鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "2" fY = "-4"/>
+			</TeamInfo>
+			<!--E（中大鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "2" fY = "-2"/>
+				<TeamInfoNode fX = "4" fY = "3"/>
+			</TeamInfo>
+			<!--F（中大鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "2" fY = "3"/>
+				<TeamInfoNode fX = "5" fY = "-2"/>
+			</TeamInfo>
+			<!--G（中小鱼）-->
+			<TeamInfo>
+				<TeamInfoNode fX = "0" fY = "0"/>
+				<TeamInfoNode fX = "0.8" fY = "0.6"/>
+				<TeamInfoNode fX = "1.6" fY = "2.4"/>
+				<TeamInfoNode fX = "2.4" fY = "-1.2"/>
+				<TeamInfoNode fX = "3.2" fY = "0.6"/>
+				<TeamInfoNode fX = "4" fY = "-1.2"/>
+			</TeamInfo>
+		</TeamConfig>
+		<MapConfig>
+			<MapInfo id = "3"/>
+		</MapConfig>
+		<BankingLogConfig minGetCoin = "1000" bankingStateSpaceSecond = "60" bankingStateOnoff = "1" billOnoff = "1" eventOnoff = "1" feedbackOnoff = "0"/>
+		<AllPrizeInfoConfig playerPayStreamOneDay="1000" luckyGold="10" treaChesteCoin="5000" minFishMulti = "50"/><!--满堂彩配置-->
+        <BillRecordConfig maxCount="100" Onoff = "1" /><!--服务器账单记录-->
+		<FishCreateInfoConfig CreateLoopCount = "2.8">
+			<FishCreateInfo FishKindID = "0"  CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "0,1"   AIID = "0,1,2,3,4,5,6,7,9,10,11,12"  CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "15" MaxCreateCount = "20" IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--小黄鱼-->
+			<FishCreateInfo FishKindID = "1"  CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "0,1"   AIID = "0,1,2,3,4,5,6,7,9,10,11,12"  CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "10" MaxCreateCount = "15" IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--小飞鱼-->
+			<FishCreateInfo FishKindID = "2"  CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "0,1"   AIID = "0,1,2,12,13,14,18,19"        CreatePercent = "5000"   multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "6"  MaxCreateCount = "10" IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--小丑鱼-->
+			<FishCreateInfo FishKindID = "3"  CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "4,5"   AIID = "0,1,2"                       CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--电鳗-->
+			<FishCreateInfo FishKindID = "4"  CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "0,1"   AIID = "0,1,2,3,4,8,11,12"           CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "6"  MaxCreateCount = "8"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--鲽鱼-->
+			<FishCreateInfo FishKindID = "5"  CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "2"  MaxCreateCount = "4"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--水母-->
+			<FishCreateInfo FishKindID = "6"  CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "4000"   multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海龟-->
+			<FishCreateInfo FishKindID = "7"  CreatePos = "0,1,2,4,5,6"                  TeamID = "0,3"   AIID = "0,1,2,26,27,28"              CreatePercent = "3500"   multiTypePercent =  "0.13"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海豚-->
+			<FishCreateInfo FishKindID = "8"  CreatePos = "1,5,8,9"                      TeamID = "0"     AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0.1"   MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--蓝鲨-->
+			<FishCreateInfo FishKindID = "9"  CreatePos = "1,5"                          TeamID = "0"     AIID = "0"                           CreatePercent = "650"    multiTypePercent =  "0.11"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--大鲨鱼-->
+			<FishCreateInfo FishKindID = "10" CreatePos = "0,1,2,4,5,6"                  TeamID = "0"     AIID = "0,25,26"                     CreatePercent = "0"      multiTypePercent =  "0.1"   MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--虎鲸-->
+			<FishCreateInfo FishKindID = "11" CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "4,5"   AIID = "0,1,2"                       CreatePercent = "5000"   multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "2"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--蓝宝石-->
+			<FishCreateInfo FishKindID = "12" CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "6"     AIID = "0,1,2,8,11,12"               CreatePercent = "2000"   multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "3"  MaxCreateCount = "6"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--刺豚-->
+			<FishCreateInfo FishKindID = "13" CreatePos = "7,8,9,10"                     TeamID = "0,1,3" AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--章鱼-->
+			<FishCreateInfo FishKindID = "14" CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "4,5"   AIID = "0,1,2,3,4,5,6,7,11,12,18,19" CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "2"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--神仙鱼-->
+			<FishCreateInfo FishKindID = "15" CreatePos = "7,8,9,10"                     TeamID = "0,1,3" AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--海马-->
+			<FishCreateInfo FishKindID = "16" CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "4,5"   AIID = "0,1,2,13,14"                 CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--鲷鱼-->
+			<FishCreateInfo FishKindID = "17" CreatePos = "7,8,9,10"                     TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--比目鱼-->
+			<FishCreateInfo FishKindID = "18" CreatePos = "7,8,9,10"                     TeamID = "2,3"   AIID = "0,1,2,13,14,18,19"           CreatePercent = "0"      multiTypePercent =  "0.07"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--孔雀鱼-->
+			<FishCreateInfo FishKindID = "19" CreatePos = "7,8,9,10"                     TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "6000"   multiTypePercent =  "0.06"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--灯笼鱼-->
+			<FishCreateInfo FishKindID = "20" CreatePos = "7,8,9,10"                     TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "4000"   multiTypePercent =  "0.06"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--旗鱼-->
+			<FishCreateInfo FishKindID = "21" CreatePos = "0,1,5,8,9"                    TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "6000"   multiTypePercent =  "0.06"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--魔鬼鱼-->
+			<FishCreateInfo FishKindID = "22" CreatePos = "0,1,5,8,9"                    TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "0"      multiTypePercent =  "0.07"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--狮子鱼-->
+			<FishCreateInfo FishKindID = "23" CreatePos = "0,1,5,8,9"                    TeamID = "2,3"   AIID = "0,1,2,25,26"                 CreatePercent = "2500"   multiTypePercent =  "0.13"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--美人鱼-->
+			<FishCreateInfo FishKindID = "24" CreatePos = "7,8"                          TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--座头鲸-->
+			<FishCreateInfo FishKindID = "25" CreatePos = "2,4,7,8,9,10"                 TeamID = "2,3"   AIID = "0,1,2,3,4,15,16,26"          CreatePercent = "400"    multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--水雷-->
+			<FishCreateInfo FishKindID = "26" CreatePos = "2,4,7,8,9,10"                 TeamID = "2,3"   AIID = "0,1,2,3,4,15,16,26"          CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--物品鱼-->
+			<FishCreateInfo FishKindID = "27" CreatePos = "11,12"                        TeamID = "0"     AIID = "15, 16"                      CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--boss1鱼-->
+			<FishCreateInfo FishKindID = "28" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--boss2鱼-->	
+			<FishCreateInfo FishKindID = "29" CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "0,1"   AIID = "0,1,2,12,13,14,18,19"        CreatePercent = "5000"   multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "6"  MaxCreateCount = "10" IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--鹦鹉鱼-->
+			<FishCreateInfo FishKindID = "30" CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "6"     AIID = "0,1,2,8,11,12"        	   CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "3"  MaxCreateCount = "6"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--大飞鱼-->
+			<FishCreateInfo FishKindID = "31" CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "2,3"   AIID = "0,1,2"		               CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "2"  MaxCreateCount = "4"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/>  <!--海星-->
+			<FishCreateInfo FishKindID = "32" CreatePos = "0,1,2,3,4,5,6,17"             TeamID = "2,3"   AIID = "0,1,2"		               CreatePercent = "5000"   multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海兔-->
+			<FishCreateInfo FishKindID = "33" CreatePos = "7,8,9,10"                     TeamID = "2,3"   AIID = "0,1,2,13,14"      	       CreatePercent = "5000"   multiTypePercent =  "0.0"   MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--翻车鱼-->
+			<FishCreateInfo FishKindID = "34" CreatePos = "7,8,9,10"                     TeamID = "2,3"   AIID = "0,1,2,13,14"        	       CreatePercent = "5000"   multiTypePercent =  "0.07"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--盔甲鱼-->
+			<FishCreateInfo FishKindID = "35" CreatePos = "0,5,8,9"                      TeamID = "0"     AIID = "0"		                   CreatePercent = "0"      multiTypePercent =  "0.11"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--锤头鲨-->
+			<FishCreateInfo FishKindID = "36" CreatePos = "0,1,2,4,5,6"                  TeamID = "0"     AIID = "0,25,26"		               CreatePercent = "1000"   multiTypePercent =  "0.13"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海象-->
+			<FishCreateInfo FishKindID = "37" CreatePos = "7,8,9,10"                     TeamID = "2,3"   AIID = "0,1,2,13,14" 	               CreatePercent = "2000"   multiTypePercent =  "0.13"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--鲎鱼-->
+			<FishCreateInfo FishKindID = "38" CreatePos = "15,16"                        TeamID = "0"     AIID = "0" 	                       CreatePercent = "0"      multiTypePercent =  "0.0"   MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--海龙-->		
+            <FishCreateInfo FishKindID = "39" CreatePos = "1,5,7,8,9,10"                 TeamID = "2,3"   AIID = "0,1,2,3,4,15,16,26"          CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--魔法卡牌鱼-->	
+			<FishCreateInfo FishKindID = "40" CreatePos = "1,5,7,8,9,10"                 TeamID = "0"     AIID = "0,1,2,3,4,15,16,26"          CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--宝箱鱼-->	
+			<FishCreateInfo FishKindID = "41" CreatePos = "11,12"                        TeamID = "0"     AIID = "15, 16"                      CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/>  <!--金蝉boss-->		
+            <FishCreateInfo FishKindID = "42" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--独角兽-->
+			<FishCreateInfo FishKindID = "43" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="1" IndFishReturnRate = "1.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--大章鱼-->
+			<FishCreateInfo FishKindID = "44" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--小金龙-->
+			<FishCreateInfo FishKindID = "45" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--年兽-->
+			<FishCreateInfo FishKindID = "46" CreatePos = "15,16"                        TeamID = "0"     AIID = "0"                           CreatePercent = "650"    multiTypePercent =  "0.1"   MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--鲸鲨-->		
+			<FishCreateInfo FishKindID = "47" CreatePos = "0,5,8,9,11,12,13,14"          TeamID = "0"     AIID = "0"                           CreatePercent = "650"    multiTypePercent =  "0.1"   MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--咸水鳄-->		
+			<FishCreateInfo FishKindID = "48" CreatePos = "1,5,8,9,11,12,13,14"          TeamID = "0"     AIID = "0"                           CreatePercent = "1000"   multiTypePercent =  "0.12"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--锯齿鲨-->
+			<FishCreateInfo FishKindID = "49" CreatePos = "0,1,5,8,9,11,12,13,14"        TeamID = "2,3"   AIID = "0,1,2,25,26"                 CreatePercent = "1500"   multiTypePercent =  "0.12"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--海蛇-->
+			<FishCreateInfo FishKindID = "50" CreatePos = "1,5"                          TeamID = "0"     AIID = "0"                           CreatePercent = "0"      multiTypePercent =  "0.10"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--白鲸-->				
+			<FishCreateInfo FishKindID = "51" CreatePos = "0,1,2,3,4,5,6,11,12,13,14,17" TeamID = "4,5"   AIID = "0,1,2,13,14"                 CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "3"  MaxCreateCount = "8"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/> <!--斑点-->		
+			<FishCreateInfo FishKindID = "52" CreatePos = "0,1,2,3,4,5,6,11,12,13,14,17" TeamID = "2,3"   AIID = "0,1,2" 	                   CreatePercent = "1000"   multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--海蚌-->		  
+			<FishCreateInfo FishKindID = "53" CreatePos = "0,1,2,3,4,5,6,11,12,13,14,17" TeamID = "2,3"   AIID = "0,1,2"                       CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "2"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/> <!--海胆-->			
+			<FishCreateInfo FishKindID = "54" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "0"      multiTypePercent =  "0" 	MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/> <!--寄居蟹-->			
+			<FishCreateInfo FishKindID = "55" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "3000"   multiTypePercent =  "0.0"   MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "5"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--龙虾-->			
+			<FishCreateInfo FishKindID = "56" CreatePos = "0,1,2,4,5,6,11,12,13,14"      TeamID = "0"     AIID = "0,25,26"                     CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--企鹅-->
+			<FishCreateInfo FishKindID = "57" CreatePos = "0,1,2,3,4,5,6,11,12,13,14,17" TeamID = "4,5"   AIID = "0,1,2,13,14"                 CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "5"  MaxCreateCount = "8"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/> <!--清道夫-->
+			<FishCreateInfo FishKindID = "58" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "3"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--石头鱼-->
+			<FishCreateInfo FishKindID = "59" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "5"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/> <!--食人鱼-->
+			<FishCreateInfo FishKindID = "60" CreatePos = "0,1,2,4,5,6,11,12,13,14"      TeamID = "0"     AIID = "0,25,26"                     CreatePercent = "1500"   multiTypePercent =  "0.12"  MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "0.75"  SlowTime = "2.0"/> <!--金娃娃鱼-->
+            <FishCreateInfo FishKindID = "61" CreatePos = "7,8,9,10,11,12,13,14"         TeamID = "2,3"   AIID = "0,1,2,13,14"                 CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "2"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "1" TargetWeight = "3" SlowPercent = "1.0"   SlowTime = "2.0"/> <!--鹦鹉螺-->		 													
+			<FishCreateInfo FishKindID = "62" CreatePos = "18,19,20,21"                  TeamID = "2,3"   AIID = "0"          				   CreatePercent = "0"      multiTypePercent =  "0"     MatchMultiTypePercent = "0" MinCreateCount = "1"  MaxCreateCount = "1"  IndFishMark="0" IndFishReturnRate = "0.0" MatchTarget = "0" TargetWeight = "3" SlowPercent = "0.65"  SlowTime = "2.0"/> <!--加倍卡鱼-->
+		</FishCreateInfoConfig>
+		<FishCreateExtendInfoConfig>
+
+			<FishCreateExtendInfo FishKindID = "41">
+			    <SingleInfo  CreatePos = "11" AIID = "0"/> 
+			    <SingleInfo  CreatePos = "12" AIID = "0"/> 
+			    <SingleInfo  CreatePos = "13" AIID = "0"/> 
+			    <SingleInfo  CreatePos = "14" AIID = "0"/> 
+			    <SingleInfo  CreatePos = "15" AIID = "0"/> 
+			    <SingleInfo  CreatePos = "16" AIID = "0"/> 
+		    </FishCreateExtendInfo>
+	
+			   		   
+		</FishCreateExtendInfoConfig>
+		<GoodsFishCreateInfoConfig BroadcastStandard = "2000"  StopCreateTime = "40" TimeInterval = "00:00-23:59"><!--全岛广播标准--> <!--下面参数顺序:价值， 创建模式(物品:0，积分:1)，物品发放ID，物品ID，创建比例，周几，时间段 -->
+		   <GoodsFishCreateInfo Value = "28"  CreateMode = "0" GoodsIssueID = "6740" GoodsKindID = "1000" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--1元充值卡-->
+		   <GoodsFishCreateInfo Value = "56"  CreateMode = "0" GoodsIssueID = "6741" GoodsKindID = "1001" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--2元充值卡-->
+		   <GoodsFishCreateInfo Value = "30"  CreateMode = "0" GoodsIssueID = "6742" GoodsKindID = "1002" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--5元充值卡-->
+		   <GoodsFishCreateInfo Value = "40"  CreateMode = "0" GoodsIssueID = "6743" GoodsKindID = "1003" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--10元充值卡-->
+		   <GoodsFishCreateInfo Value = "80"  CreateMode = "0" GoodsIssueID = "4759" GoodsKindID = "1004" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--20元充值卡-->
+		   <GoodsFishCreateInfo Value = "20" CreateMode = "0" GoodsIssueID = "505"  GoodsKindID = "1005" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--50元充值卡-->
+		   <GoodsFishCreateInfo Value = "40" CreateMode = "0" GoodsIssueID = "510"  GoodsKindID = "1006" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--100元充值卡-->
+		   <GoodsFishCreateInfo Value = "30"  CreateMode = "2" GoodsIssueID = "6736" GoodsKindID = "1100" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--红包-->		   
+		   <GoodsFishCreateInfo Value = "30"   CreateMode = "1" GoodsIssueID = "0"    GoodsKindID = "2000" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--珍珠-->
+		   <GoodsFishCreateInfo Value = "30"   CreateMode = "1" GoodsIssueID = "2"    GoodsKindID = "2001" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--贝壳-->		   
+		   <GoodsFishCreateInfo Value = "30"   CreateMode = "1" GoodsIssueID = "4"    GoodsKindID = "2002" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--红宝石-->		   
+		   <GoodsFishCreateInfo Value = "30"   CreateMode = "1" GoodsIssueID = "5"    GoodsKindID = "2003" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--蓝宝石-->		   
+		   <GoodsFishCreateInfo Value = "30"   CreateMode = "1" GoodsIssueID = "6"    GoodsKindID = "2004" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--绿宝石-->	
+		   <GoodsFishCreateInfo Value = "30"   CreateMode = "1" GoodsIssueID = "8"    GoodsKindID = "2005" CreatePercent = "1"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59" IfShowBanner = "1"/> <!--晶石-->			   	   
+		</GoodsFishCreateInfoConfig><!-- -->
+		<MagicCardFishCreateInfoConfig bounceWallCount = "2"><!--魔法卡牌鱼配置-->
+		   <MagicCardFishCreateInfo Value = "100" CardKindID = "0" CreatePercent = "40"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59"/> <!-- 多重炮-->
+		   <MagicCardFishCreateInfo Value = "300" CardKindID = "1" CreatePercent = "20"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59"/> <!-- 电磁狙击炮-->
+		   <MagicCardFishCreateInfo Value = "200" CardKindID = "2" CreatePercent = "30"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59"/> <!-- 弹射炮-->
+		   <MagicCardFishCreateInfo Value = "400" CardKindID = "3" CreatePercent = "10"  DateOfWeek = "1,2,3,4,5,6,7" TimeInterval = "00:00-23:59"/> <!-- 漫天礼花炮-->
+		</MagicCardFishCreateInfoConfig >
+		<BossFishCreateInfoConfig StopCreateTime = "40" TimeInterval = "00:00-11:35,11:50-12:35,12:50-13:35,13:50-14:35,14:50-15:35,15:50-16:35,16:50-17:35,17:50-18:35,18:50-19:35,19:50-20:35,20:50-21:35,21:50-22:35,22:50-23:59"><!--下面参数顺序:鱼ID，死亡后奖励类型:0,金币.1:秋卡.鱼币捕获值,创建比例,威力因子Q-->
+		   <BossFishCreateInfo  BossKindID = "28" DeadRewardKindID = "0" DeadValue = "6888"  CreatePercent = "36"  PowerDistributeFactor = "0.2" TimeInterval = "00:00-23:59" StopCreateTime = "40" DelayCreateBossTime = "1" DelayStopCreateNomalFishTime = "5" DelayCreateNormalFishTime = "40" BounceCount = "0"/><!--娜迦-->
+		   <BossFishCreateInfo  BossKindID = "38" DeadRewardKindID = "1" DeadValue = "20000" CreatePercent = "8"   PowerDistributeFactor = "0.1" TimeInterval = "00:00-23:59" StopCreateTime = "40" DelayCreateBossTime = "1" DelayStopCreateNomalFishTime = "5" DelayCreateNormalFishTime = "45" BounceCount = "0"/><!--海龙-->
+		   <BossFishCreateInfo  BossKindID = "41" DeadRewardKindID = "0" DeadValue = "8888"  CreatePercent = "0"  PowerDistributeFactor = "0.2" TimeInterval = "00:00-23:59" StopCreateTime = "40" DelayCreateBossTime = "1" DelayStopCreateNomalFishTime = "5" DelayCreateNormalFishTime = "30" BounceCount = "0"/><!--金蝉-->
+           <BossFishCreateInfo  BossKindID = "42" DeadRewardKindID = "0" DeadValue = "7000"  CreatePercent = "0"   PowerDistributeFactor = "0.2" TimeInterval = "00:00-23:59" StopCreateTime = "40" DelayCreateBossTime = "1" DelayStopCreateNomalFishTime = "5" DelayCreateNormalFishTime = "30" BounceCount = "0"/><!--独角兽-->
+           <BossFishCreateInfo  BossKindID = "43" DeadRewardKindID = "0" DeadValue = "8000"  CreatePercent = "20"  PowerDistributeFactor = "0.1" TimeInterval = "00:00-23:59" StopCreateTime = "40" DelayCreateBossTime = "1" DelayStopCreateNomalFishTime = "5" DelayCreateNormalFishTime = "45" BounceCount = "0"/><!--大章鱼-->
+           <BossFishCreateInfo  BossKindID = "44" DeadRewardKindID = "0" DeadValue = "6000"  CreatePercent = "36"  PowerDistributeFactor = "0.2" TimeInterval = "00:00-23:59" StopCreateTime = "40" DelayCreateBossTime = "1" DelayStopCreateNomalFishTime = "5" DelayCreateNormalFishTime = "30" BounceCount = "0"/><!--小金龙-->
+           <BossFishCreateInfo  BossKindID = "45" DeadRewardKindID = "0" DeadValue = "9000"  CreatePercent = "0"   PowerDistributeFactor = "0.2" TimeInterval = "00:00-23:59" StopCreateTime = "40" DelayCreateBossTime = "1" DelayStopCreateNomalFishTime = "5" DelayCreateNormalFishTime = "30" BounceCount = "0"/><!--年兽-->
+		</BossFishCreateInfoConfig><!--boss鱼-->
+		<BossFishRewardInfoConfig><!--boss鱼未死亡时鱼币返还方案配置参数-->
+		   <BossFishRewardInfo FishKindID = "27">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "95"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "235"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "475"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "950"/>
+		   </BossFishRewardInfo>
+		   <BossFishRewardInfo FishKindID = "28">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "85"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "213"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "427"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "854"/>
+		   </BossFishRewardInfo>
+		   <BossFishRewardInfo FishKindID = "38">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "88"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "220"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "440"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "880"/>
+			  <SingleInfo RewardKindID = "1" RewardValue = "100" proDenominator = "1800"/>
+			  <SingleInfo RewardKindID = "1" RewardValue = "200" proDenominator = "3600"/>
+		   </BossFishRewardInfo>
+		   <BossFishRewardInfo FishKindID = "41">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "95"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "235"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "475"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "950"/>
+		   </BossFishRewardInfo>
+		   <BossFishRewardInfo FishKindID = "42">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "85"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "210"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "425"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "850"/>
+		   </BossFishRewardInfo>	
+		   <BossFishRewardInfo FishKindID = "43">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "95"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "235"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "475"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "950"/>
+		   </BossFishRewardInfo>	
+		   <BossFishRewardInfo FishKindID = "44">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "92"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "231"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "461"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "922"/>
+		   </BossFishRewardInfo>
+		   <BossFishRewardInfo FishKindID = "45">
+		      <SingleInfo RewardKindID = "0" RewardValue = "0"   proDenominator = "1"/> <!--奖励为0的概率为1-其他概率和，因此此处proDenominator值没有意义,但既然是作为分母不能为0-->
+		      <SingleInfo RewardKindID = "0" RewardValue = "20"  proDenominator = "95"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "50"  proDenominator = "235"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "100" proDenominator = "475"/>
+		      <SingleInfo RewardKindID = "0" RewardValue = "200" proDenominator = "950"/>
+		   </BossFishRewardInfo>		   		   		   	   
+		</BossFishRewardInfoConfig>
+		<TreaChestsFishInfoConfig rewardStandard="4000" validTime="1" fishCoinLevelStandard="10000" bounceWallCount = "2" stopCreateTime = "40"><!--宝箱鱼配置-->
+		   <SingleInfo multi="0.5"  proValue="0.02"/>
+		   <SingleInfo multi="1.0"  proValue="0.6248"/>
+		   <SingleInfo multi="2.5"  proValue="0.33"/>
+		   <SingleInfo multi="5.0"  proValue="0.025"/>
+		   <SingleInfo multi="25.0" proValue="0.0002"/>
+		</TreaChestsFishInfoConfig>
+		<FishEventCreateTimeInfoConfig><!--事件创建时间信息(boss,宝箱出现时间间隔信息)-->
+           <EventCreateTimeInfo  EventKindID = "0" IsCreate = "1" CreateIntervalTime = "550" SwingFactorMin = "0.7" SwingFactorMax = "1.3"/> <!--宝箱-->
+           <EventCreateTimeInfo  EventKindID = "1" IsCreate = "1" CreateIntervalTime = "550" SwingFactorMin = "0.7" SwingFactorMax = "1.3"/> <!--boss-->
+           <EventCreateTimeInfo  EventKindID = "2" IsCreate = "1" CreateIntervalTime = "10" SwingFactorMin = "0.7" SwingFactorMax = "1.3"/> <!--物品鱼-->
+		</FishEventCreateTimeInfoConfig>
+		<FishDeadDropOutGoodsInfoConfig> <!-- 鱼死亡后物品掉落的信息 物品顺序为珍珠，钻石，鉆晶，秋卡，红宝石，蓝宝石，绿宝石 属性分别为物品ID 掉落概率 出现的数量的最小 最大值-->
+		    <DropOutGoodsInfo  FishKindID = "0"  PearlID = "0" PearlPro = "0.0003534" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000160" AutumnCardNumMin = "1" AutumnCardNumMax ="3"  RedJewelID = "4" RedJewelPro = "0.00007392" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00007392" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00007392" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "1"  PearlID = "0" PearlPro = "0.0005298" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000240" AutumnCardNumMin = "1" AutumnCardNumMax ="3"  RedJewelID = "4" RedJewelPro = "0.00011136" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00011136" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00011136" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "2"  PearlID = "0" PearlPro = "0.0014130" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000720" AutumnCardNumMin = "1" AutumnCardNumMax ="3"  RedJewelID = "4" RedJewelPro = "0.00029664" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00029664" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00029664" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "3"  PearlID = "0" PearlPro = "0.0088320" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.003200" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00185184" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00185184" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00185184" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "4"  PearlID = "0" PearlPro = "0.0007068" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000320" AutumnCardNumMin = "1" AutumnCardNumMax ="3"  RedJewelID = "4" RedJewelPro = "0.00014784" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00014784" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00014784" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "5"  PearlID = "0" PearlPro = "0.0035328" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.001200" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00074112" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00074112" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00074112" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "6"  PearlID = "0" PearlPro = "0.0070656" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.002400" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00148128" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00148128" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00148128" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "7"  PearlID = "0" PearlPro = "0.0211968" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.006400" AutumnCardNumMin = "2" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.00444480" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00444480" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00444480" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "8"  PearlID = "0" PearlPro = "0.0176640" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.005600" AutumnCardNumMin = "2" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.00370368" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00370368" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00370368" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "9"  PearlID = "0" PearlPro = "0.0883200" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.016000" AutumnCardNumMin = "4" AutumnCardNumMax ="12" RedJewelID = "4" RedJewelPro = "0.01851840" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.01851840" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.01851840" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "10" PearlID = "0" PearlPro = "0.0264960" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.008000" AutumnCardNumMin = "2" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.00555552" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00555552" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00555552" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "11" PearlID = "0" PearlPro = "0.0052992" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.001600" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00111072" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00111072" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00111072" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "12" PearlID = "0" PearlPro = "0.0017664" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000640" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00037056" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00037056" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00037056" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "13" PearlID = "0" PearlPro = "0.0052992" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.001600" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00111072" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00111072" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00111072" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "14" PearlID = "0" PearlPro = "0.0008832" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000320" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00018528" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00018528" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00018528" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "15" PearlID = "0" PearlPro = "0.0035328" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.001600" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00074112" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00074112" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00074112" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "16" PearlID = "0" PearlPro = "0.0052992" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.001600" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00111072" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00111072" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00111072" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "17" PearlID = "0" PearlPro = "0.0070656" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.002400" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00148128" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00148128" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00148128" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "18" PearlID = "0" PearlPro = "0.0105984" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.003200" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00222240" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00222240" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00222240" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "19" PearlID = "0" PearlPro = "0.0105984" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.003200" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00222240" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00222240" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00222240" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "20" PearlID = "0" PearlPro = "0.0141312" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.004000" AutumnCardNumMin = "2" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.00296256" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00296256" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00296256" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "21" PearlID = "0" PearlPro = "0.0141312" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.004000" AutumnCardNumMin = "2" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.00296256" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00296256" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00296256" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "22" PearlID = "0" PearlPro = "0.0141312" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.004000" AutumnCardNumMin = "2" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00296256" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00296256" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00296256" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "23" PearlID = "0" PearlPro = "0.0317952" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.009600" AutumnCardNumMin = "2" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.00666624" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00666624" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00666624" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "24" PearlID = "0" PearlPro = "0.0883200" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.016000" AutumnCardNumMin = "4" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.01851840" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.01851840" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.01851840" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "25" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "0" AutumnCardNumMax ="0"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "0" RedJewelNumMax ="0" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "0" BlueJewelMax ="0" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "0" GreenJewelNumMax ="0" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "26" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "0" AutumnCardNumMax ="0"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "0" RedJewelNumMax ="0" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "0" BlueJewelMax ="0" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "0" GreenJewelNumMax ="0" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "27" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "0" AutumnCardNumMax ="0"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "0" RedJewelNumMax ="0" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "0" BlueJewelMax ="0" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "0" GreenJewelNumMax ="0" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "28" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "0" AutumnCardNumMax ="0"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "0" RedJewelNumMax ="0" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "0" BlueJewelMax ="0" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "0" GreenJewelNumMax ="0" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "29" PearlID = "0" PearlPro = "0.0010596" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000480" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00022176" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00022176" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00022176" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "30" PearlID = "0" PearlPro = "0.0017664" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000800" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00036960" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00036960" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00036960" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "31" PearlID = "0" PearlPro = "0.0035328" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.001600" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00073920" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00073920" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00073920" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "32" PearlID = "0" PearlPro = "0.0105984" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.004800" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00221760" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00221760" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00221760" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "33" PearlID = "0" PearlPro = "0.0141312" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.006400" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00295680" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00295680" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00295680" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "34" PearlID = "0" PearlPro = "0.0176640" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.008000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00369600" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00369600" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00369600" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "35" PearlID = "0" PearlPro = "0.0264960" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.012000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00554400" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00554400" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00554400" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "36" PearlID = "0" PearlPro = "0.0353280" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.012000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00554400" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00554400" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00554400" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "37" PearlID = "0" PearlPro = "0.0317952" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.014400" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00665280" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00665280" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00665280" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "38" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "39" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "1" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "40" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "1" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "41" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "1" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "42" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "1" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "43" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "1" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "44" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "1" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "45" PearlID = "0" PearlPro = "0.0000000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.000000" AutumnCardNumMin = "1" AutumnCardNumMax ="5"  RedJewelID = "4" RedJewelPro = "0.00000000" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00000000" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00000000" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "46" PearlID = "0" PearlPro = "0.1413120" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.064000" AutumnCardNumMin = "1" AutumnCardNumMax ="7"  RedJewelID = "4" RedJewelPro = "0.02956800" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.02956800" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.02956800" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "47" PearlID = "0" PearlPro = "0.0706560" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.032000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.01478400" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.01478400" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.01478400" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "48" PearlID = "0" PearlPro = "0.0353280" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.016000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00739200" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00739200" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00739200" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "49" PearlID = "0" PearlPro = "0.0353280" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.016000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00739200" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00739200" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00739200" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "50" PearlID = "0" PearlPro = "0.0529920" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.024000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.01108800" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.01108800" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.01108800" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "51" PearlID = "0" PearlPro = "0.0035328" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.001600" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00073920" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00073920" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00073920" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "52" PearlID = "0" PearlPro = "0.1536000" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.012000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00554400" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00554400" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00554400" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "53" PearlID = "0" PearlPro = "0.0052992" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.002400" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00110880" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00110880" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00110880" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "54" PearlID = "0" PearlPro = "0.0088320" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.004000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00184800" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00184800" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00184800" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "55" PearlID = "0" PearlPro = "0.0105984" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.004800" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00221760" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00221760" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00221760" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "56" PearlID = "0" PearlPro = "0.0141312" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.006400" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00295680" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00295680" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00295680" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "57" PearlID = "0" PearlPro = "0.0052992" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.002400" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00110880" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00110880" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00110880" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "58" PearlID = "0" PearlPro = "0.0105984" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.004800" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00221760" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00221760" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00221760" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "59" PearlID = "0" PearlPro = "0.0088320" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.004000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00184800" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00184800" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00184800" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "60" PearlID = "0" PearlPro = "0.0529920" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.024000" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.01108800" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.01108800" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.01108800" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+			<DropOutGoodsInfo  FishKindID = "61" PearlID = "0" PearlPro = "0.0070656" PearlNumMin = "1" PearlNumMax = "1" DiamodID = "1" DiamondPro = "0.0" DiamondNumMin = "0" DiamondNumMax = "0" DiamondCrystalID = "2" DiamondCrystalPro = "0.0" DiamondCrystalNumMin = "0" DiamondCrystalNumMax = "0" AutumnCardID = "3" AutumnCardPro = "0.003200" AutumnCardNumMin = "1" AutumnCardNumMax ="2"  RedJewelID = "4" RedJewelPro = "0.00147840" RedJewelNumMin = "1" RedJewelNumMax ="1" BlueJewelID = "5" BlueJewelPro = "0.00147840" BlueJewelNumMin = "1" BlueJewelMax ="1" GreenJewelID = "6" GreenJewelPro = "0.00147840" GreenJewelNumMin = "1" GreenJewelNumMax ="1" CoralsID = "9" CoralsPro = "0.00000000" CoralsNumMin = "1" CoralsMax ="1" CymodoceaNodosaID = "10" CymodoceaNodosaPro = "0.00000000" CymodoceaNodosaNumMin = "1" CymodoceaNodosaNumMax ="1" CucurbitID = "11" CucurbitPro = "00000000" CucurbitNumMin = "1" CucurbitNumMax ="1"/>
+		</FishDeadDropOutGoodsInfoConfig>           
+		<EventConfig TotalCnt = "80">       
+			<Event id = "4" time = "1"/> <!--鱼汛开始-->
+			<Event id = "5" time = "5"/> <!--渔汛-->
+			<Event id = "6" time = "70"/> <!--渔汛结束-->
+			<Event id = "1" time = "259"/> <!--开始产生鱼-->
+			<Event id = "2" time = "600"/> <!--停止产生鱼-->
+			<Event id = "4" time = "603"/> <!--鱼汛开始-->
+			<Event id = "5" time = "604"/> <!--渔汛-->
+			<Event id = "6" time = "618"/> <!--渔汛结束-->
+			<Event id = "1" time = "619"/> <!--开始产生鱼-->
+			<Event id = "2" time = "960"/> <!--停止产生鱼-->
+			<Event id = "4" time = "963"/> <!--鱼汛开始-->
+			<Event id = "5" time = "964"/> <!--渔汛-->
+            <Event id = "6" time = "978"/> <!--渔汛结束-->
+			<Event id = "1" time = "979"/> <!--开始产生鱼-->
+			<Event id = "7" time = "1197"/> <!--禁止发炮-->
+		</EventConfig>
+		<NumericalVlaueInfoConfig>
+			<WightDefineFishID value = "10"/>  <!--界定大鱼还是小鱼--> 
+			<HistoryWinOrLoseFactor MaxLoseValueLimit = "-1000" MaxWinValueLimit = "1000"/> <!-- 历史输赢因子-->
+			<LifeCirleConfig stageSequence = "1,0,2,3,1"> <!-- 生命周期参数配置，确定历史输赢参数中β1大,β1小,K,△βh--> <!--groupSequeence此时代表H1,H2,H3,H4,H2的循环组合-->
+                <stageInfo factorMax = "1.2" factorMin = "0.8" standardValueMax = "800" standardValueMin = "-350" differenceValue = "60000"  swingFactorMax = "2.25" swingFactorMin = "1.5"/> <!--H1:蜜月期 -->
+				<stageInfo factorMax = "1.2" factorMin = "0.8" standardValueMax = "700" standardValueMin = "-725" differenceValue = "90000"  swingFactorMax = "2.25" swingFactorMin = "0.75"/> <!--H2:平稳期 -->
+				<stageInfo factorMax = "1.2" factorMin = "0.8" standardValueMax = "500" standardValueMin = "-725" differenceValue = "120000" swingFactorMax = "1.8"  swingFactorMin = "1.5"/> <!--H3:沉沦期 -->
+				<stageInfo factorMax = "1.3" factorMin = "0.8" standardValueMax = "750" standardValueMin = "-300" differenceValue = "30000"  swingFactorMax = "1.5"  swingFactorMin = "1.5"/> <!--H4:刺激期 -->
+			</LifeCirleConfig>
+			<SwingFactor RandomRangeMin = "0.90" RandomRangeMax = "1.10" BulletNumOfLife = "1000" InitValue = "1.1"/> <!-- 摇摆因子-->
+			<BulletPowerFactor>  <!-- 炮弹威力因子-->
+				<SingleFactor value = "0.2" probabilityValue = "0.0"/> 
+				<SingleFactor value = "0.5" probabilityValue = "0.0"/>
+				<SingleFactor value = "1.0" probabilityValue = "1"/>
+				<SingleFactor value = "2.0" probabilityValue = "0"/>
+				<SingleFactor value = "5.0" probabilityValue = "0"/>
+				<SingleFactor value = "10.0" probabilityValue = "0"/>
+			</BulletPowerFactor>
+			<FinancialRemainningFactor value = "1.0"/> <!--为特殊事件保留余裕因子-->
+			<SpecialEventCondition RandomRangeMin = "5000" RandomRangeMax = "15000"/><!--特殊事件触发条件-->
+			<PropInfo validTime = "10" DropMode = "1" DropFatcor = "0.0001" >  <!-- 道具相关信息-->
+			    <SinglePropInfo  probabilityValue = "0.30"/> <!-- 多重炮-->
+			    <SinglePropInfo  probabilityValue = "0.30"/> <!-- 电磁狙击炮-->
+			    <SinglePropInfo  probabilityValue = "0.30"/> <!-- 弹射炮-->
+		        <SinglePropInfo  probabilityValue = "0.10"/> <!-- 漫天礼花炮-->
+		    	<SinglePropInfo  probabilityValue = "0.00"/> <!-- 弹药箱-->
+			</PropInfo>	
+			<ExchangeRate fishcoin="20" bulletcoin="20" />
+			<BuyBulletLevelInfo><!--购买子弹每档子弹数量-->
+			    <SinglelevelInfo bulletCnt = "500"/>
+				<SinglelevelInfo bulletCnt = "1000"/>
+				<SinglelevelInfo bulletCnt = "5000"/>
+				<SinglelevelInfo bulletCnt = "10000"/>
+			</BuyBulletLevelInfo>			
+			<ExperienceFactor Value="0.002" />  <!--经验系数 -->
+			<FishTaskCondition RandomRangeMin = "5000" RandomRangeMax = "15000" />
+			<!-- <TreasureChestsInfo taxStandardValue="30" taxValue="1" appearFrequency="80000" rewardRat="0.75" validTime="10" fishCoinLevelStandard="10000">   
+			宝箱：抽水标准(以子弹为单位),抽多少税,出现频率,回报率,有效时间,等级标准(大小)-->
+			<TreasureChestsInfo taxStandardValue="58" taxValue="1" appearFrequency="170000" rewardStandard="2000" validTime="1" fishCoinLevelStandard="5000">   
+			    <SingleTreasureChestsInfo value="0.5"  probabilityValue="0.0"/>
+				<SingleTreasureChestsInfo value="1.0"  probabilityValue="0.0"/>
+				<SingleTreasureChestsInfo value="2.0"  probabilityValue="0.0"/>
+				<SingleTreasureChestsInfo value="5.0"  probabilityValue="0.0"/>
+				<SingleTreasureChestsInfo value="50.0" probabilityValue="0.0"/>
+			</TreasureChestsInfo> 
+			<CaclTaskRewardToFinance  CalcFinance = "1"/> <!--是否将任务奖励计入金融.0:不计入;1:计入-->
+			<TaxInfoConfig taxStandardValue = "58" taxValue = "1"><!--默认税收-->
+			    <TaxInfo PayStreamOneDay = "0"   taxStandardValue = "58" taxValue = "1"/>
+				<TaxInfo PayStreamOneDay = "100" taxStandardValue = "58" taxValue = "1"/>
+				<TaxInfo PayStreamOneDay = "200" taxStandardValue = "58" taxValue = "1"/>
+			</TaxInfoConfig>
+		</NumericalVlaueInfoConfig>
+		<PropDropGoodsConfig dropGoodsCnt = "2" PearlMin = "0" PearlMax = "0" DiamondMin = "0" DiamondMax = "0" DiamondCrysalMin = "0" DiamondCrysalMax = "0"
+			AutumnCardMin = "2" AutumnCardMax = "3" BulletMin = "10" BulletMax = "30" >
+		</PropDropGoodsConfig>
+		<FishTaskConfig>
+			<!--任务为A，B, C, D的分配比例-->
+			<FishTaskLevel level = "1" probability = "0.5" FishTaskARate = "0.4" FishTaskBRate = "0.2" FishTaskCRate = "0.0" FishTaskDRate = "0.4" TaskRewardMode = "0">
+				<FishTaskRewardModeRate>
+				    <ModeRate Rate = "1.00"/><!--普通模式-->
+					<ModeRate Rate = "0.00"/><!--摇奖模式-->
+				</FishTaskRewardModeRate>
+				<FishTaskReward>
+					<RewardFishCoin RewardCount = "100" percent = "1.0"/>
+					<RewardAutumnCard RewardBase = "96" percent = "0.0"/>
+				</FishTaskReward>
+				<FishTaskRandomReward>
+					<RewardInfo RewardID = "0" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "0" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "0" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "0" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "1" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "1" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "1" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "1" count = "100" percent = "0.125"/>
+				</FishTaskRandomReward>
+				<FishTaskAInfo time = "150">
+					<FishTarget fishKindId = "0"  singleCnt = "20" multiCnt = "8"/>
+					<FishTarget fishKindId = "0"  singleCnt = "20" multiCnt = "8"/>
+					<FishTarget fishKindId = "1"  singleCnt = "15" multiCnt = "5"/>
+					<FishTarget fishKindId = "2"  singleCnt = "8"  multiCnt = "5" />
+					<FishTarget fishKindId = "3"  singleCnt = "4"  multiCnt = "1" />
+					<FishTarget fishKindId = "4"  singleCnt = "6"  multiCnt = "3" />
+					<FishTarget fishKindId = "5"  singleCnt = "4"  multiCnt = "2" />
+					<FishTarget fishKindId = "6"  singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "7"  singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "8"  singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "9"  singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "10" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "11" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "12" singleCnt = "5"  multiCnt = "3" />
+					<FishTarget fishKindId = "13" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "14" singleCnt = "10" multiCnt = "5" />
+					<FishTarget fishKindId = "15" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "16" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "17" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "18" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "19" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "20" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "21" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "22" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "23" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "24" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "29" singleCnt = "15" multiCnt = "5" />
+					<FishTarget fishKindId = "30" singleCnt = "10" multiCnt = "5" />
+					<FishTarget fishKindId = "31" singleCnt = "4"  multiCnt = "2" />
+					<FishTarget fishKindId = "32" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "33" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "34" singleCnt = "1"  multiCnt = "1" />
+					<FishTarget fishKindId = "35" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "36" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "37" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "46" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "47" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "48" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "49" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "50" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "51" singleCnt = "5"  multiCnt = "3" />
+					<FishTarget fishKindId = "52" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "53" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "54" singleCnt = "5"  multiCnt = "2" />
+					<FishTarget fishKindId = "55" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "56" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "57" singleCnt = "6"  multiCnt = "3" />
+					<FishTarget fishKindId = "58" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "59" singleCnt = "5"  multiCnt = "2" />
+					<FishTarget fishKindId = "60" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "61" singleCnt = "5"  multiCnt = "2" />
+				</FishTaskAInfo>
+				<FishTaskBInfo time = "50" fishCoins = "150">
+				</FishTaskBInfo>
+				<FishTaskCInfo time = "100" comboCount = "8">
+				</FishTaskCInfo>
+				<FishTaskDInfo time = "100" fishCoins = "1500">
+				</FishTaskDInfo>
+			</FishTaskLevel>
+			<FishTaskLevel level = "2" probability = "0.5" FishTaskARate = "0.4" FishTaskBRate = "0.2" FishTaskCRate = "0.0" FishTaskDRate = "0.4" TaskRewardMode = "0">
+				<FishTaskRewardModeRate>
+				    <ModeRate Rate = "1.00"/><!--普通模式-->
+					<ModeRate Rate = "0.00"/><!--摇奖模式-->
+				</FishTaskRewardModeRate>
+				<FishTaskReward>
+					<RewardFishCoin RewardCount = "200" percent = "1.0"/>
+					<RewardAutumnCard RewardBase = "192" percent = "0.0"/>
+				</FishTaskReward>
+				<FishTaskRandomReward>
+					<RewardInfo RewardID = "0" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "0" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "0" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "0" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "1" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "1" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "1" count = "100" percent = "0.125"/>
+					<RewardInfo RewardID = "1" count = "100" percent = "0.125"/>
+				</FishTaskRandomReward>
+				<FishTaskAInfo time = "120">
+					<FishTarget fishKindId = "0"  singleCnt = "20" multiCnt = "8"/>
+					<FishTarget fishKindId = "0"  singleCnt = "20" multiCnt = "8"/>
+					<FishTarget fishKindId = "1"  singleCnt = "15" multiCnt = "5"/>
+					<FishTarget fishKindId = "2"  singleCnt = "8"  multiCnt = "5" />
+					<FishTarget fishKindId = "3"  singleCnt = "4"  multiCnt = "1" />
+					<FishTarget fishKindId = "4"  singleCnt = "6"  multiCnt = "3" />
+					<FishTarget fishKindId = "5"  singleCnt = "4"  multiCnt = "2" />
+					<FishTarget fishKindId = "6"  singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "7"  singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "8"  singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "9"  singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "10" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "11" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "12" singleCnt = "5"  multiCnt = "3" />
+					<FishTarget fishKindId = "13" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "14" singleCnt = "10" multiCnt = "5" />
+					<FishTarget fishKindId = "15" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "16" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "17" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "18" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "19" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "20" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "21" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "22" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "23" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "24" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "29" singleCnt = "15" multiCnt = "5" />
+					<FishTarget fishKindId = "30" singleCnt = "10" multiCnt = "5" />
+					<FishTarget fishKindId = "31" singleCnt = "4"  multiCnt = "2" />
+					<FishTarget fishKindId = "32" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "33" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "34" singleCnt = "1"  multiCnt = "1" />
+					<FishTarget fishKindId = "35" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "36" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "37" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "46" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "47" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "48" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "49" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "50" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "51" singleCnt = "5"  multiCnt = "3" />
+					<FishTarget fishKindId = "52" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "53" singleCnt = "0"  multiCnt = "0" />
+					<FishTarget fishKindId = "54" singleCnt = "5"  multiCnt = "2" />
+					<FishTarget fishKindId = "55" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "56" singleCnt = "2"  multiCnt = "1" />
+					<FishTarget fishKindId = "57" singleCnt = "6"  multiCnt = "3" />
+					<FishTarget fishKindId = "58" singleCnt = "3"  multiCnt = "1" />
+					<FishTarget fishKindId = "59" singleCnt = "5"  multiCnt = "2" />
+					<FishTarget fishKindId = "60" singleCnt = "1"  multiCnt = "0" />
+					<FishTarget fishKindId = "61" singleCnt = "5"  multiCnt = "2" />
+				</FishTaskAInfo>
+				<FishTaskBInfo time = "50" fishCoins = "180">
+				</FishTaskBInfo>
+				<FishTaskCInfo time = "100" comboCount = "10">
+				</FishTaskCInfo>
+				<FishTaskDInfo time = "100" fishCoins = "2000">
+				</FishTaskDInfo>
+			</FishTaskLevel>
+		</FishTaskConfig>
+		<MultiTypeFishConfig ReturnRate = "1.00" CalcMulti = "8" AwardTheMaxMultiStandard = "-1000000" AwardStrategyFactor = "0">
+			<MultiInfo multi = "3" percent = "0.19"/>
+			<MultiInfo multi = "5" percent = "0.51"/>
+			<MultiInfo multi = "10" percent = "0.35"/>
+			<MultiInfo multi = "50" percent = "0.03"/>
+		</MultiTypeFishConfig>
+		<MaxMultiFishReturnConfig defaultReturnStandard="-800000" multiFishValueStandard="450">
+		    <ReturnConfig returnStandard = "-800000"/>
+		    <ReturnConfig returnStandard = "-850000"/>
+		    <ReturnConfig returnStandard = "-900000"/>
+		    <ReturnConfig returnStandard = "-950000"/>
+		    <ReturnConfig returnStandard = "-1000000"/>
+		</MaxMultiFishReturnConfig>
+		<MatchMultiTypeFishConfig><!--比赛多倍鱼参数-->
+			<MultiInfo multi = "2"  percent = "0.50"/>
+			<MultiInfo multi = "3"  percent = "0.30"/>
+			<MultiInfo multi = "4"  percent = "0.20"/>
+		</MatchMultiTypeFishConfig>
+		<CritConfig>
+			<CritInfo multi = "2" percent = "0.7" time = "30"/>
+			<CritInfo multi = "3" percent = "0.2" time = "30"/>
+			<CritInfo multi = "4" percent = "0.1" time = "30"/>
+		</CritConfig>			
+		<ComboRewardConfig Level = "30"> <!--连击奖励参数-->
+		    <ComboReward RewardCount = "5"/>
+			<ComboReward RewardCount = "10"/>
+			<ComboReward RewardCount = "20"/>
+			<ComboReward RewardCount = "30"/>
+		</ComboRewardConfig>		
+		<FireIntervalTime LimitTime = "0.4"/><!--发炮最小间隔限制-->
+		<!--火系全屏爆炸顺序-->
+		<FireBombFlowerBombSeq BombCnt = "5" BombIntervalTime = "0.4"> 
+			<Seat0>
+				<!--<SingleInfo BombPointGroup = "3"/> -->
+                <SingleInfo BombPointGroup = "1,2,3,7"/>
+				<SingleInfo BombPointGroup = "0,4,5,6"/>
+				<SingleInfo BombPointGroup = "8,9"/>
+				<SingleInfo BombPointGroup = "10,12,13,14,16,17"/>
+				<SingleInfo BombPointGroup = "11,15,18,19"/>
+		    </Seat0>
+			<Seat1>
+				<!--<SingleInfo BombPointGroup = "19"/>-->
+				<SingleInfo BombPointGroup = "15,17,18,19"/>
+				<SingleInfo BombPointGroup = "12,13,14,16"/>
+				<SingleInfo BombPointGroup = "8,9"/>
+				<SingleInfo BombPointGroup = "0,1,4,5,6,10"/>
+				<SingleInfo BombPointGroup = "2,3,7,11"/>
+			</Seat1>
+			<Seat2>
+				<!--<SingleInfo BombPointGroup = "16"/>-->
+				<SingleInfo BombPointGroup = "12,16,17,18"/>
+				<SingleInfo BombPointGroup = "9,13,14,15,18,19"/>
+				<SingleInfo BombPointGroup = "10,11"/>
+				<SingleInfo BombPointGroup = "2,3,5,6,7,9"/>
+				<SingleInfo BombPointGroup = "0,1,4,8"/>
+		    </Seat2>
+			<Seat3>
+				<!--<SingleInfo BombPointGroup = "0"/>-->
+                <SingleInfo BombPointGroup = "0,1,2,4"/>
+				<SingleInfo BombPointGroup = "3,5,6,7"/>
+				<SingleInfo BombPointGroup = "10,11"/>
+				<SingleInfo BombPointGroup = "9,13,14,15,18,19"/>
+				<SingleInfo BombPointGroup = "8,12,16,17"/>
+			</Seat3>			
+		</FireBombFlowerBombSeq>
+        <GetAchShowConfig ShowType = "0"/> <!--成就达成后前端展示类型:0,正常展示;1,可领取展示-->		
+		<FishSeasonConfig bossSeasonRate = "0.0">   
+			<!-- 渔汛1-1：大波鱼快速密集量多朝一个方向游动。适合体型较小鱼种(分值不可过低)，小丑鱼+鹦鹉鱼-->
+
+		
+			<!--渔汛3-2:波浪环绕。盔甲鱼+海星-->						
+			<!--渔汛4:军队阵型。海龟+水母+大鲨鱼+孔雀鱼+美人鱼-->
+			<!--单向：大概25秒-->				
+			<OneSeason bossSeason = "0">
+			    <FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "0,165">
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "90,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "180,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "270,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "360,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "450,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "540,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "630,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "720, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "810, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "900, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "990, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1080, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1170, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1260, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1350, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1440, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1530, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1620, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1710, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1800, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1890, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1980, 0"/>			
+				</FishSeasonInfo>
+			    <FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "0,602">
+                    <SingleFishOfSeason FishKindID = "55" FishPos = "90,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "180,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "270,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "360,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "450,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "540,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "630,  0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "720, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "810, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "900, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "990, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1080, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1170, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1260, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1350, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1440, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1530, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1620, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1710, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1800, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1890, 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "1980, 0"/>		
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "0,0">
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "130,   260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "260,   260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "390,   260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "520,   260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "650,   260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1450,  260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1580,  260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1720,  260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1850,  260"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1980,  260"/>								    
+					<SingleFishOfSeason FishKindID = "33" FishPos = "130,   385"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "260,   385"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "390,   385"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "520,   385"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "650,   385"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1450,  385"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1580,  385"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1720,  385"/>	
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1850,  385"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1980,  385"/>						
+					<SingleFishOfSeason FishKindID = "33" FishPos = "130,   510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "260,   510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "390,   510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "520,   510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "650,   510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1450,  510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1580,  510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1720,  510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1850,  510"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "1980,  510"/>		
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "0,0">
+				    <SingleFishOfSeason FishKindID = "36" FishPos = "670,   385"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "0,0">
+				    <SingleFishOfSeason FishKindID = "22" FishPos = "950,   265"/>
+					<SingleFishOfSeason FishKindID = "22" FishPos = "950,   520"/>
+				    <SingleFishOfSeason FishKindID = "22" FishPos = "1050,   265"/>
+					<SingleFishOfSeason FishKindID = "22" FishPos = "1050,   520"/>
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "0,0">
+					<SingleFishOfSeason FishKindID = "23" FishPos = "1050,  295"/>
+					<SingleFishOfSeason FishKindID = "23" FishPos = "1050,  475"/>
+				</FishSeasonInfo>
+			</OneSeason>
+				
+			<!--渔汛5-1:转圈。小飞鱼+孔雀鱼-->				
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "250" angle = "0" AIID = "18" centerPt = "0,120">
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "50,   0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "150,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "250,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "350,  0"/>
+					<SingleFishOfSeason FishKindID = "29" FishPos = "400,   0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "450,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "550,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "650,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "750,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "800,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "850,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "950,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "1000,  0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "250" angle = "0" AIID = "19" centerPt = "0,648">
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "50,   0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "150,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "250,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "350,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "450,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "550,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "650,  0"/>
+					<SingleFishOfSeason FishKindID = "56" FishPos = "750,   0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "850,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "950,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "1050,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "1150,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "1250,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "1350,  0"/>
+				</FishSeasonInfo>
+			    <FishSeasonInfo speed = "250" angle = "180" AIID = "18" centerPt = "1280,648">
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "50,   0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "150,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "250,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "350,  0"/>
+					<SingleFishOfSeason FishKindID = "29" FishPos = "400,   0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "450,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "550,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "650,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "750,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "800,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "850,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "950,  0"/>
+				    <SingleFishOfSeason FishKindID = "29" FishPos = "1000,  0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "250" angle = "180" AIID = "19" centerPt = "1280,120">
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "50,   0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "150,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "250,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "350,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "450,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "550,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "650,  0"/>
+					<SingleFishOfSeason FishKindID = "56" FishPos = "750,   0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "850,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "950,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "1050,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "1150,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "1250,  0"/>
+				    <SingleFishOfSeason FishKindID = "56" FishPos = "1350,  0"/>
+				</FishSeasonInfo>
+			</OneSeason>
+
+		    <!--渔汛5-2:转圈。刺豚+孔雀鱼-->				
+			
+				
+			<!--渔汛6-1,上下中间出鱼。龙虾+翻车鱼-->				
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "150" angle = "55" AIID = "0" centerPt = "640,0">
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  110"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  220"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  330"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  440"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  550"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  660"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "0,  770"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  880"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  990"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1100"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1210"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1320"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1430"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "0,  1540"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "0,  1650"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1760"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1870"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1980"/>	
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "125" AIID = "0" centerPt = "640,0">
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  110"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  220"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  330"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  440"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  550"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  660"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "0,  770"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  880"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  990"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1100"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1210"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1320"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1430"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "0,  1540"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "0,  1650"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1760"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1870"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0,  1980"/>				
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "-55" AIID = "0" centerPt = "640,738">
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  110"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  220"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  330"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  440"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  550"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  660"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  770"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  880"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  990"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1100"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1210"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1320"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1430"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  1540"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  1650"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1760"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1870"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1980"/>						
+				</FishSeasonInfo>      
+				<FishSeasonInfo speed = "150" angle = "-125" AIID = "0" centerPt = "640,738">
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  110"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  220"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  330"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  440"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  550"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  660"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  770"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  880"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  990"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1100"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1210"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1320"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1430"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  1540"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  1650"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1760"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1870"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1980"/>							
+				</FishSeasonInfo>   				
+			</OneSeason>
+	
+			<!--渔汛6-2,上下中间出鱼。翻车鱼+比目鱼-->		
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "150" angle = "55" AIID = "0" centerPt = "640,0">
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  110"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  220"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  330"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  440"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  550"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  660"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  770"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  880"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  990"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1100"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1210"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1320"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1430"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  1540"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  1650"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1760"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1870"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1980"/>	
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "125" AIID = "0" centerPt = "640,0">
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  110"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  220"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  330"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  440"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  550"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  660"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  770"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  880"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  990"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1100"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1210"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1320"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1430"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  1540"/>
+					<SingleFishOfSeason FishKindID = "33" FishPos = "0,  1650"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1760"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1870"/>
+				    <SingleFishOfSeason FishKindID = "33" FishPos = "0,  1980"/>				
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "150" angle = "-55" AIID = "0" centerPt = "640,738">
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  110"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  220"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  330"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  440"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  550"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  660"/>
+					<SingleFishOfSeason FishKindID = "20" FishPos = "0,  770"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  880"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  990"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1100"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1210"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1320"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1430"/>
+					<SingleFishOfSeason FishKindID = "20" FishPos = "0,  1540"/>
+					<SingleFishOfSeason FishKindID = "20" FishPos = "0,  1650"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1760"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1870"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1980"/>						
+				</FishSeasonInfo>      
+				<FishSeasonInfo speed = "150" angle = "-125" AIID = "0" centerPt = "640,738">
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  110"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  220"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  330"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  440"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  550"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  660"/>
+					<SingleFishOfSeason FishKindID = "20" FishPos = "0,  770"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  880"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  990"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1100"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1210"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1320"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1430"/>
+					<SingleFishOfSeason FishKindID = "20" FishPos = "0,  1540"/>
+					<SingleFishOfSeason FishKindID = "20" FishPos = "0,  1650"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1760"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1870"/>
+				    <SingleFishOfSeason FishKindID = "20" FishPos = "0,  1980"/>							
+				</FishSeasonInfo>   				
+			</OneSeason>	
+			
+			<!--渔汛7-1,集团军，彩带，流水。海星，灯笼鱼-->
+			<!--双向：大概25秒-->				
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,80">
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1260, 0"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,140">
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "400,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "800,  0"/>
+					<SingleFishOfSeason FishKindID = "19" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "1000, 0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "1100, 0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "1200, 0"/>
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,210">
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1260, 0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,80">
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1260, 0"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,140">
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "0,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "400,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "800,  0"/>
+					<SingleFishOfSeason FishKindID = "19" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "1000, 0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "1100, 0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "1200, 0"/>
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,210">
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "55" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "55" FishPos = "1260, 0"/>
+				</FishSeasonInfo>				
+			</OneSeason>    
+			
+            <!--渔汛7-2,集团军，彩带，流水。海星+孔雀鱼-->
+			<!--双向：大概25秒-->				
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,80">
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "34" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1260, 0"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,140">
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "0,    0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "400,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "800,  0"/>
+					<SingleFishOfSeason FishKindID = "61" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "1000, 0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "1100, 0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "1200, 0"/>	
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,210">
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "34" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1260, 0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,80">
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "34" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1260, 0"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,140">
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "0,    0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "400,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "800,  0"/>
+					<SingleFishOfSeason FishKindID = "61" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "1000, 0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "1100, 0"/>
+				    <SingleFishOfSeason FishKindID = "61" FishPos = "1200, 0"/>
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,210">
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "34" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "34" FishPos = "1260, 0"/>
+				</FishSeasonInfo>				
+			</OneSeason>    
+			
+            <!--渔汛7-3,集团军，彩带，流水。海星+海兔-->
+			<!--双向：大概25秒-->			
+			<OneSeason bossSeason = "0">
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,80">
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "58" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1260, 0"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,140">
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "0,    0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "400,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "800,  0"/>
+					<SingleFishOfSeason FishKindID = "32" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "1000, 0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "1100, 0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "1200, 0"/>	
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "220" angle = "0" AIID = "20" centerPt = "0,210">
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "58" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1260, 0"/>
+				</FishSeasonInfo>
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,80">
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "58" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1260, 0"/>
+				</FishSeasonInfo>		
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,140">
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "0,    0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "100,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "200,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "300,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "400,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "500,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "600,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "700,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "800,  0"/>
+					<SingleFishOfSeason FishKindID = "32" FishPos = "900,  0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "1000, 0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "1100, 0"/>
+				    <SingleFishOfSeason FishKindID = "32" FishPos = "1200, 0"/>
+				</FishSeasonInfo>					
+				<FishSeasonInfo speed = "220" angle = "180" AIID = "23" centerPt = "3900,210">
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "0   , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "90  , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "180 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "270 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "360 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "450 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "540 , 0"/>
+					<SingleFishOfSeason FishKindID = "58" FishPos = "630 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "720 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "810 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "900 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "990 , 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1080, 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1170, 0"/>
+				    <SingleFishOfSeason FishKindID = "58" FishPos = "1260, 0"/>
+				</FishSeasonInfo>				
+			</OneSeason>     			
+		
+			<!--渔汛8-1,圆圈平移，正向：水母+章鱼+虎鲸。方向：海马+海星+海象-->
+			<!--双向：大概25秒-->			
+			
+			
+		  <!--渔汛8-2,圆圈平移，正向：海星+海马+海象。方向：海星+海马+大王乌贼-->
+			<!--双向：大概25秒-->		
+			<OneSeason bossSeason = "0">
+				   <FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "-408,384">
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "0,     -264"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "86,    -245"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-86,   -245"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "140,   -213"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-140,  -213"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "186,   -165"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-186,  -165"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "220,   -100"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-220,  -100"/>
+					<SingleFishOfSeason FishKindID = "21" FishPos = "270,   -41"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-270,  -41"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "0,     264"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "86,    245"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-86,   245"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "140,   213"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-140,  213"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "186,   165"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-186,  165"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "220,   100"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-220,  100"/>
+					<SingleFishOfSeason FishKindID = "21" FishPos = "270,   41"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-270,  41"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "-408,384">
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "-20,   -170"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "70,    -113"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "-130,  -113"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "140,     0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "-170,    0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "-20,      170"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "70,     113"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "-130,    113"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "0" AIID = "0" centerPt = "-408,384">
+				    <SingleFishOfSeason FishKindID = "36" FishPos = "-145,   0"/>
+				</FishSeasonInfo>
+				   <FishSeasonInfo speed = "150" angle = "180" AIID = "0" centerPt = "3576,384">
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "0,     -264"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "86,    -245"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-86,   -245"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "140,   -213"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-140,  -213"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "186,   -165"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-186,  -165"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "220,   -100"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-220,  -100"/>
+					<SingleFishOfSeason FishKindID = "21" FishPos = "270,   -41"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-270,  -41"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "0,     264"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "86,    245"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-86,   245"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "140,   213"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-140,  213"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "186,   165"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-186,  165"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "220,   100"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-220,  100"/>
+					<SingleFishOfSeason FishKindID = "21" FishPos = "270,   41"/>
+				    <SingleFishOfSeason FishKindID = "21" FishPos = "-270,  41"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "180" AIID = "0" centerPt = "3576,384">
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "0,    -170"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "0,    170"/>					
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "100,  -113"/>
+                    <SingleFishOfSeason FishKindID = "19" FishPos = "100,   113"/>					
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "-100, -113"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "-100,  113"/>					
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "200,    0"/>
+				    <SingleFishOfSeason FishKindID = "19" FishPos = "-170,   0"/>
+				</FishSeasonInfo>	
+				<FishSeasonInfo speed = "150" angle = "180" AIID = "0" centerPt = "3576,384">
+				    <SingleFishOfSeason FishKindID = "60" FishPos = "-270,   0"/>
+				</FishSeasonInfo>				
+			</OneSeason> 		
+			
+
+		</FishSeasonConfig>                                            
+	</Server>                                                          
+</CapFish>                                                             
+                                                                       

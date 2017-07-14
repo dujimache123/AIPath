@@ -1,0 +1,23 @@
+<CapFish>
+  <Server>
+    <FishSeasonConfig>
+      <OneSeason>
+        <FishSeasonInfo speed="200" angle="0" AIID="20" centerPt="0,100">
+          <SingleFishOfSeason FishKindID="14" FishPos="139,0" />
+          <SingleFishOfSeason FishKindID="29" FishPos="1332,0" />
+          <SingleFishOfSeason FishKindID="59" FishPos="1239,0" />
+          <SingleFishOfSeason FishKindID="15" FishPos="55,0" />
+          <SingleFishOfSeason FishKindID="6" FishPos="1056,0" />
+          <SingleFishOfSeason FishKindID="16" FishPos="978,0" />
+          <SingleFishOfSeason FishKindID="12" FishPos="849,0" />
+          <SingleFishOfSeason FishKindID="33" FishPos="739,0" />
+          <SingleFishOfSeason FishKindID="30" FishPos="559,0" />
+          <SingleFishOfSeason FishKindID="32" FishPos="435,0" />
+          <SingleFishOfSeason FishKindID="56" FishPos="295,0" />
+          <SingleFishOfSeason FishKindID="1" FishPos="277,0" />
+          <SingleFishOfSeason FishKindID="0" FishPos="214,0" />
+        </FishSeasonInfo>
+      </OneSeason>
+    </FishSeasonConfig>
+  </Server>
+</CapFish>

@@ -1,0 +1,36 @@
+<CapFish>
+  <Server>
+    <FishSeasonConfig>
+      <OneSeason>
+        <FishSeasonInfo speed="200" angle="0" AIID="0" centerPt="0,360">
+          <SingleFishOfSeason FishKindID="15" FishPos="357,-203" />
+          <SingleFishOfSeason FishKindID="15" FishPos="357,-147" />
+          <SingleFishOfSeason FishKindID="15" FishPos="357,-96" />
+          <SingleFishOfSeason FishKindID="15" FishPos="357,-40" />
+          <SingleFishOfSeason FishKindID="15" FishPos="357,15" />
+          <SingleFishOfSeason FishKindID="15" FishPos="357,60" />
+          <SingleFishOfSeason FishKindID="15" FishPos="357,103" />
+          <SingleFishOfSeason FishKindID="15" FishPos="357,154" />
+          <SingleFishOfSeason FishKindID="15" FishPos="357,209" />
+          <SingleFishOfSeason FishKindID="15" FishPos="391,254" />
+          <SingleFishOfSeason FishKindID="15" FishPos="442,254" />
+          <SingleFishOfSeason FishKindID="15" FishPos="479,209" />
+          <SingleFishOfSeason FishKindID="15" FishPos="509,156" />
+          <SingleFishOfSeason FishKindID="15" FishPos="276,156" />
+          <SingleFishOfSeason FishKindID="15" FishPos="246,209" />
+          <SingleFishOfSeason FishKindID="15" FishPos="209,254" />
+          <SingleFishOfSeason FishKindID="15" FishPos="158,254" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,209" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,154" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,103" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,60" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,15" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,-40" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,-96" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,-147" />
+          <SingleFishOfSeason FishKindID="15" FishPos="124,-203" />
+        </FishSeasonInfo>
+      </OneSeason>
+    </FishSeasonConfig>
+  </Server>
+</CapFish>
