@@ -108,7 +108,7 @@ public class AiPathManager
             string temp = "";
             foreach (FishPathControlPoint cp in path.controlPoints)
             {
-                temp = string.Format("{0}\t{1}\t{2}\t{3}\t{4}\n", index, -cp.mRotationChange, cp.mSpeedScale, cp.rotateFactor, cp.speedFactor);
+                temp = string.Format("{0}\t{1}\t{2}\t{3}\t{4}\n", index, cp.mRotationChange, cp.mSpeedScale, cp.rotateFactor, cp.speedFactor);
                 content += temp;
                 index++;
             }
