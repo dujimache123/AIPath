@@ -37,6 +37,7 @@ public class AiPathManager
         FishPath currentPath = null;
 		for(int i = 0; i < allines.Length; i ++)
 		{
+            if (allines[i].Length <= 1) continue;
 			if(allines[i][0] == '#') continue;
 			if(allines[i][0] == '0')	//新的路径
 			{
