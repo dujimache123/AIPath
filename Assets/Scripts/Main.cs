@@ -6,7 +6,7 @@ public class Main : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
 	{
-		AiPathManager.getInstance().initialize();
+		AiPathManager.getInstance().initialize(Application.dataPath + "/Resources/Configs/table_ai.bytes");
 		GameTableManager.getInstance().initialize();
 	}
 	

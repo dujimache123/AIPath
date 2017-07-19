@@ -42,29 +42,20 @@ public class AIViewerWindow : EditorWindow
             return;
         }
 
+        if (GUILayout.Button("加载路径文件", GUILayout.Width(100)))
+        {
+            string filePath = EditorUtility.OpenFilePanel("Open Ai Bytes", Application.dataPath + "/Resources/Pathes/", "bytes");
+
+            if (filePath.Length > 0)
+            {
+                selectedPathId = 0;
+                AiPathManager.getInstance().initialize(filePath);
+            }
+        }
+
         int pathCnt = AiPathManager.getInstance().getPathCount();
         if (pathCnt == 0)
         {
-            if (GUILayout.Button("加载路径文件", GUILayout.Width(100)))
-            {
-                AiPathManager.getInstance().initialize();
-
-                pathCnt = AiPathManager.getInstance().getPathCount();
-                if (pathCnt == 0)
-                {
-                    return;
-                }
-                else
-                {
-                    names = new string[pathCnt+100];
-                    values = new int[pathCnt+100];
-                    for (int i = 0; i < pathCnt + 100; i++)
-                    {
-                        names[i] = i.ToString();
-                        values[i] = i;
-                    }
-                }
-            }
             return;
         }
         selectedPathId = EditorGUILayout.IntSlider("AI index",selectedPathId, 0, pathCnt);

@@ -28,11 +28,9 @@ public class AiPathManager
 		return pathManager;
 	}
 
-	public void initialize()
+	public void initialize(string filePath)
 	{
-        pathList.Clear();
-		TextAsset ta = (TextAsset)Resources.Load("Configs/table_ai");
-		string[] allines = ta.text.Split('\n');
+        string[] allines = File.ReadAllLines(filePath);
 
         FishPath currentPath = null;
 		for(int i = 0; i < allines.Length; i ++)
@@ -158,4 +156,35 @@ public class AiPathManager
 	{
 		return pathList.Count;
 	}
+
+    public FishPath loadOnePath(string filepath)
+    {
+        FishPath onePath = ScriptableObject.CreateInstance<FishPath>();
+        if (filepath == null || filepath.Length == 0)
+        {
+            Debug.Log("路径文件名不正确");
+            return onePath;
+        }
+        if (File.Exists(filepath) == false)
+        {
+            Debug.Log("路径文件不存在");
+            return onePath;
+        }
+
+        FileStream fs = new FileStream(filepath, FileMode.Open);
+        StreamReader sr = new StreamReader(fs);
+        
+        while (sr.Peek() >= 0)
+        {
+            string oneline = sr.ReadLine();
+            string[] cells = oneline.Split('\t');
+            FishPathControlPoint keyPoint = ScriptableObject.CreateInstance<FishPathControlPoint>();
+            keyPoint.mRotationChange = float.Parse(cells[1]);
+            keyPoint.mSpeedScale = float.Parse(cells[2]);
+            keyPoint.mTime = 0.5f;
+            onePath.AddPoint(keyPoint);
+        }
+
+        return onePath;
+    }
 }

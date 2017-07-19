@@ -80,8 +80,8 @@ public class AICreaterWindow : EditorWindow
                 string filepath = EditorUtility.OpenFilePanel("Load", Application.dataPath + "/Resources/Pathes/", "bytes");
                 if (filepath.Length > 0)
                 {
-                    //fish.FishPathData = PathConfigManager.GetInstance().Load(filepath);
-                    //fish.FishPathData.FileName = Path.GetFileName(filepath);
+                    fishPath = AiPathManager.getInstance().loadOnePath(filepath);
+                    pathRender.FishPathData = fishPath;
                     EditorUtility.SetDirty(Selection.activeGameObject);
                 }
             }
