@@ -1,65 +1,77 @@
-id	中文名称	游戏内名称	游动动画	死亡动画	击中动画	游动速度	分值	宽度	高度	缩放系数	碰撞圆半径	碰撞圆数量	各个碰撞圆半径倍数
-0	小黄鱼	xiaohuangyu	xiaohuangyu_move_			200	2	55	28	1.3	27.3	1	1
-1	小飞鱼	xiaofeiyu	xiaofeiyu_move_			250	3	64	42	1.3	32.5	1	1
-2	小丑鱼	xiaochouyu	xiaochouyu_move_			150	8	86	50	1.3	44.2	1	1
-3	电鳗	dianman	dianman_move_			140	50	176	90	2	39	3	1,1.3,1
-4	鲽鱼	dieyu	dieyu_move_			150	4	71	60	1.3	35.1	1	1
-5	水母	shuimu	shuimu_move_			90	20	110	71	1.3	27.3	3	1,1.3,1.1
-6	海龟	haigui	haigui_move_		haigui_apecial_	80	40	164	130	1.8	60	1	1
-7	海豚	haitun	haitun_move_			200	120	289	136	1.9	51	4	1,1,1,0.7
-8	鲨鱼	shayu	shayu_move_			100	100	411	151	1.71	58	5	1,1,1,1,1
-9	大鲨鱼	juxingshayu	juxingshayu_move_			80	500	388	192	1.7	55	6	1.5,1,1,0.8,0.8,0.6
-10	虎鲸	hujing	hujing_move_			100	150	322	146	1.9	56	4	1,1,1,0.8
-11	蓝宝石	lanbaoshiyu	lanbaoshiyu_move_			120	30	118	46	1.3	32.5	3	1,1,1
-12	刺豚	citun	citun_move_		citun_apecial_	150	10	124	80	1.3	58.5	1	1
-13	章鱼	zhangyu	zhangyu_move_			100	30	136	124	1.3	58.5	1	1
-14	神仙鱼	shenxianyu	shenxianyu_move_			180	5	71	50	1.3	35.1	1	1
-15	海马	haima	haima_move_			100	20	86	73	1.3	42.9	1	1
-16	鲷鱼	diaoyu	diaoyu_move_			120	30	118	60	1.3	32.5	3	1,1,1
-17	比目鱼	bimuyu	bimuyu_move_			100	40	144	110	2	71.5	1	1
-18	孔雀鱼	kongqueyu	kongqueyu_move_			120	60	118	65	1.3	58.5	1	1
-19	灯笼鱼	denglongyu	denglongyu_move_			100	60	167	93	2	60	1	1
-20	旗鱼	qiyu	qiyu_move_			150	80	218	78	1.625	35.1	5	1,1,1,1,1
-21	魔鬼鱼	moguiyu	moguiyu_move_			100	80	204	185	1.9	49	3	1,1.5,1
-22	狮子鱼	shiziyu	shiziyu_move_			100	80	156	128	1.235	78	1	1
-23	美人鱼	meirenyu	meirenyu_move_		meirenyu_hit_	100	180	378	148	1.6435	54	6	1,1,1,1,1,1
-24	座头鲸	zuotoujing	zuotoujing_move_			60	500	840	395	0.95	148	5	1,1,1,0.7,1
-25	水雷	shuilei	shuilei_move_	shuilei_catch_		40	0	79	79	1.3	39	1	1
-26	泡泡鱼	paopao	paopao_move_	paopao_catch_	paopao_hit_	50	0	104	104	1.1	52	1	1
-27	黄金鲨	goldsharp	goldsharp_move_		goldsharp_hit_	60	0	500	185	1.54	68	7	1,0.8,0.8,0.7,0.7,0.7,0.5
-28	娜迦之王	najia	najia_move_		najia_hit_	40	0	715	210	1.33	48	9	1,1,1,1,1,0.9,1,0.9,1
-29	鹦鹉鱼	yingwuyu	yingwuyu_move_		yingwuyu_hit_	120	6	88	52	1.3	44.2	1	1
-30	大飞鱼	feiyu	feiyu_move_		feiyu_hit_	160	10	176	120	1.625	84.5	1	1
-31	海星	haixing	haixing_move_		haixing_hit_	40	20	85	86	1.3	42.9	1	1
-32	海兔	haitu	haitu_move_		haitu_hit_	70	60	154	78	1.3	32.5	3	1,1,1
-33	翻车鱼	fancheyu	fancheyu_move_		fancheyu_hit_	80	80	115	115	1.625	39	3	1,1,1
-34	盔甲鱼	kuijiayu	kuijiayu_move_		kuijiayu_hit_	100	100	228	107	1.71	43	3	1,1.1,0.9
-35	锤头鲨	chutousha	chutousha_move_		chutousha_hit_	80	150	451	198	1.615	93	5	1,1,0.9,1,0.6
-36	海象	haixiang	haixiang_move_		haixiang_hit_	100	150	272	173	1.615	80	3	0.85,0.60,0.60
-37	鲎鱼	houyu	houyu_move_		houyu_hit_	80	180	210	190	1.615	86	3	1
-38	海龙	hailong	hailong_move_		hailong_hit_	40	0	910	210	1.43	104	9	1,1,0.8,1,0.8,0.9,0.8,0.9,0.8
-39	魔法卡牌	cardPaopao	paopao_move_	paopao_catch_	paopao_hit_	50	0	104	104	1.3	52	1	1
-40	宝箱鱼	treasureChestFish	treachest_move_	paopao_catch_	paopao_hit_	50	0	116	116	1.3	58	1	1
-41	金蝉	jinchan	jinchan_move_		jinchan_hit_	60	0	500	200	1.33	100	3	1,1.1,1.1
-42	独角兽	dujiaoshou	dujiaoshou_move_		dujiaoshou_hit_	0	0	305	242	0.9	68	3	1,1.2,1
-43	大章鱼	dazhangyu	dazhangyu_move_		dazhangyu_hit_	0	0	631	210	1.66	149	3	1,0.9,0.9
-44	小金龙	xiaojinlong	xiaojinlong_move_		xiaojinlong_hit_	0	0	639	210	1.33	100	9	1,1,0.8,1,0.5,0.01,0.5,0.01,0.5
-45	年兽	nianshou	nianshou_move_		nianshou_hit_	0	0	410	210	1.33	160	3	1,0.65,0.65
-46	鲸鲨	qiongsha	qiongsha_move_		qiongsha_hit_	0	800	489	227	1.425	53	5	1,1.2,1,1,1,1
-47	咸水鳄	xianshuie	xianshuie_move_		xianshuie_hit_	0	400	373	207	1.0625	59	5	1,1,1,0.8,0.8
-48	锯齿鲨	juchisha	juchisha_move_		juchisha_hit_	0	200	337	193	1.2325	60	5	1,1,1,0.9,0.8
-49	海蛇	haishe	haishe_move_		haishe_hit_	0	200	310	122	0.95	30	7	1,1,1,1,1,1.1,1
-50	白鲸	baijing	baijing_move_		baijing_hit_	0	300	347	150	1.35	72	3	1,1,1
-51	斑点鱼	bandianyu	bandianyu_move_		bandianyu_hit_	0	20	80	71	0.75	31	1	1
-52	海蚌	haibeng	haibeng_move_		haibeng_hit_	0	150	96	96	0.8	31	1	1
-53	海胆	haidan	haidan_move_		haidan_hit_	0	30	100	100	0	45	1	1
-54	寄居蟹	jijuxie	jijuxie_move_		jijuxie_hit_	0	50	91	76	0.8075	39	1	1
-55	龙虾	longxia	longxia_move_		longxia_hit_	0	60	117	136	0.855	41	1	1
-56	企鹅	qie	qie_move_		qie_hit_	0	80	142	94	0.95	32	3	1,0.93,0.93
-57	清道夫	qingdaofu	qingdaofu_move_		qingdaofu_hit_	0	30	90	53	1.05	42	1	1
-58	石头鱼	shitouyu	shitouyu_move_		shitouyu_hit_	0	60	98	91	0.76	34	1	1
-59	食人鱼	shirenyu	shirenyu_move_		shirenyu_hit_	0	50	95	72	1.15	46	1	1
-60	娃娃鱼	wawayu	wawayu_move_		wawayu_hit_	0	300	165	108	1.1	33	3	1,1,1
-61	鹦鹉螺	yingwuluo	yingwuluo_move_		yingwuluo_hit_	0	40	96	83	0.855	43	1	1
-62	加倍卡	multiCard	paopao_move_	paopao_catch_	paopao_hit_	50	0	104	104	1.3	45	1	1
-#													
+id	中文名称	游戏内名称	游动动画	死亡动画	击中动画	游动速度	分值	宽度	高度	缩放系数	碰撞圆半径	碰撞圆数量	各个碰撞圆半径倍数	挂点
+0	小黄鱼	xiaohuangyu	xiaohuangyu_move_			200	2	55	28	1.3	27.3	1	1	
+1	小飞鱼	xiaofeiyu	xiaofeiyu_move_			250	3	64	42	1.3	32.5	1	1	
+2	小丑鱼	xiaochouyu	xiaochouyu_move_			150	8	86	50	1.3	44.2	1	1	
+3	电鳗	dianman	dianman_move_			140	50	176	90	2	39	3	1,1.3,1	35,0
+4	鲽鱼	dieyu	dieyu_move_			150	4	71	60	1.3	35.1	1	1	
+5	水母	shuimu	shuimu_move_			90	20	110	71	1.3	27.3	3	1,1.3,1.1	
+6	海龟	haigui	haigui_move_		haigui_apecial_	80	40	164	130	1.8	60	1	1	
+7	海豚	haitun	haitun_move_			200	120	289	136	1.9	51	4	1,1,1,0.7	40,3
+8	鲨鱼	shayu	shayu_move_			100	100	411	151	1.71	58	5	1,1,1,1,1	65,5
+9	大鲨鱼	juxingshayu	juxingshayu_move_			80	500	388	192	1.7	55	6	1.5,1,1,0.8,0.8,0.6	70,-13
+10	虎鲸	hujing	hujing_move_		hujing_hit_	100	150	322	146	1.5	44.21052632	4	1,1,1,0.8	35,-3
+11	蓝宝石	lanbaoshiyu	lanbaoshiyu_move_			120	30	118	46	1.3	32.5	3	1,1,1	
+12	刺豚	citun	citun_move_		citun_apecial_	150	10	124	80	1.3	58.5	1	1	20,0
+13	章鱼	zhangyu	zhangyu_move_			100	30	136	124	1.3	58.5	1	1	
+14	神仙鱼	shenxianyu	shenxianyu_move_			180	5	71	50	1.3	35.1	1	1	
+15	海马	haima	haima_move_			100	20	86	73	0.8	26.4	1	1	
+16	鲷鱼	diaoyu	diaoyu_move_			120	30	118	60	1.3	32.5	3	1,1,1	
+17	比目鱼	bimuyu	bimuyu_move_			100	40	144	110	2	71.5	1	1	
+18	孔雀鱼	kongqueyu	kongqueyu_move_			120	60	118	65	1.3	58.5	1	1	24,8
+19	灯笼鱼	denglongyu	denglongyu_move_			100	60	167	93	2	60	1	1	
+20	旗鱼	qiyu	qiyu_move_			150	80	218	78	1.625	35.1	5	1,1,1,1,1	
+21	魔鬼鱼	moguiyu	moguiyu_move_			100	80	204	185	1.9	49	3	1,1.5,1	30,0
+22	狮子鱼	shiziyu	shiziyu_move_			100	80	156	128	1.235	78	1	1	15,-12
+23	美人鱼	meirenyu	meirenyu_move_		meirenyu_hit_	100	180	378	148	1.6435	54	6	1,1,1,1,1,1	60,-13
+24	座头鲸	zuotoujing	zuotoujing_move_			60	500	840	395	0.95	148	5	1,1,1,0.7,1	
+25	水雷	shuilei	shuilei_move_	shuilei_catch_		40	0	79	79	1.3	39	1	1	
+26	泡泡鱼	paopao	paopao_move_	paopao_catch_	paopao_hit_	50	0	104	104	1.1	52	1	1	
+27	黄金鲨	goldsharp	goldsharp_move_		goldsharp_hit_	60	0	500	185	1.54	68	7	1,0.8,0.8,0.7,0.7,0.7,0.5	
+28	娜迦之王	najia	najia_move_		najia_hit_	40	0	715	210	1.33	48	9	1,1,1,1,1,0.9,1,0.9,1	
+29	鹦鹉鱼	yingwuyu	yingwuyu_move_		yingwuyu_hit_	120	6	88	52	1.3	44.2	1	1	
+30	大飞鱼	feiyu	feiyu_move_		feiyu_hit_	160	10	176	120	1.625	84.5	1	1	
+31	海星	haixing	haixing_move_		haixing_hit_	40	20	85	86	1.3	42.9	1	1	
+32	海兔	haitu	haitu_move_		haitu_hit_	70	60	154	78	1.3	32.5	3	1,1,1	
+33	翻车鱼	fancheyu	fancheyu_move_		fancheyu_hit_	80	80	115	115	1.625	39	3	1,1,1	
+34	盔甲鱼	kuijiayu	kuijiayu_move_		kuijiayu_hit_	100	100	228	107	1.71	43	3	1,1.1,0.9	
+35	锤头鲨	chuitousha	chuitousha_move_		chuitousha_hit_	80	150	451	198	1.3	74.86068111	5	1,1,0.9,1,0.6	
+36	海象	haixiang	haixiang_move_		haixiang_hit_	100	150	272	173	1.615	80	3	0.85,0.60,0.60	
+37	鲎鱼	houyu	houyu_move_		houyu_hit_	80	180	210	190	1.615	86	3	1	
+38	海龙	hailong	hailong_move_		hailong_hit_	40	0	910	210	1.43	104	9	1,1,0.8,1,0.8,0.9,0.8,0.9,0.8	
+39	魔法卡牌	cardPaopao	paopao_move_	paopao_catch_	paopao_hit_	50	0	104	104	1.3	52	1	1	
+40	宝箱鱼	treasureChestFish	treachest_move_	paopao_catch_	paopao_hit_	50	0	116	116	1.3	58	1	1	
+41	金蟾	jinchan	jinchan_move_		jinchan_hit_	60	0	500	200	1.33	100	3	1,1.1,1.1	
+42	独角兽	dujiaoshou	dujiaoshou_move_		dujiaoshou_hit_	0	0	305	242	1.1	83.11111111	3	1,1.2,1	
+43	大章鱼	dazhangyu	dazhangyu_move_		dazhangyu_hit_	0	0	631	210	1.66	149	3	1,0.9,0.9	
+44	小金龙	xiaojinlong	xiaojinlong_move_		xiaojinlong_hit_	0	0	639	210	1.33	100	9	1,1,0.8,1,0.5,0.01,0.5,0.01,0.5	
+45	年兽	nianshou	nianshou_move_		nianshou_hit_	0	0	410	210	1.33	160	3	1,0.65,0.65	
+46	鲸鲨	qiongsha	qiongsha_move_		qiongsha_hit_	0	800	489	227	1.425	53	5	1,1.2,1,1,1,1	100,0
+47	咸水鳄	xianshuie	xianshuie_move_		xianshuie_hit_	0	400	373	207	1.0625	59	5	1,1,1,0.8,0.8	65,0
+48	锯齿鲨	juchisha	juchisha_move_		juchisha_hit_	0	200	337	193	1.2325	60	5	1,1,1,0.9,0.8	45,0
+49	海蛇	haishe	haishe_move_		haishe_hit_	0	200	310	122	0.95	30	7	1,1,1,1,1,1.1,1	
+50	白鲸	baijing	baijing_move_		baijing_hit_	0	300	347	150	1.35	72	3	1,1,1	55,0
+51	斑点鱼	bandianyu	bandianyu_move_		bandianyu_hit_	0	20	80	71	0.75	31	1	1	
+52	海蚌	haibeng	haibeng_move_		haibeng_hit_	0	150	96	96	0.8	31	1	1	
+53	海胆	haidan	haidan_move_		haidan_hit_	0	30	100	100	0	45	1	1	
+54	寄居蟹	jijuxie	jijuxie_move_		jijuxie_hit_	0	50	91	76	0.8075	39	1	1	
+55	龙虾	longxia	longxia_move_		longxia_hit_	0	60	117	136	0.855	41	1	1	0,-20
+56	企鹅	qie	qie_move_		qie_hit_	0	80	142	94	0.95	32	3	1,0.93,0.93	
+57	清道夫	qingdaofu	qingdaofu_move_		qingdaofu_hit_	0	30	90	53	1.05	42	1	1	
+58	石头鱼	shitouyu	shitouyu_move_		shitouyu_hit_	0	60	98	91	0.76	34	1	1	
+59	食人鱼	shirenyu	shirenyu_move_		shirenyu_hit_	0	50	95	72	1.15	46	1	1	
+60	娃娃鱼	wawayu	wawayu_move_		wawayu_hit_	0	300	165	108	1.1	33	3	1,1,1	
+61	鹦鹉螺	yingwuluo	yingwuluo_move_		yingwuluo_hit_	0	40	96	83	0.855	43	1	1	
+62	加倍卡	multiCard	paopao_move_	paopao_catch_	paopao_hit_	50	0	104	104	1.3	45	1	1	
+63	电鳗2	dianman2	dianman2_move_		dianman2_hit_	60	10	210	84	1	30	6	0.88,0.91,0.88,0.85,0.9,0.77	
+64	乌贼	wuzei	wuzei_move_		wuzei_hit_	80	10	170	100	1	30	4	0.67,0.81,0.95,0.83	
+65	蛇颈龙	shejinglong	shejinglong_move_		shejinglong_hit_	60	10	406	282	1	30	3	1.77,2.57,2.62	
+66	kiss鱼	kissyu	kissyu_move_		kissyu_hit_	150	10	120	90	1	30	3	0.68,0.89,0.79	
+67	苍龙	canglong	canglong_move_		canglong_hit_	70	10	326	130	1.2	36	5	1.36,1.41,1.21,1.37,1.03	
+68	邓氏鱼	dengshiyu	dengshiyu_move_		dengshiyu_hit_	70	10	256	192	1	30	5	1.17,1.33,1.15,1.38,1.12	
+69	海豹	haibao	haibao_move_		haibao_hit_	120	10	160	120	0.8	24	3	1.27,1.16,1.19	
+70	河马	hema	hema_move_		hema_hit_	60	10	256	170	1.3	39	3	1.51,1.51,1.52	
+71	锦鲤	jinli	jinli_move_		jinli_hit_	150	10	116	86	1	30	3	0.7,0.73,0.69	
+72	巨骨蛇鱼	jugusheyu	jugusheyu_move_		jugusheyu_hit_	70	10	250	116	1	30	6	0.88,0.91,0.88,0.85,1.2,0.91	
+73	六角蝾螈	rongyuan	rongyuan_move_		rongyuan_hit_	80	10	188	140	1	30	3	1.06,1.36,1.09	
+74	鲶鱼	nianyu	nianyu_move_		nianyu_hit_	100	10	134	100	1	30	3	0.88,1.02,0.88	
+#														

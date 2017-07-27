@@ -55,6 +55,7 @@ public class FishMenu
 			string extention = Path.GetExtension(files[i]);
 			if(extention != ".png") continue;
 			string filename = Path.GetFileNameWithoutExtension(files[i]);
+            if (filename.Contains("Prefab_Fish")) continue;
 			AssetDatabase.RenameAsset(files[i],"Prefab_Fish_" + filename.Split('_')[0]);
 		}
 	}
