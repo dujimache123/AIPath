@@ -14,6 +14,7 @@ public class Fish : MonoBehaviour {
 	float mLastFrameLifeTime;
 	int mCurAiStep,mLastAiStep;
 	float mCurSpeed;
+    float mBaseSpeed;
 	float mCurRotation;
 	FishStatus mStatus;
 	FishPath mFishPath;
@@ -52,6 +53,12 @@ public class Fish : MonoBehaviour {
 		get{return mFishWidth;}
 		set{mFishWidth = value;}
 	}
+
+    public float BaseSpeed
+    {
+        get { return this.mBaseSpeed; }
+        set { this.mBaseSpeed = value; }
+    }
 
 	// Use this for initialization
 	void Start () {
@@ -140,7 +147,7 @@ public class Fish : MonoBehaviour {
 
 	void updateFishPositionAndRotation(int aiStep,float dt)
 	{
-        float lastSpeed = this.mFishPath.baseSpeed;
+        float lastSpeed = this.mBaseSpeed;
 		float angleFactor = 0;
 		float speedFactor = 0;
 		if(this.mFishPath == null) return;
@@ -160,7 +167,7 @@ public class Fish : MonoBehaviour {
 			else
 				angleFactor = (float)curRecord.rotateFactor;
 
-			this.mCurSpeed = (float)curRecord.speedFactor * this.mFishPath.baseSpeed;
+            this.mCurSpeed = (float)curRecord.speedFactor * this.mBaseSpeed;
             this.mCurRotation = this.mCurRotation + angleFactor * dt;
 		}
 

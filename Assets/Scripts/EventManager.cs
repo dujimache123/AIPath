@@ -37,7 +37,7 @@ public class EventManager
 
 				fishComponent.Rotation = seasoninfo.mAngle;
 				fishComponent.AiPath = AiPathManager.getInstance().getPath(seasoninfo.mAiId);
-                fishComponent.AiPath.baseSpeed = seasoninfo.mSpeed;
+                fishComponent.BaseSpeed = seasoninfo.mSpeed;
 				fishComponent.FishWidth = record.width;
 
 				float fDelay = 0.0f;
