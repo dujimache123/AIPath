@@ -19,6 +19,15 @@ public class EventManager
 	public void onEventFishSeason(int seasonIndex)
 	{
 		GameObject sourcePoint = GameObject.Find("Anchor_BottomLeft");
+        Transform objBottomLeft = sourcePoint.transform;
+        int childCnt = objBottomLeft.childCount;
+        for (int i = 0; i < childCnt; )
+        {
+            Transform child = objBottomLeft.GetChild(i);
+            GameObject.DestroyImmediate(child.gameObject);
+            childCnt = objBottomLeft.childCount;
+        }
+
 		OneFishSeason season = FishConfigManager.getInstance().getOneSeason(seasonIndex);
 		TableFish fishtable = (TableFish)GameTableManager.getInstance().GetTable("table_fish");
 		foreach(FishSeasonInfo seasoninfo in season.seasonInfoList)
