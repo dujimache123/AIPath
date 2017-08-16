@@ -77,7 +77,10 @@ public class Fish : MonoBehaviour {
 
         PathRender pathRender = this.GetComponent<PathRender>();
         if (pathRender)
+        {
             mFishPath = pathRender.FishPathData;
+            mBaseSpeed = mFishPath.baseSpeed;
+        }
 	}
 	
 	// Update is called once per frame

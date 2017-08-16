@@ -49,7 +49,7 @@ public class PathRender : MonoBehaviour {
                         Gizmos.color = mFishPath.lineColor;
                     if (mFishPath.SelectedLineIndex == pathPointList[i].controlIndex)
                         Gizmos.color = Color.red;
-                    Gizmos.DrawLine(pathPointList[i].position * 0.002777778f, pathPointList[i + 1].position * 0.002777778f);
+                    Gizmos.DrawLine(pathPointList[i].position* 0.002777778f, pathPointList[i + 1].position * 0.002777778f);
                 }
                 catch
                 {

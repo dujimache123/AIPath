@@ -251,6 +251,17 @@ public class FishPath : ScriptableObject
 			}
 		}
 
+        if (trans)
+        {
+            Vector2 vec2Pos = new Vector2(trans.localPosition.x, trans.localPosition.y);
+            foreach (FinePoint p in mFinePointsList)
+            {
+                p.position.x = p.position.x - 640;
+                p.position.y = p.position.y - 360;
+            }
+        }
+        
+
         //string resultFile = Application.dataPath + "/FishPath/Resources/PathConfig/test.txt";
         //FileStream fs1 = new FileStream(resultFile, FileMode.Create, FileAccess.Write);
         //StreamWriter sw = new StreamWriter(fs1);
