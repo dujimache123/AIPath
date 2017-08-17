@@ -251,15 +251,12 @@ public class FishPath : ScriptableObject
 			}
 		}
 
-        if (trans)
+        foreach (FinePoint p in mFinePointsList)
         {
-            Vector2 vec2Pos = new Vector2(trans.localPosition.x, trans.localPosition.y);
-            foreach (FinePoint p in mFinePointsList)
-            {
-                p.position.x = p.position.x - 640;
-                p.position.y = p.position.y - 360;
-            }
+            p.position.x = p.position.x - 640;
+            p.position.y = p.position.y - 360;
         }
+
         
 
         //string resultFile = Application.dataPath + "/FishPath/Resources/PathConfig/test.txt";
