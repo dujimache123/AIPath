@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEditor;
 using System.Collections;
 
 public class EventManager
@@ -16,8 +17,13 @@ public class EventManager
 		return mInstance;
 	}
 
-	public void onEventFishSeason(int seasonIndex)
+	public void onEventFishSeason(int seasonIndex, bool modifyFlag = false)
 	{
+        if (modifyFlag)
+        {
+            this.onModifyOneSeason(seasonIndex);
+            return;
+        }
 		GameObject sourcePoint = GameObject.Find("Anchor_BottomLeft");
         Transform objBottomLeft = sourcePoint.transform;
         int childCnt = objBottomLeft.childCount;
@@ -38,7 +44,7 @@ public class EventManager
 				if(record == null) continue;
 				float fFishLength = record.width;
 				//Debug.Log(record.name);
-				GameObject fishObj = (GameObject)GameObject.Instantiate(Resources.Load("FishPrefabs/Prefab_Fish_"+record.name));
+				GameObject fishObj = (GameObject)GameObject.Instantiate(Resources.Load("FishPrefabs/Prefab_Fish_" + record.name));
 				fishObj.transform.parent = sourcePoint.transform;
 				fishObj.transform.localScale = Vector3.one * record.scaleFactor;
 				//fishObj.transform.localPosition = new Vector3(singlefish.mFishPos.x + seasoninfo.mCenterPoint.x-1200,singlefish.mFishPos.y + seasoninfo.mCenterPoint.y,0);
@@ -92,4 +98,75 @@ public class EventManager
 			}
 		}
 	}
+
+    public void onModifyOneSeason(int seasonIndex)
+    {
+        GameObject seasonRoot = GameObject.FindWithTag("SeasonRoot");
+        Transform objRoot = seasonRoot.transform;
+        int childCnt = objRoot.childCount;
+        for (int i = 0; i < childCnt; )
+        {
+            Transform child = objRoot.GetChild(i);
+            GameObject.DestroyImmediate(child.gameObject);
+            childCnt = objRoot.childCount;
+        }
+
+        OneFishSeason season = FishConfigManager.getInstance().getOneSeason(seasonIndex);
+        TableFish fishtable = (TableFish)GameTableManager.getInstance().GetTable("table_fish");
+
+        GameObject oneSeasonObj = new GameObject();
+        oneSeasonObj.transform.parent = objRoot;
+        oneSeasonObj.AddComponent<OneSeasonComponent>();
+        oneSeasonObj.name = "OneSeason";
+        oneSeasonObj.transform.localScale = Vector3.one;
+        oneSeasonObj.transform.localPosition = Vector3.zero;
+
+        foreach (FishSeasonInfo seasoninfo in season.seasonInfoList)
+        {
+            GameObject seasonInfoObj = new GameObject();
+            seasonInfoObj.transform.parent = oneSeasonObj.transform;
+            seasonInfoObj.name = "OneSeasonInfo";
+            seasonInfoObj.transform.localScale = Vector3.one;
+            
+            FishSeasonInfoComponent seasonInfoCom = seasonInfoObj.AddComponent<FishSeasonInfoComponent>();
+            seasonInfoCom.centerPoint.Set(seasoninfo.mCenterPoint.x, seasoninfo.mCenterPoint.y);
+            seasonInfoCom.speed = seasoninfo.mSpeed;
+            seasonInfoCom.aiId = seasoninfo.mAiId;
+            seasonInfoCom.angle = seasoninfo.mAngle;
+
+            seasonInfoCom.transform.localPosition = new Vector3(seasoninfo.mCenterPoint.x, -(seasoninfo.mCenterPoint.y), 0);
+
+            foreach (SingleFishOfSeason singlefish in seasoninfo.fishList)
+            {
+                TableFish.FishRecord record = fishtable.getRecordByFishKindId(singlefish.mFishKindId);
+                if (record == null) continue;
+                float fFishLength = record.width;
+
+                GameObject fishObj = (GameObject)GameObject.Instantiate(Resources.Load("FishPrefabs/Prefab_Fish_" + record.name));
+                fishObj.name = "Prefab_Fish_" + record.name;
+                fishObj.transform.parent = seasonInfoObj.transform;
+                fishObj.transform.localScale = Vector3.one * record.scaleFactor;
+                fishObj.transform.localPosition = new Vector3(singlefish.mFishPos.x, singlefish.mFishPos.y, 0);
+
+                if (seasoninfo.mCenterPoint.x <= 0)
+                {
+                    fishObj.transform.localPosition = new Vector3(-singlefish.mFishPos.x, singlefish.mFishPos.y, 0);
+                }
+                else if (seasoninfo.mCenterPoint.x >= 1280)
+                {
+                    fishObj.transform.localPosition = new Vector3(singlefish.mFishPos.x, singlefish.mFishPos.y, 0);
+                }
+                else if (seasoninfo.mCenterPoint.y <= 0)
+                {
+                    fishObj.transform.localPosition = new Vector3(singlefish.mFishPos.x, -singlefish.mFishPos.y, 0);
+                }
+                else if (seasoninfo.mCenterPoint.y >= 720)
+                {
+                    fishObj.transform.localPosition = new Vector3(singlefish.mFishPos.x, singlefish.mFishPos.y, 0);
+                }
+            }
+
+            UnityEditor.EditorApplication.MarkSceneDirty();
+        }
+    }
 }

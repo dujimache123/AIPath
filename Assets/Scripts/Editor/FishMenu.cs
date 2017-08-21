@@ -23,6 +23,12 @@ public class FishMenu
         EditorWindow.GetWindow<SeasonViewerWindow>(false, "Season Viewer", true).Show();
     }
 
+    [MenuItem("Fish/Open/Fish Season Modifier")]
+    static void OpenFishSeasonModifier()
+    {
+        EditorWindow.GetWindow<SeasonModifierWindow>(false, "Season Modifier", true).Show();
+    }
+
 	[MenuItem ("Fish/Open/Fish Prefab Toolbar")]
 	static void OpenFishPrefabToolbar ()
 	{
